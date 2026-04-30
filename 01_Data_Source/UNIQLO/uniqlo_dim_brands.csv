@@ -1,0 +1,7 @@
+company_id;brand_id;brand_name;parent_company;hq_country;transparency_score
+F_1;FR01;UNIQLO;Fast Retailing Co., Ltd.;Japan;56
+F_2;FR02;GU;Fast Retailing Co., Ltd.;Japan;50
+F_3;FR03;Theory;Fast Retailing Co., Ltd.;USA;45
+F_4;FR04;PLST;Fast Retailing Co., Ltd.;Japan;40
+F_5;FR05;Comptoir des Cotonniers;Fast Retailing Co., Ltd.;France;42
+F_6;FR06;Princesse tam.tam;Fast Retailing Co., Ltd.;France;42

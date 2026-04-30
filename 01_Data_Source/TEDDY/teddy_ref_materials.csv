@@ -1,0 +1,7 @@
+material_id,material_name,co2_kg_per_kg,water_liters_per_kg,microplastic_shedding_rank
+T_MAT_1,Cotone Basic,5.5,2500,1
+T_MAT_2,Poliestere Standard,7.8,55,5
+T_MAT_3,Viscosa (Rayon),5.0,2800,2
+T_MAT_4,Acrilico (Maglieria),9.2,75,4
+T_MAT_5,Misto Lana,11.5,400,1
+T_MAT_6,Ecopelle (PU),6.8,90,3

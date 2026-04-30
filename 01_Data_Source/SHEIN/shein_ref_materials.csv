@@ -1,0 +1,7 @@
+material_id,material_name,co2_kg_per_kg,water_liters_per_kg,microplastic_shedding_rank
+S_MAT_1,Poliestere Vergine,9.5,50,5
+S_MAT_2,Acrilico,11.2,80,5
+S_MAT_3,Nylon,8.8,150,4
+S_MAT_4,Spandex (Elastan),10.0,120,3
+S_MAT_5,PU (Ecopelle),7.5,100,2
+S_MAT_6,Cotone Misto,6.0,1500,2

@@ -1,0 +1,7 @@
+material_id,material_name,co2_kg_per_kg,water_liters_per_kg,microplastic_shedding_rank
+SP_MAT_1,Acrilico Economico,10.5,70,5
+SP_MAT_2,Poliestere High-Performance,7.0,60,4
+SP_MAT_3,Cotone Supima,4.8,1800,1
+SP_MAT_4,Nylon Riciclato,3.5,120,3
+SP_MAT_5,Denim Misto Elastan,6.2,2500,2
+SP_MAT_6,Lana Merino,12.0,450,1

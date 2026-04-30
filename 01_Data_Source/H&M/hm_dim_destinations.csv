@@ -1,0 +1,4 @@
+destination_id,destination_type,country_code,city,latitude,longitude
+DST_HM_001,Hub Centrale,SE,Stockholm (Hub),59.32,18.06
+DST_HM_002,Magazzino Regionale,DE,Hamburg (Logistics),53.55,9.99
+DST_HM_003,Negozio Fisico,US,New York (Store),40.71,-74.0

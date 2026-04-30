@@ -1,0 +1,8 @@
+company_id;brand_id;brand_name;parent_company;hq_country;transparency_score
+C_1;SHN01;SHEIN;Shein Group;Singapore;11
+C_2;SHN02;ROMWE;Shein Group;Singapore;8
+C_3;SHN03;MOTF;Shein Group;Singapore;10
+C_4;SHN04;DAZY;Shein Group;Singapore;9
+C_5;SHN05;Missguided;Shein Group;Singapore;15
+C_6;SHN06;GLOWMODE;Shein Group;Singapore;7
+C_7;SHN07;CUCCOO;Shein Group;Singapore;6

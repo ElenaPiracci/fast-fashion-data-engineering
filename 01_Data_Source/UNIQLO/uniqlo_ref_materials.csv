@@ -1,0 +1,7 @@
+material_id,material_name,co2_kg_per_kg,water_liters_per_kg,microplastic_shedding_rank
+FR_MAT_1,HEATTECH (Misto Acrilico/Rayon),8.5,120,4
+FR_MAT_2,AIRism (Cupro/Poliestere),7.2,100,3
+FR_MAT_3,Cotone Supima,4.5,1500,1
+FR_MAT_4,Cashmere 3D Knit,15.0,400,1
+FR_MAT_5,Ultra Light Down (Nylon/Piuma),6.8,80,2
+FR_MAT_6,Lana Merino Extra Fine,11.5,300,1

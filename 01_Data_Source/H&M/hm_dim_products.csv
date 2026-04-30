@@ -1,0 +1,1001 @@
+product_id,brand_id,category,collection_cycle,main_material,weight_grams
+PRD_0000,HM08,Activewear,Fast_Track,Cotone Convenzionale,192
+PRD_0001,HM06,Dresses,Fast_Track,Poliestere Riciclato,263
+PRD_0002,HM08,Activewear,Seasonal,Poliestere Riciclato,298
+PRD_0003,HM05,Denim,Seasonal,Cotone Convenzionale,793
+PRD_0004,HM03,Dresses,Seasonal,Poliestere Riciclato,350
+PRD_0005,HM08,Knitwear,Seasonal,Cotone Convenzionale,307
+PRD_0006,HM02,Denim,Core_Basics,Lyocell (TENCEL),824
+PRD_0007,HM04,Outerwear,Seasonal,Cotone Organico,917
+PRD_0008,HM03,Knitwear,Core_Basics,Poliestere Riciclato,366
+PRD_0009,HM06,Activewear,Seasonal,Cotone Organico,177
+PRD_0010,HM06,Knitwear,Fast_Track,Cotone Organico,379
+PRD_0011,HM07,Activewear,Core_Basics,Cotone Convenzionale,284
+PRD_0012,HM07,Outerwear,Core_Basics,Cotone Organico,1290
+PRD_0013,HM05,Outerwear,Core_Basics,Poliestere Riciclato,1169
+PRD_0014,HM05,Dresses,Fast_Track,Cotone Convenzionale,432
+PRD_0015,HM04,Knitwear,Fast_Track,Cotone Convenzionale,333
+PRD_0016,HM08,Activewear,Core_Basics,Cotone Convenzionale,165
+PRD_0017,HM01,Activewear,Core_Basics,Poliestere Riciclato,171
+PRD_0018,HM01,Underwear,Fast_Track,Lana Riciclata,142
+PRD_0019,HM01,Denim,Core_Basics,Poliestere Riciclato,893
+PRD_0020,HM02,Knitwear,Seasonal,Poliestere Riciclato,407
+PRD_0021,HM06,Denim,Fast_Track,Poliestere Riciclato,827
+PRD_0022,HM04,Underwear,Seasonal,Poliestere Riciclato,64
+PRD_0023,HM08,Activewear,Fast_Track,Lyocell (TENCEL),300
+PRD_0024,HM05,Underwear,Core_Basics,Poliestere Riciclato,57
+PRD_0025,HM06,Outerwear,Seasonal,Cotone Organico,1279
+PRD_0026,HM03,Outerwear,Fast_Track,Elastan,1344
+PRD_0027,HM05,Knitwear,Core_Basics,Elastan,364
+PRD_0028,HM01,Outerwear,Seasonal,Lyocell (TENCEL),881
+PRD_0029,HM07,Knitwear,Fast_Track,Cotone Organico,402
+PRD_0030,HM05,Activewear,Fast_Track,Lyocell (TENCEL),160
+PRD_0031,HM03,Denim,Seasonal,Elastan,730
+PRD_0032,HM03,Outerwear,Fast_Track,Poliestere Riciclato,906
+PRD_0033,HM01,Dresses,Seasonal,Elastan,377
+PRD_0034,HM03,Knitwear,Fast_Track,Lana Riciclata,352
+PRD_0035,HM04,Outerwear,Seasonal,Cotone Organico,1454
+PRD_0036,HM01,Knitwear,Fast_Track,Lana Riciclata,459
+PRD_0037,HM06,Underwear,Seasonal,Elastan,78
+PRD_0038,HM05,Underwear,Core_Basics,Lana Riciclata,59
+PRD_0039,HM03,Dresses,Core_Basics,Elastan,441
+PRD_0040,HM01,Underwear,Seasonal,Elastan,77
+PRD_0041,HM03,Knitwear,Core_Basics,Cotone Organico,496
+PRD_0042,HM04,Outerwear,Fast_Track,Cotone Convenzionale,850
+PRD_0043,HM02,Knitwear,Seasonal,Lana Riciclata,302
+PRD_0044,HM03,Underwear,Seasonal,Cotone Convenzionale,132
+PRD_0045,HM08,Dresses,Seasonal,Elastan,441
+PRD_0046,HM01,Dresses,Core_Basics,Cotone Convenzionale,411
+PRD_0047,HM02,Denim,Seasonal,Cotone Organico,798
+PRD_0048,HM07,Outerwear,Seasonal,Poliestere Riciclato,911
+PRD_0049,HM04,Activewear,Core_Basics,Lana Riciclata,348
+PRD_0050,HM07,Denim,Fast_Track,Lana Riciclata,794
+PRD_0051,HM07,Denim,Seasonal,Poliestere Riciclato,852
+PRD_0052,HM06,Outerwear,Seasonal,Cotone Organico,1041
+PRD_0053,HM05,Denim,Fast_Track,Cotone Convenzionale,727
+PRD_0054,HM05,Activewear,Core_Basics,Lyocell (TENCEL),332
+PRD_0055,HM07,Denim,Core_Basics,Lana Riciclata,816
+PRD_0056,HM06,Knitwear,Seasonal,Elastan,465
+PRD_0057,HM02,Outerwear,Fast_Track,Cotone Organico,979
+PRD_0058,HM07,Dresses,Core_Basics,Cotone Organico,418
+PRD_0059,HM02,Dresses,Seasonal,Elastan,478
+PRD_0060,HM08,Underwear,Fast_Track,Lana Riciclata,131
+PRD_0061,HM05,Activewear,Seasonal,Lana Riciclata,307
+PRD_0062,HM08,Activewear,Seasonal,Lana Riciclata,254
+PRD_0063,HM05,Denim,Fast_Track,Lyocell (TENCEL),700
+PRD_0064,HM07,Outerwear,Seasonal,Lana Riciclata,837
+PRD_0065,HM05,Dresses,Core_Basics,Poliestere Riciclato,432
+PRD_0066,HM06,Knitwear,Seasonal,Cotone Organico,353
+PRD_0067,HM02,Knitwear,Seasonal,Cotone Organico,388
+PRD_0068,HM07,Knitwear,Seasonal,Elastan,393
+PRD_0069,HM04,Activewear,Seasonal,Poliestere Riciclato,204
+PRD_0070,HM06,Activewear,Fast_Track,Elastan,199
+PRD_0071,HM01,Outerwear,Core_Basics,Poliestere Riciclato,973
+PRD_0072,HM08,Outerwear,Core_Basics,Poliestere Riciclato,1343
+PRD_0073,HM03,Underwear,Fast_Track,Cotone Organico,133
+PRD_0074,HM02,Activewear,Seasonal,Lyocell (TENCEL),153
+PRD_0075,HM01,Denim,Seasonal,Lana Riciclata,855
+PRD_0076,HM02,Knitwear,Seasonal,Lana Riciclata,272
+PRD_0077,HM03,Knitwear,Core_Basics,Cotone Organico,268
+PRD_0078,HM07,Dresses,Fast_Track,Poliestere Riciclato,452
+PRD_0079,HM08,Dresses,Core_Basics,Lyocell (TENCEL),471
+PRD_0080,HM01,Dresses,Core_Basics,Cotone Convenzionale,377
+PRD_0081,HM08,Outerwear,Fast_Track,Lana Riciclata,1481
+PRD_0082,HM04,Knitwear,Fast_Track,Poliestere Riciclato,466
+PRD_0083,HM06,Activewear,Fast_Track,Lana Riciclata,253
+PRD_0084,HM04,Outerwear,Core_Basics,Lana Riciclata,1182
+PRD_0085,HM03,Underwear,Seasonal,Cotone Organico,71
+PRD_0086,HM02,Denim,Core_Basics,Poliestere Riciclato,796
+PRD_0087,HM05,Activewear,Fast_Track,Cotone Convenzionale,171
+PRD_0088,HM01,Knitwear,Seasonal,Poliestere Riciclato,454
+PRD_0089,HM02,Activewear,Fast_Track,Poliestere Riciclato,346
+PRD_0090,HM04,Dresses,Seasonal,Poliestere Riciclato,441
+PRD_0091,HM03,Activewear,Seasonal,Elastan,337
+PRD_0092,HM05,Denim,Fast_Track,Lana Riciclata,809
+PRD_0093,HM03,Outerwear,Fast_Track,Poliestere Riciclato,1202
+PRD_0094,HM08,Dresses,Seasonal,Elastan,323
+PRD_0095,HM06,Dresses,Core_Basics,Cotone Convenzionale,486
+PRD_0096,HM08,Outerwear,Core_Basics,Cotone Convenzionale,1071
+PRD_0097,HM04,Outerwear,Fast_Track,Cotone Organico,1182
+PRD_0098,HM01,Denim,Seasonal,Lana Riciclata,753
+PRD_0099,HM05,Knitwear,Core_Basics,Poliestere Riciclato,401
+PRD_0100,HM08,Denim,Seasonal,Elastan,850
+PRD_0101,HM01,Knitwear,Seasonal,Elastan,396
+PRD_0102,HM07,Dresses,Fast_Track,Cotone Convenzionale,276
+PRD_0103,HM04,Dresses,Seasonal,Poliestere Riciclato,344
+PRD_0104,HM01,Knitwear,Fast_Track,Cotone Organico,441
+PRD_0105,HM02,Underwear,Seasonal,Lyocell (TENCEL),83
+PRD_0106,HM02,Dresses,Fast_Track,Cotone Organico,421
+PRD_0107,HM07,Dresses,Core_Basics,Lyocell (TENCEL),276
+PRD_0108,HM07,Outerwear,Seasonal,Cotone Convenzionale,922
+PRD_0109,HM02,Dresses,Seasonal,Elastan,343
+PRD_0110,HM05,Activewear,Fast_Track,Lana Riciclata,284
+PRD_0111,HM08,Denim,Core_Basics,Cotone Organico,739
+PRD_0112,HM08,Underwear,Seasonal,Elastan,79
+PRD_0113,HM08,Outerwear,Fast_Track,Elastan,1327
+PRD_0114,HM06,Dresses,Seasonal,Lana Riciclata,312
+PRD_0115,HM08,Underwear,Seasonal,Cotone Convenzionale,100
+PRD_0116,HM02,Activewear,Seasonal,Poliestere Riciclato,198
+PRD_0117,HM04,Outerwear,Fast_Track,Lyocell (TENCEL),885
+PRD_0118,HM05,Activewear,Core_Basics,Lana Riciclata,198
+PRD_0119,HM04,Dresses,Core_Basics,Cotone Organico,276
+PRD_0120,HM07,Outerwear,Fast_Track,Poliestere Riciclato,926
+PRD_0121,HM08,Knitwear,Seasonal,Elastan,268
+PRD_0122,HM02,Underwear,Seasonal,Cotone Organico,126
+PRD_0123,HM04,Denim,Seasonal,Lana Riciclata,845
+PRD_0124,HM05,Dresses,Core_Basics,Lyocell (TENCEL),438
+PRD_0125,HM04,Dresses,Seasonal,Elastan,371
+PRD_0126,HM04,Activewear,Core_Basics,Cotone Organico,178
+PRD_0127,HM08,Knitwear,Fast_Track,Poliestere Riciclato,297
+PRD_0128,HM01,Activewear,Fast_Track,Cotone Convenzionale,212
+PRD_0129,HM08,Dresses,Fast_Track,Poliestere Riciclato,290
+PRD_0130,HM04,Dresses,Seasonal,Cotone Convenzionale,396
+PRD_0131,HM06,Knitwear,Seasonal,Lyocell (TENCEL),413
+PRD_0132,HM08,Outerwear,Fast_Track,Lyocell (TENCEL),963
+PRD_0133,HM07,Underwear,Seasonal,Lyocell (TENCEL),119
+PRD_0134,HM07,Dresses,Seasonal,Cotone Organico,414
+PRD_0135,HM06,Underwear,Core_Basics,Lyocell (TENCEL),147
+PRD_0136,HM06,Underwear,Seasonal,Cotone Convenzionale,50
+PRD_0137,HM01,Denim,Core_Basics,Cotone Organico,777
+PRD_0138,HM07,Denim,Core_Basics,Lyocell (TENCEL),710
+PRD_0139,HM02,Activewear,Fast_Track,Lyocell (TENCEL),175
+PRD_0140,HM01,Activewear,Fast_Track,Poliestere Riciclato,346
+PRD_0141,HM07,Knitwear,Fast_Track,Lyocell (TENCEL),480
+PRD_0142,HM02,Outerwear,Core_Basics,Cotone Organico,1294
+PRD_0143,HM07,Denim,Seasonal,Lyocell (TENCEL),740
+PRD_0144,HM05,Outerwear,Seasonal,Elastan,1162
+PRD_0145,HM05,Knitwear,Seasonal,Cotone Convenzionale,261
+PRD_0146,HM07,Denim,Core_Basics,Cotone Organico,759
+PRD_0147,HM04,Dresses,Fast_Track,Poliestere Riciclato,463
+PRD_0148,HM03,Underwear,Seasonal,Cotone Organico,57
+PRD_0149,HM08,Knitwear,Seasonal,Cotone Organico,418
+PRD_0150,HM01,Dresses,Seasonal,Cotone Convenzionale,294
+PRD_0151,HM03,Outerwear,Core_Basics,Lana Riciclata,884
+PRD_0152,HM05,Underwear,Fast_Track,Lyocell (TENCEL),150
+PRD_0153,HM01,Underwear,Core_Basics,Lana Riciclata,139
+PRD_0154,HM02,Denim,Fast_Track,Cotone Convenzionale,610
+PRD_0155,HM01,Denim,Fast_Track,Poliestere Riciclato,782
+PRD_0156,HM07,Underwear,Core_Basics,Poliestere Riciclato,106
+PRD_0157,HM04,Outerwear,Fast_Track,Cotone Convenzionale,930
+PRD_0158,HM06,Activewear,Core_Basics,Lyocell (TENCEL),161
+PRD_0159,HM05,Knitwear,Fast_Track,Cotone Convenzionale,366
+PRD_0160,HM06,Dresses,Seasonal,Cotone Convenzionale,331
+PRD_0161,HM06,Denim,Core_Basics,Lyocell (TENCEL),822
+PRD_0162,HM08,Knitwear,Seasonal,Cotone Organico,431
+PRD_0163,HM08,Knitwear,Seasonal,Lyocell (TENCEL),319
+PRD_0164,HM05,Outerwear,Seasonal,Elastan,878
+PRD_0165,HM05,Knitwear,Core_Basics,Lana Riciclata,384
+PRD_0166,HM07,Knitwear,Fast_Track,Cotone Convenzionale,448
+PRD_0167,HM06,Outerwear,Core_Basics,Cotone Organico,1144
+PRD_0168,HM04,Activewear,Seasonal,Lyocell (TENCEL),305
+PRD_0169,HM05,Activewear,Fast_Track,Lyocell (TENCEL),300
+PRD_0170,HM05,Underwear,Fast_Track,Poliestere Riciclato,60
+PRD_0171,HM06,Denim,Seasonal,Lana Riciclata,758
+PRD_0172,HM07,Outerwear,Fast_Track,Poliestere Riciclato,851
+PRD_0173,HM03,Activewear,Core_Basics,Lyocell (TENCEL),185
+PRD_0174,HM06,Denim,Core_Basics,Poliestere Riciclato,638
+PRD_0175,HM07,Knitwear,Core_Basics,Lyocell (TENCEL),299
+PRD_0176,HM07,Knitwear,Seasonal,Lyocell (TENCEL),478
+PRD_0177,HM05,Dresses,Core_Basics,Cotone Organico,270
+PRD_0178,HM02,Dresses,Seasonal,Cotone Organico,372
+PRD_0179,HM02,Outerwear,Fast_Track,Lyocell (TENCEL),1133
+PRD_0180,HM04,Dresses,Core_Basics,Lyocell (TENCEL),296
+PRD_0181,HM04,Denim,Seasonal,Lyocell (TENCEL),874
+PRD_0182,HM05,Knitwear,Fast_Track,Elastan,466
+PRD_0183,HM07,Outerwear,Fast_Track,Poliestere Riciclato,813
+PRD_0184,HM06,Underwear,Fast_Track,Cotone Organico,138
+PRD_0185,HM04,Dresses,Seasonal,Cotone Convenzionale,404
+PRD_0186,HM05,Knitwear,Seasonal,Cotone Organico,495
+PRD_0187,HM02,Denim,Seasonal,Lana Riciclata,741
+PRD_0188,HM01,Outerwear,Core_Basics,Lyocell (TENCEL),1297
+PRD_0189,HM02,Outerwear,Fast_Track,Cotone Convenzionale,1460
+PRD_0190,HM03,Activewear,Seasonal,Cotone Organico,193
+PRD_0191,HM01,Denim,Core_Basics,Elastan,625
+PRD_0192,HM08,Denim,Core_Basics,Cotone Organico,715
+PRD_0193,HM02,Denim,Core_Basics,Lyocell (TENCEL),877
+PRD_0194,HM07,Outerwear,Core_Basics,Cotone Organico,1242
+PRD_0195,HM02,Knitwear,Fast_Track,Cotone Organico,283
+PRD_0196,HM06,Activewear,Fast_Track,Cotone Organico,205
+PRD_0197,HM03,Dresses,Fast_Track,Lyocell (TENCEL),282
+PRD_0198,HM04,Knitwear,Seasonal,Elastan,266
+PRD_0199,HM01,Underwear,Core_Basics,Lyocell (TENCEL),142
+PRD_0200,HM06,Denim,Fast_Track,Lana Riciclata,629
+PRD_0201,HM01,Knitwear,Seasonal,Lana Riciclata,406
+PRD_0202,HM07,Denim,Fast_Track,Poliestere Riciclato,725
+PRD_0203,HM06,Underwear,Core_Basics,Cotone Convenzionale,130
+PRD_0204,HM05,Dresses,Seasonal,Cotone Organico,497
+PRD_0205,HM06,Underwear,Fast_Track,Cotone Organico,111
+PRD_0206,HM07,Dresses,Core_Basics,Lyocell (TENCEL),433
+PRD_0207,HM05,Dresses,Core_Basics,Cotone Organico,388
+PRD_0208,HM05,Underwear,Seasonal,Lana Riciclata,138
+PRD_0209,HM02,Outerwear,Core_Basics,Lana Riciclata,1287
+PRD_0210,HM06,Knitwear,Seasonal,Cotone Organico,456
+PRD_0211,HM03,Outerwear,Fast_Track,Lyocell (TENCEL),1339
+PRD_0212,HM05,Knitwear,Seasonal,Lyocell (TENCEL),306
+PRD_0213,HM06,Dresses,Seasonal,Cotone Organico,418
+PRD_0214,HM01,Underwear,Core_Basics,Cotone Organico,142
+PRD_0215,HM05,Activewear,Seasonal,Lana Riciclata,293
+PRD_0216,HM04,Underwear,Core_Basics,Poliestere Riciclato,118
+PRD_0217,HM03,Activewear,Fast_Track,Cotone Convenzionale,232
+PRD_0218,HM06,Outerwear,Seasonal,Lyocell (TENCEL),811
+PRD_0219,HM04,Dresses,Seasonal,Lana Riciclata,411
+PRD_0220,HM07,Underwear,Seasonal,Cotone Organico,140
+PRD_0221,HM06,Activewear,Core_Basics,Cotone Organico,193
+PRD_0222,HM06,Denim,Seasonal,Lana Riciclata,743
+PRD_0223,HM06,Activewear,Core_Basics,Elastan,281
+PRD_0224,HM08,Denim,Core_Basics,Poliestere Riciclato,655
+PRD_0225,HM01,Underwear,Fast_Track,Lyocell (TENCEL),117
+PRD_0226,HM07,Knitwear,Core_Basics,Lyocell (TENCEL),266
+PRD_0227,HM06,Underwear,Core_Basics,Elastan,99
+PRD_0228,HM04,Underwear,Core_Basics,Elastan,146
+PRD_0229,HM04,Denim,Fast_Track,Cotone Organico,761
+PRD_0230,HM08,Outerwear,Seasonal,Elastan,1034
+PRD_0231,HM04,Activewear,Seasonal,Cotone Organico,322
+PRD_0232,HM01,Activewear,Core_Basics,Lana Riciclata,250
+PRD_0233,HM05,Outerwear,Core_Basics,Elastan,1264
+PRD_0234,HM06,Outerwear,Seasonal,Cotone Convenzionale,1493
+PRD_0235,HM01,Outerwear,Fast_Track,Lyocell (TENCEL),1470
+PRD_0236,HM02,Underwear,Core_Basics,Lana Riciclata,58
+PRD_0237,HM08,Underwear,Fast_Track,Lyocell (TENCEL),82
+PRD_0238,HM07,Activewear,Fast_Track,Lana Riciclata,246
+PRD_0239,HM02,Underwear,Fast_Track,Elastan,57
+PRD_0240,HM08,Underwear,Fast_Track,Lana Riciclata,78
+PRD_0241,HM05,Activewear,Fast_Track,Lana Riciclata,224
+PRD_0242,HM07,Knitwear,Core_Basics,Poliestere Riciclato,347
+PRD_0243,HM04,Activewear,Seasonal,Lana Riciclata,152
+PRD_0244,HM02,Dresses,Seasonal,Cotone Convenzionale,325
+PRD_0245,HM06,Outerwear,Core_Basics,Elastan,1145
+PRD_0246,HM05,Dresses,Fast_Track,Cotone Convenzionale,416
+PRD_0247,HM07,Knitwear,Core_Basics,Cotone Convenzionale,466
+PRD_0248,HM02,Denim,Core_Basics,Elastan,752
+PRD_0249,HM02,Knitwear,Seasonal,Cotone Organico,441
+PRD_0250,HM08,Dresses,Seasonal,Lyocell (TENCEL),299
+PRD_0251,HM07,Denim,Core_Basics,Elastan,667
+PRD_0252,HM03,Dresses,Fast_Track,Lyocell (TENCEL),347
+PRD_0253,HM08,Denim,Seasonal,Lana Riciclata,870
+PRD_0254,HM07,Activewear,Core_Basics,Cotone Convenzionale,236
+PRD_0255,HM02,Outerwear,Fast_Track,Poliestere Riciclato,996
+PRD_0256,HM02,Denim,Core_Basics,Elastan,800
+PRD_0257,HM02,Denim,Core_Basics,Cotone Organico,873
+PRD_0258,HM05,Denim,Fast_Track,Cotone Convenzionale,837
+PRD_0259,HM01,Activewear,Seasonal,Cotone Convenzionale,297
+PRD_0260,HM03,Underwear,Fast_Track,Cotone Organico,50
+PRD_0261,HM01,Underwear,Seasonal,Poliestere Riciclato,117
+PRD_0262,HM05,Outerwear,Fast_Track,Elastan,851
+PRD_0263,HM01,Outerwear,Core_Basics,Lyocell (TENCEL),1037
+PRD_0264,HM03,Outerwear,Core_Basics,Elastan,1250
+PRD_0265,HM08,Activewear,Core_Basics,Cotone Convenzionale,171
+PRD_0266,HM08,Outerwear,Core_Basics,Poliestere Riciclato,1464
+PRD_0267,HM04,Activewear,Seasonal,Lyocell (TENCEL),295
+PRD_0268,HM08,Activewear,Seasonal,Poliestere Riciclato,305
+PRD_0269,HM05,Activewear,Seasonal,Lana Riciclata,315
+PRD_0270,HM05,Dresses,Seasonal,Lana Riciclata,434
+PRD_0271,HM03,Knitwear,Seasonal,Cotone Convenzionale,262
+PRD_0272,HM06,Denim,Fast_Track,Poliestere Riciclato,741
+PRD_0273,HM01,Activewear,Fast_Track,Elastan,292
+PRD_0274,HM03,Outerwear,Core_Basics,Lyocell (TENCEL),988
+PRD_0275,HM01,Outerwear,Core_Basics,Lyocell (TENCEL),997
+PRD_0276,HM04,Knitwear,Fast_Track,Lana Riciclata,269
+PRD_0277,HM08,Underwear,Fast_Track,Elastan,149
+PRD_0278,HM08,Outerwear,Core_Basics,Cotone Organico,1417
+PRD_0279,HM02,Outerwear,Seasonal,Cotone Convenzionale,990
+PRD_0280,HM01,Denim,Core_Basics,Cotone Organico,872
+PRD_0281,HM06,Knitwear,Fast_Track,Elastan,280
+PRD_0282,HM02,Knitwear,Fast_Track,Cotone Organico,390
+PRD_0283,HM04,Underwear,Seasonal,Lana Riciclata,65
+PRD_0284,HM05,Denim,Core_Basics,Elastan,645
+PRD_0285,HM01,Activewear,Core_Basics,Lana Riciclata,255
+PRD_0286,HM06,Denim,Fast_Track,Cotone Convenzionale,898
+PRD_0287,HM02,Outerwear,Core_Basics,Cotone Organico,987
+PRD_0288,HM06,Knitwear,Core_Basics,Lyocell (TENCEL),392
+PRD_0289,HM07,Denim,Fast_Track,Lyocell (TENCEL),671
+PRD_0290,HM08,Activewear,Seasonal,Cotone Organico,157
+PRD_0291,HM06,Denim,Seasonal,Cotone Organico,684
+PRD_0292,HM07,Underwear,Fast_Track,Cotone Organico,141
+PRD_0293,HM01,Denim,Core_Basics,Poliestere Riciclato,730
+PRD_0294,HM03,Dresses,Fast_Track,Cotone Organico,354
+PRD_0295,HM07,Dresses,Seasonal,Cotone Organico,454
+PRD_0296,HM08,Dresses,Fast_Track,Cotone Convenzionale,485
+PRD_0297,HM02,Dresses,Core_Basics,Cotone Convenzionale,449
+PRD_0298,HM08,Dresses,Fast_Track,Lyocell (TENCEL),409
+PRD_0299,HM01,Knitwear,Fast_Track,Lyocell (TENCEL),356
+PRD_0300,HM01,Denim,Seasonal,Elastan,600
+PRD_0301,HM06,Activewear,Core_Basics,Cotone Convenzionale,309
+PRD_0302,HM04,Denim,Seasonal,Poliestere Riciclato,796
+PRD_0303,HM06,Underwear,Core_Basics,Elastan,110
+PRD_0304,HM07,Knitwear,Core_Basics,Lana Riciclata,465
+PRD_0305,HM04,Denim,Core_Basics,Cotone Convenzionale,889
+PRD_0306,HM07,Dresses,Fast_Track,Lana Riciclata,270
+PRD_0307,HM07,Underwear,Core_Basics,Cotone Convenzionale,65
+PRD_0308,HM07,Knitwear,Fast_Track,Lyocell (TENCEL),407
+PRD_0309,HM07,Activewear,Core_Basics,Poliestere Riciclato,295
+PRD_0310,HM01,Outerwear,Fast_Track,Poliestere Riciclato,1072
+PRD_0311,HM02,Activewear,Seasonal,Lyocell (TENCEL),171
+PRD_0312,HM05,Dresses,Seasonal,Lyocell (TENCEL),407
+PRD_0313,HM08,Knitwear,Fast_Track,Cotone Convenzionale,426
+PRD_0314,HM02,Outerwear,Seasonal,Elastan,848
+PRD_0315,HM02,Dresses,Fast_Track,Cotone Organico,495
+PRD_0316,HM06,Dresses,Core_Basics,Cotone Organico,500
+PRD_0317,HM05,Knitwear,Fast_Track,Poliestere Riciclato,296
+PRD_0318,HM06,Activewear,Fast_Track,Lana Riciclata,182
+PRD_0319,HM04,Knitwear,Fast_Track,Lyocell (TENCEL),259
+PRD_0320,HM03,Dresses,Seasonal,Poliestere Riciclato,292
+PRD_0321,HM04,Activewear,Fast_Track,Cotone Organico,213
+PRD_0322,HM02,Activewear,Fast_Track,Lyocell (TENCEL),302
+PRD_0323,HM08,Knitwear,Core_Basics,Elastan,493
+PRD_0324,HM08,Outerwear,Core_Basics,Lyocell (TENCEL),966
+PRD_0325,HM08,Dresses,Fast_Track,Lana Riciclata,424
+PRD_0326,HM01,Dresses,Core_Basics,Cotone Organico,268
+PRD_0327,HM07,Knitwear,Seasonal,Lyocell (TENCEL),275
+PRD_0328,HM04,Denim,Core_Basics,Cotone Convenzionale,670
+PRD_0329,HM08,Underwear,Fast_Track,Cotone Convenzionale,100
+PRD_0330,HM08,Underwear,Core_Basics,Poliestere Riciclato,127
+PRD_0331,HM02,Dresses,Fast_Track,Lyocell (TENCEL),399
+PRD_0332,HM03,Dresses,Core_Basics,Cotone Convenzionale,311
+PRD_0333,HM02,Underwear,Seasonal,Cotone Convenzionale,67
+PRD_0334,HM05,Underwear,Seasonal,Lana Riciclata,147
+PRD_0335,HM01,Dresses,Core_Basics,Cotone Organico,348
+PRD_0336,HM05,Knitwear,Core_Basics,Cotone Organico,486
+PRD_0337,HM05,Outerwear,Fast_Track,Elastan,1197
+PRD_0338,HM01,Denim,Core_Basics,Cotone Organico,801
+PRD_0339,HM02,Denim,Fast_Track,Lyocell (TENCEL),661
+PRD_0340,HM07,Dresses,Fast_Track,Cotone Convenzionale,309
+PRD_0341,HM02,Denim,Core_Basics,Cotone Organico,849
+PRD_0342,HM06,Underwear,Seasonal,Lyocell (TENCEL),113
+PRD_0343,HM08,Knitwear,Fast_Track,Lyocell (TENCEL),311
+PRD_0344,HM04,Outerwear,Core_Basics,Elastan,1098
+PRD_0345,HM05,Underwear,Fast_Track,Lana Riciclata,76
+PRD_0346,HM04,Denim,Fast_Track,Lana Riciclata,876
+PRD_0347,HM04,Underwear,Seasonal,Elastan,63
+PRD_0348,HM01,Dresses,Seasonal,Elastan,376
+PRD_0349,HM07,Underwear,Fast_Track,Poliestere Riciclato,149
+PRD_0350,HM04,Denim,Core_Basics,Lana Riciclata,777
+PRD_0351,HM04,Denim,Core_Basics,Elastan,711
+PRD_0352,HM05,Outerwear,Seasonal,Elastan,1061
+PRD_0353,HM06,Underwear,Core_Basics,Lana Riciclata,137
+PRD_0354,HM06,Outerwear,Core_Basics,Cotone Organico,1484
+PRD_0355,HM06,Activewear,Seasonal,Poliestere Riciclato,164
+PRD_0356,HM04,Knitwear,Seasonal,Elastan,284
+PRD_0357,HM02,Outerwear,Fast_Track,Cotone Convenzionale,886
+PRD_0358,HM05,Dresses,Core_Basics,Elastan,410
+PRD_0359,HM01,Dresses,Seasonal,Poliestere Riciclato,295
+PRD_0360,HM05,Dresses,Seasonal,Poliestere Riciclato,271
+PRD_0361,HM07,Underwear,Fast_Track,Poliestere Riciclato,146
+PRD_0362,HM02,Underwear,Core_Basics,Elastan,65
+PRD_0363,HM03,Outerwear,Fast_Track,Cotone Convenzionale,1161
+PRD_0364,HM04,Denim,Seasonal,Cotone Organico,607
+PRD_0365,HM04,Knitwear,Core_Basics,Cotone Organico,303
+PRD_0366,HM08,Knitwear,Seasonal,Poliestere Riciclato,331
+PRD_0367,HM06,Knitwear,Seasonal,Poliestere Riciclato,297
+PRD_0368,HM04,Outerwear,Core_Basics,Cotone Organico,1309
+PRD_0369,HM05,Knitwear,Seasonal,Elastan,481
+PRD_0370,HM02,Activewear,Seasonal,Poliestere Riciclato,239
+PRD_0371,HM05,Knitwear,Core_Basics,Lana Riciclata,286
+PRD_0372,HM06,Knitwear,Seasonal,Lana Riciclata,483
+PRD_0373,HM03,Activewear,Fast_Track,Lana Riciclata,197
+PRD_0374,HM01,Knitwear,Core_Basics,Cotone Organico,490
+PRD_0375,HM07,Denim,Fast_Track,Elastan,721
+PRD_0376,HM05,Knitwear,Fast_Track,Cotone Convenzionale,323
+PRD_0377,HM08,Knitwear,Seasonal,Lyocell (TENCEL),486
+PRD_0378,HM07,Denim,Seasonal,Cotone Organico,856
+PRD_0379,HM07,Underwear,Seasonal,Poliestere Riciclato,103
+PRD_0380,HM05,Outerwear,Fast_Track,Cotone Organico,1260
+PRD_0381,HM06,Activewear,Seasonal,Cotone Convenzionale,274
+PRD_0382,HM05,Knitwear,Fast_Track,Lyocell (TENCEL),307
+PRD_0383,HM03,Knitwear,Core_Basics,Poliestere Riciclato,412
+PRD_0384,HM01,Outerwear,Fast_Track,Lana Riciclata,1099
+PRD_0385,HM05,Dresses,Fast_Track,Lyocell (TENCEL),311
+PRD_0386,HM02,Knitwear,Fast_Track,Cotone Organico,395
+PRD_0387,HM02,Outerwear,Seasonal,Cotone Convenzionale,1164
+PRD_0388,HM02,Activewear,Seasonal,Cotone Organico,226
+PRD_0389,HM07,Underwear,Seasonal,Lana Riciclata,111
+PRD_0390,HM05,Denim,Fast_Track,Poliestere Riciclato,797
+PRD_0391,HM01,Knitwear,Core_Basics,Elastan,462
+PRD_0392,HM01,Activewear,Core_Basics,Elastan,220
+PRD_0393,HM04,Activewear,Fast_Track,Elastan,152
+PRD_0394,HM08,Activewear,Fast_Track,Lana Riciclata,211
+PRD_0395,HM02,Dresses,Fast_Track,Lana Riciclata,324
+PRD_0396,HM03,Activewear,Seasonal,Poliestere Riciclato,256
+PRD_0397,HM01,Knitwear,Core_Basics,Lyocell (TENCEL),381
+PRD_0398,HM05,Knitwear,Seasonal,Poliestere Riciclato,288
+PRD_0399,HM04,Dresses,Seasonal,Cotone Convenzionale,300
+PRD_0400,HM02,Knitwear,Fast_Track,Poliestere Riciclato,485
+PRD_0401,HM01,Knitwear,Fast_Track,Poliestere Riciclato,376
+PRD_0402,HM07,Underwear,Fast_Track,Elastan,113
+PRD_0403,HM03,Dresses,Seasonal,Cotone Organico,370
+PRD_0404,HM06,Activewear,Core_Basics,Cotone Convenzionale,180
+PRD_0405,HM04,Outerwear,Fast_Track,Cotone Convenzionale,1456
+PRD_0406,HM06,Dresses,Core_Basics,Lana Riciclata,335
+PRD_0407,HM08,Knitwear,Fast_Track,Lana Riciclata,317
+PRD_0408,HM07,Knitwear,Fast_Track,Cotone Convenzionale,324
+PRD_0409,HM04,Denim,Fast_Track,Lana Riciclata,630
+PRD_0410,HM02,Activewear,Fast_Track,Cotone Organico,164
+PRD_0411,HM07,Dresses,Fast_Track,Cotone Organico,272
+PRD_0412,HM06,Activewear,Core_Basics,Poliestere Riciclato,272
+PRD_0413,HM03,Denim,Core_Basics,Poliestere Riciclato,825
+PRD_0414,HM03,Denim,Seasonal,Lana Riciclata,685
+PRD_0415,HM03,Underwear,Core_Basics,Lana Riciclata,80
+PRD_0416,HM03,Activewear,Fast_Track,Elastan,263
+PRD_0417,HM08,Dresses,Core_Basics,Lana Riciclata,414
+PRD_0418,HM06,Underwear,Core_Basics,Lana Riciclata,70
+PRD_0419,HM07,Dresses,Fast_Track,Lana Riciclata,373
+PRD_0420,HM07,Outerwear,Fast_Track,Elastan,820
+PRD_0421,HM01,Outerwear,Seasonal,Cotone Convenzionale,1448
+PRD_0422,HM08,Denim,Fast_Track,Lyocell (TENCEL),684
+PRD_0423,HM06,Underwear,Seasonal,Cotone Organico,100
+PRD_0424,HM01,Denim,Seasonal,Cotone Convenzionale,608
+PRD_0425,HM04,Knitwear,Seasonal,Lyocell (TENCEL),252
+PRD_0426,HM08,Dresses,Seasonal,Cotone Convenzionale,267
+PRD_0427,HM08,Denim,Core_Basics,Lyocell (TENCEL),810
+PRD_0428,HM03,Outerwear,Core_Basics,Elastan,1465
+PRD_0429,HM03,Knitwear,Fast_Track,Lana Riciclata,425
+PRD_0430,HM06,Outerwear,Core_Basics,Lana Riciclata,1148
+PRD_0431,HM06,Activewear,Fast_Track,Lana Riciclata,312
+PRD_0432,HM03,Dresses,Core_Basics,Elastan,446
+PRD_0433,HM02,Underwear,Core_Basics,Poliestere Riciclato,86
+PRD_0434,HM07,Dresses,Fast_Track,Cotone Convenzionale,250
+PRD_0435,HM04,Underwear,Fast_Track,Elastan,57
+PRD_0436,HM01,Activewear,Core_Basics,Cotone Convenzionale,161
+PRD_0437,HM05,Denim,Core_Basics,Cotone Convenzionale,849
+PRD_0438,HM04,Knitwear,Core_Basics,Lyocell (TENCEL),472
+PRD_0439,HM08,Outerwear,Fast_Track,Lyocell (TENCEL),1007
+PRD_0440,HM04,Knitwear,Fast_Track,Elastan,483
+PRD_0441,HM07,Activewear,Core_Basics,Poliestere Riciclato,335
+PRD_0442,HM08,Denim,Core_Basics,Cotone Convenzionale,787
+PRD_0443,HM05,Dresses,Core_Basics,Cotone Organico,469
+PRD_0444,HM05,Underwear,Fast_Track,Cotone Convenzionale,148
+PRD_0445,HM07,Underwear,Core_Basics,Cotone Convenzionale,77
+PRD_0446,HM05,Knitwear,Seasonal,Cotone Convenzionale,372
+PRD_0447,HM03,Outerwear,Seasonal,Poliestere Riciclato,1321
+PRD_0448,HM08,Dresses,Seasonal,Lyocell (TENCEL),459
+PRD_0449,HM05,Underwear,Core_Basics,Lyocell (TENCEL),70
+PRD_0450,HM08,Dresses,Seasonal,Elastan,282
+PRD_0451,HM03,Activewear,Fast_Track,Lana Riciclata,310
+PRD_0452,HM06,Denim,Seasonal,Lyocell (TENCEL),810
+PRD_0453,HM03,Activewear,Fast_Track,Elastan,253
+PRD_0454,HM06,Activewear,Fast_Track,Cotone Convenzionale,255
+PRD_0455,HM07,Underwear,Core_Basics,Lana Riciclata,77
+PRD_0456,HM07,Underwear,Core_Basics,Lyocell (TENCEL),86
+PRD_0457,HM08,Knitwear,Core_Basics,Elastan,374
+PRD_0458,HM07,Knitwear,Fast_Track,Cotone Convenzionale,411
+PRD_0459,HM07,Outerwear,Seasonal,Cotone Organico,893
+PRD_0460,HM07,Outerwear,Seasonal,Elastan,1297
+PRD_0461,HM02,Outerwear,Core_Basics,Lana Riciclata,1017
+PRD_0462,HM04,Underwear,Fast_Track,Lana Riciclata,99
+PRD_0463,HM01,Dresses,Fast_Track,Poliestere Riciclato,480
+PRD_0464,HM07,Dresses,Seasonal,Poliestere Riciclato,269
+PRD_0465,HM05,Activewear,Seasonal,Lyocell (TENCEL),289
+PRD_0466,HM03,Activewear,Core_Basics,Cotone Organico,279
+PRD_0467,HM04,Dresses,Core_Basics,Cotone Convenzionale,424
+PRD_0468,HM02,Dresses,Fast_Track,Cotone Organico,421
+PRD_0469,HM07,Activewear,Seasonal,Elastan,158
+PRD_0470,HM08,Denim,Seasonal,Cotone Convenzionale,639
+PRD_0471,HM06,Knitwear,Fast_Track,Poliestere Riciclato,438
+PRD_0472,HM05,Denim,Core_Basics,Cotone Organico,754
+PRD_0473,HM01,Underwear,Fast_Track,Cotone Convenzionale,139
+PRD_0474,HM04,Underwear,Seasonal,Lyocell (TENCEL),145
+PRD_0475,HM01,Dresses,Core_Basics,Lyocell (TENCEL),286
+PRD_0476,HM03,Denim,Seasonal,Elastan,614
+PRD_0477,HM08,Knitwear,Seasonal,Elastan,310
+PRD_0478,HM08,Outerwear,Fast_Track,Cotone Organico,840
+PRD_0479,HM05,Denim,Core_Basics,Lyocell (TENCEL),833
+PRD_0480,HM08,Outerwear,Core_Basics,Cotone Organico,1465
+PRD_0481,HM07,Denim,Fast_Track,Cotone Convenzionale,788
+PRD_0482,HM08,Knitwear,Core_Basics,Lyocell (TENCEL),387
+PRD_0483,HM06,Activewear,Fast_Track,Elastan,349
+PRD_0484,HM01,Underwear,Seasonal,Lana Riciclata,105
+PRD_0485,HM02,Outerwear,Core_Basics,Lyocell (TENCEL),1398
+PRD_0486,HM06,Denim,Core_Basics,Elastan,860
+PRD_0487,HM05,Knitwear,Core_Basics,Cotone Convenzionale,263
+PRD_0488,HM06,Denim,Core_Basics,Lyocell (TENCEL),601
+PRD_0489,HM05,Outerwear,Core_Basics,Poliestere Riciclato,1200
+PRD_0490,HM03,Activewear,Core_Basics,Cotone Convenzionale,232
+PRD_0491,HM04,Activewear,Seasonal,Elastan,215
+PRD_0492,HM02,Knitwear,Seasonal,Cotone Organico,394
+PRD_0493,HM03,Outerwear,Fast_Track,Cotone Organico,1133
+PRD_0494,HM06,Activewear,Seasonal,Lana Riciclata,346
+PRD_0495,HM07,Denim,Seasonal,Cotone Convenzionale,897
+PRD_0496,HM07,Denim,Core_Basics,Lana Riciclata,834
+PRD_0497,HM07,Activewear,Fast_Track,Cotone Convenzionale,280
+PRD_0498,HM01,Activewear,Core_Basics,Elastan,175
+PRD_0499,HM08,Activewear,Core_Basics,Cotone Convenzionale,275
+PRD_0500,HM07,Denim,Seasonal,Cotone Convenzionale,609
+PRD_0501,HM05,Outerwear,Core_Basics,Cotone Organico,1019
+PRD_0502,HM02,Activewear,Core_Basics,Cotone Organico,231
+PRD_0503,HM06,Underwear,Seasonal,Lyocell (TENCEL),94
+PRD_0504,HM07,Outerwear,Seasonal,Lana Riciclata,1397
+PRD_0505,HM07,Knitwear,Core_Basics,Elastan,404
+PRD_0506,HM08,Denim,Fast_Track,Elastan,844
+PRD_0507,HM08,Dresses,Core_Basics,Elastan,377
+PRD_0508,HM07,Dresses,Core_Basics,Lyocell (TENCEL),310
+PRD_0509,HM02,Dresses,Core_Basics,Poliestere Riciclato,434
+PRD_0510,HM02,Underwear,Seasonal,Lana Riciclata,116
+PRD_0511,HM03,Activewear,Seasonal,Poliestere Riciclato,244
+PRD_0512,HM07,Denim,Seasonal,Elastan,777
+PRD_0513,HM04,Knitwear,Seasonal,Elastan,378
+PRD_0514,HM03,Denim,Fast_Track,Lana Riciclata,754
+PRD_0515,HM07,Dresses,Seasonal,Cotone Organico,429
+PRD_0516,HM01,Underwear,Core_Basics,Cotone Convenzionale,138
+PRD_0517,HM01,Activewear,Core_Basics,Elastan,344
+PRD_0518,HM08,Outerwear,Fast_Track,Elastan,995
+PRD_0519,HM08,Outerwear,Fast_Track,Lana Riciclata,1274
+PRD_0520,HM05,Knitwear,Core_Basics,Cotone Convenzionale,418
+PRD_0521,HM01,Dresses,Fast_Track,Elastan,486
+PRD_0522,HM03,Outerwear,Core_Basics,Lyocell (TENCEL),1053
+PRD_0523,HM03,Underwear,Core_Basics,Elastan,113
+PRD_0524,HM05,Dresses,Seasonal,Cotone Organico,337
+PRD_0525,HM06,Outerwear,Fast_Track,Lana Riciclata,1260
+PRD_0526,HM02,Dresses,Core_Basics,Cotone Organico,453
+PRD_0527,HM04,Underwear,Core_Basics,Cotone Organico,101
+PRD_0528,HM05,Underwear,Seasonal,Cotone Convenzionale,55
+PRD_0529,HM03,Denim,Fast_Track,Lana Riciclata,659
+PRD_0530,HM05,Outerwear,Seasonal,Lyocell (TENCEL),879
+PRD_0531,HM04,Activewear,Core_Basics,Cotone Organico,317
+PRD_0532,HM01,Denim,Seasonal,Cotone Organico,624
+PRD_0533,HM02,Knitwear,Fast_Track,Cotone Convenzionale,348
+PRD_0534,HM07,Activewear,Fast_Track,Lana Riciclata,287
+PRD_0535,HM07,Outerwear,Fast_Track,Cotone Organico,1213
+PRD_0536,HM03,Dresses,Seasonal,Lyocell (TENCEL),357
+PRD_0537,HM02,Outerwear,Fast_Track,Lyocell (TENCEL),1111
+PRD_0538,HM05,Outerwear,Seasonal,Cotone Convenzionale,941
+PRD_0539,HM08,Knitwear,Fast_Track,Lana Riciclata,456
+PRD_0540,HM02,Knitwear,Seasonal,Elastan,369
+PRD_0541,HM01,Outerwear,Seasonal,Elastan,1176
+PRD_0542,HM06,Activewear,Core_Basics,Elastan,186
+PRD_0543,HM07,Knitwear,Fast_Track,Cotone Convenzionale,415
+PRD_0544,HM05,Outerwear,Seasonal,Lana Riciclata,1226
+PRD_0545,HM03,Denim,Fast_Track,Elastan,708
+PRD_0546,HM04,Denim,Fast_Track,Cotone Convenzionale,862
+PRD_0547,HM02,Outerwear,Fast_Track,Cotone Organico,986
+PRD_0548,HM07,Dresses,Core_Basics,Elastan,317
+PRD_0549,HM02,Activewear,Core_Basics,Lyocell (TENCEL),318
+PRD_0550,HM03,Underwear,Seasonal,Lana Riciclata,81
+PRD_0551,HM03,Outerwear,Core_Basics,Cotone Convenzionale,1306
+PRD_0552,HM06,Dresses,Seasonal,Cotone Convenzionale,392
+PRD_0553,HM04,Knitwear,Fast_Track,Poliestere Riciclato,403
+PRD_0554,HM05,Activewear,Core_Basics,Poliestere Riciclato,224
+PRD_0555,HM05,Underwear,Core_Basics,Cotone Organico,130
+PRD_0556,HM01,Dresses,Seasonal,Lana Riciclata,401
+PRD_0557,HM05,Underwear,Core_Basics,Cotone Convenzionale,145
+PRD_0558,HM07,Activewear,Seasonal,Cotone Organico,174
+PRD_0559,HM04,Dresses,Seasonal,Cotone Convenzionale,299
+PRD_0560,HM01,Outerwear,Seasonal,Cotone Convenzionale,826
+PRD_0561,HM08,Activewear,Core_Basics,Elastan,320
+PRD_0562,HM06,Denim,Fast_Track,Cotone Convenzionale,853
+PRD_0563,HM06,Underwear,Core_Basics,Poliestere Riciclato,84
+PRD_0564,HM07,Activewear,Fast_Track,Poliestere Riciclato,294
+PRD_0565,HM08,Denim,Fast_Track,Lyocell (TENCEL),611
+PRD_0566,HM02,Activewear,Seasonal,Lyocell (TENCEL),257
+PRD_0567,HM06,Outerwear,Fast_Track,Lana Riciclata,1428
+PRD_0568,HM07,Denim,Core_Basics,Cotone Convenzionale,862
+PRD_0569,HM01,Activewear,Fast_Track,Elastan,232
+PRD_0570,HM06,Knitwear,Fast_Track,Elastan,377
+PRD_0571,HM06,Knitwear,Core_Basics,Poliestere Riciclato,316
+PRD_0572,HM06,Underwear,Core_Basics,Lana Riciclata,84
+PRD_0573,HM06,Outerwear,Seasonal,Cotone Convenzionale,925
+PRD_0574,HM07,Activewear,Fast_Track,Lana Riciclata,248
+PRD_0575,HM08,Outerwear,Core_Basics,Lyocell (TENCEL),1230
+PRD_0576,HM01,Dresses,Seasonal,Elastan,444
+PRD_0577,HM01,Underwear,Core_Basics,Poliestere Riciclato,141
+PRD_0578,HM04,Outerwear,Fast_Track,Poliestere Riciclato,1320
+PRD_0579,HM04,Outerwear,Core_Basics,Cotone Convenzionale,933
+PRD_0580,HM06,Activewear,Fast_Track,Lyocell (TENCEL),277
+PRD_0581,HM07,Outerwear,Seasonal,Lyocell (TENCEL),1272
+PRD_0582,HM02,Underwear,Fast_Track,Lana Riciclata,72
+PRD_0583,HM08,Denim,Fast_Track,Cotone Convenzionale,781
+PRD_0584,HM05,Activewear,Fast_Track,Elastan,276
+PRD_0585,HM04,Dresses,Fast_Track,Cotone Convenzionale,302
+PRD_0586,HM05,Underwear,Seasonal,Elastan,112
+PRD_0587,HM03,Activewear,Core_Basics,Poliestere Riciclato,169
+PRD_0588,HM03,Dresses,Seasonal,Elastan,402
+PRD_0589,HM04,Denim,Core_Basics,Cotone Organico,733
+PRD_0590,HM06,Knitwear,Fast_Track,Lyocell (TENCEL),464
+PRD_0591,HM08,Outerwear,Core_Basics,Lyocell (TENCEL),896
+PRD_0592,HM07,Knitwear,Fast_Track,Elastan,374
+PRD_0593,HM01,Underwear,Fast_Track,Elastan,132
+PRD_0594,HM03,Activewear,Fast_Track,Lana Riciclata,161
+PRD_0595,HM08,Activewear,Core_Basics,Cotone Convenzionale,224
+PRD_0596,HM04,Activewear,Core_Basics,Cotone Convenzionale,270
+PRD_0597,HM01,Underwear,Core_Basics,Cotone Convenzionale,130
+PRD_0598,HM03,Denim,Fast_Track,Cotone Organico,720
+PRD_0599,HM05,Denim,Fast_Track,Cotone Organico,703
+PRD_0600,HM01,Activewear,Fast_Track,Lyocell (TENCEL),285
+PRD_0601,HM03,Outerwear,Fast_Track,Lyocell (TENCEL),1438
+PRD_0602,HM06,Dresses,Core_Basics,Lyocell (TENCEL),264
+PRD_0603,HM08,Activewear,Fast_Track,Elastan,216
+PRD_0604,HM01,Knitwear,Seasonal,Lyocell (TENCEL),470
+PRD_0605,HM08,Activewear,Seasonal,Elastan,185
+PRD_0606,HM01,Dresses,Seasonal,Elastan,293
+PRD_0607,HM07,Outerwear,Seasonal,Cotone Organico,1212
+PRD_0608,HM02,Outerwear,Seasonal,Cotone Organico,874
+PRD_0609,HM01,Denim,Core_Basics,Cotone Organico,661
+PRD_0610,HM06,Dresses,Fast_Track,Lyocell (TENCEL),408
+PRD_0611,HM03,Underwear,Fast_Track,Lyocell (TENCEL),105
+PRD_0612,HM02,Dresses,Fast_Track,Poliestere Riciclato,313
+PRD_0613,HM03,Activewear,Core_Basics,Cotone Organico,214
+PRD_0614,HM03,Dresses,Core_Basics,Lana Riciclata,376
+PRD_0615,HM02,Activewear,Core_Basics,Poliestere Riciclato,175
+PRD_0616,HM07,Knitwear,Seasonal,Poliestere Riciclato,420
+PRD_0617,HM04,Knitwear,Core_Basics,Lyocell (TENCEL),449
+PRD_0618,HM06,Denim,Fast_Track,Lyocell (TENCEL),673
+PRD_0619,HM07,Dresses,Seasonal,Lana Riciclata,273
+PRD_0620,HM06,Knitwear,Seasonal,Poliestere Riciclato,298
+PRD_0621,HM04,Activewear,Seasonal,Lana Riciclata,150
+PRD_0622,HM03,Dresses,Core_Basics,Lana Riciclata,322
+PRD_0623,HM03,Dresses,Fast_Track,Elastan,377
+PRD_0624,HM01,Denim,Seasonal,Lyocell (TENCEL),842
+PRD_0625,HM05,Dresses,Seasonal,Poliestere Riciclato,345
+PRD_0626,HM03,Outerwear,Fast_Track,Poliestere Riciclato,1027
+PRD_0627,HM05,Knitwear,Fast_Track,Lyocell (TENCEL),296
+PRD_0628,HM03,Underwear,Seasonal,Poliestere Riciclato,81
+PRD_0629,HM05,Outerwear,Fast_Track,Cotone Convenzionale,1204
+PRD_0630,HM06,Underwear,Core_Basics,Cotone Organico,60
+PRD_0631,HM06,Dresses,Core_Basics,Poliestere Riciclato,366
+PRD_0632,HM03,Activewear,Core_Basics,Lyocell (TENCEL),204
+PRD_0633,HM08,Outerwear,Fast_Track,Lyocell (TENCEL),1397
+PRD_0634,HM05,Denim,Core_Basics,Lyocell (TENCEL),670
+PRD_0635,HM01,Underwear,Fast_Track,Cotone Convenzionale,133
+PRD_0636,HM04,Denim,Seasonal,Cotone Convenzionale,625
+PRD_0637,HM07,Activewear,Core_Basics,Poliestere Riciclato,241
+PRD_0638,HM07,Denim,Seasonal,Lyocell (TENCEL),623
+PRD_0639,HM06,Denim,Core_Basics,Poliestere Riciclato,660
+PRD_0640,HM08,Activewear,Fast_Track,Cotone Organico,342
+PRD_0641,HM03,Knitwear,Fast_Track,Elastan,328
+PRD_0642,HM08,Dresses,Seasonal,Cotone Convenzionale,378
+PRD_0643,HM01,Denim,Fast_Track,Lyocell (TENCEL),601
+PRD_0644,HM05,Knitwear,Fast_Track,Lana Riciclata,267
+PRD_0645,HM04,Outerwear,Fast_Track,Elastan,1330
+PRD_0646,HM07,Knitwear,Seasonal,Cotone Convenzionale,408
+PRD_0647,HM06,Activewear,Core_Basics,Elastan,223
+PRD_0648,HM06,Activewear,Core_Basics,Poliestere Riciclato,210
+PRD_0649,HM03,Outerwear,Core_Basics,Elastan,859
+PRD_0650,HM04,Dresses,Fast_Track,Lyocell (TENCEL),461
+PRD_0651,HM06,Activewear,Fast_Track,Lyocell (TENCEL),237
+PRD_0652,HM01,Dresses,Seasonal,Lana Riciclata,419
+PRD_0653,HM07,Activewear,Seasonal,Poliestere Riciclato,340
+PRD_0654,HM01,Knitwear,Fast_Track,Elastan,485
+PRD_0655,HM02,Activewear,Seasonal,Poliestere Riciclato,244
+PRD_0656,HM05,Activewear,Core_Basics,Lana Riciclata,339
+PRD_0657,HM08,Outerwear,Core_Basics,Lana Riciclata,1301
+PRD_0658,HM03,Underwear,Core_Basics,Cotone Convenzionale,59
+PRD_0659,HM07,Outerwear,Seasonal,Elastan,1214
+PRD_0660,HM05,Knitwear,Fast_Track,Cotone Organico,320
+PRD_0661,HM04,Knitwear,Core_Basics,Lyocell (TENCEL),463
+PRD_0662,HM02,Activewear,Core_Basics,Cotone Convenzionale,274
+PRD_0663,HM04,Activewear,Seasonal,Lana Riciclata,325
+PRD_0664,HM08,Denim,Seasonal,Lyocell (TENCEL),885
+PRD_0665,HM02,Dresses,Core_Basics,Cotone Convenzionale,396
+PRD_0666,HM03,Dresses,Fast_Track,Lyocell (TENCEL),393
+PRD_0667,HM04,Activewear,Seasonal,Cotone Organico,220
+PRD_0668,HM03,Knitwear,Fast_Track,Poliestere Riciclato,352
+PRD_0669,HM06,Denim,Seasonal,Lyocell (TENCEL),659
+PRD_0670,HM08,Activewear,Fast_Track,Elastan,245
+PRD_0671,HM08,Denim,Seasonal,Cotone Convenzionale,708
+PRD_0672,HM08,Dresses,Seasonal,Poliestere Riciclato,343
+PRD_0673,HM03,Knitwear,Seasonal,Lyocell (TENCEL),368
+PRD_0674,HM07,Activewear,Core_Basics,Elastan,150
+PRD_0675,HM05,Outerwear,Core_Basics,Poliestere Riciclato,1255
+PRD_0676,HM05,Underwear,Core_Basics,Cotone Convenzionale,80
+PRD_0677,HM02,Denim,Seasonal,Cotone Organico,895
+PRD_0678,HM06,Outerwear,Fast_Track,Lana Riciclata,857
+PRD_0679,HM06,Activewear,Core_Basics,Lyocell (TENCEL),168
+PRD_0680,HM08,Underwear,Fast_Track,Poliestere Riciclato,127
+PRD_0681,HM07,Dresses,Core_Basics,Cotone Organico,288
+PRD_0682,HM03,Dresses,Seasonal,Cotone Convenzionale,412
+PRD_0683,HM03,Denim,Fast_Track,Lana Riciclata,868
+PRD_0684,HM03,Dresses,Seasonal,Lyocell (TENCEL),287
+PRD_0685,HM08,Outerwear,Core_Basics,Cotone Organico,1261
+PRD_0686,HM02,Denim,Core_Basics,Lyocell (TENCEL),658
+PRD_0687,HM06,Activewear,Seasonal,Lyocell (TENCEL),275
+PRD_0688,HM08,Activewear,Fast_Track,Elastan,350
+PRD_0689,HM04,Knitwear,Core_Basics,Lyocell (TENCEL),462
+PRD_0690,HM06,Denim,Fast_Track,Elastan,831
+PRD_0691,HM02,Denim,Fast_Track,Cotone Convenzionale,871
+PRD_0692,HM05,Denim,Core_Basics,Lana Riciclata,615
+PRD_0693,HM03,Outerwear,Core_Basics,Lana Riciclata,1231
+PRD_0694,HM03,Denim,Core_Basics,Cotone Organico,820
+PRD_0695,HM04,Denim,Fast_Track,Cotone Organico,605
+PRD_0696,HM07,Knitwear,Core_Basics,Cotone Convenzionale,371
+PRD_0697,HM01,Underwear,Seasonal,Elastan,95
+PRD_0698,HM02,Underwear,Fast_Track,Lyocell (TENCEL),106
+PRD_0699,HM07,Underwear,Core_Basics,Elastan,96
+PRD_0700,HM03,Activewear,Core_Basics,Lana Riciclata,202
+PRD_0701,HM08,Denim,Core_Basics,Lana Riciclata,889
+PRD_0702,HM07,Outerwear,Core_Basics,Poliestere Riciclato,1360
+PRD_0703,HM04,Knitwear,Fast_Track,Lyocell (TENCEL),316
+PRD_0704,HM02,Activewear,Fast_Track,Cotone Organico,290
+PRD_0705,HM07,Knitwear,Fast_Track,Cotone Organico,379
+PRD_0706,HM05,Activewear,Seasonal,Poliestere Riciclato,205
+PRD_0707,HM02,Dresses,Fast_Track,Lana Riciclata,494
+PRD_0708,HM06,Activewear,Fast_Track,Cotone Organico,313
+PRD_0709,HM05,Outerwear,Core_Basics,Elastan,976
+PRD_0710,HM02,Denim,Core_Basics,Cotone Organico,721
+PRD_0711,HM04,Outerwear,Seasonal,Poliestere Riciclato,1077
+PRD_0712,HM02,Underwear,Seasonal,Lyocell (TENCEL),129
+PRD_0713,HM07,Activewear,Fast_Track,Lana Riciclata,177
+PRD_0714,HM01,Activewear,Fast_Track,Lyocell (TENCEL),283
+PRD_0715,HM07,Denim,Fast_Track,Lyocell (TENCEL),807
+PRD_0716,HM07,Outerwear,Fast_Track,Cotone Organico,1305
+PRD_0717,HM06,Outerwear,Fast_Track,Cotone Organico,1449
+PRD_0718,HM07,Knitwear,Seasonal,Lana Riciclata,401
+PRD_0719,HM04,Dresses,Fast_Track,Cotone Organico,269
+PRD_0720,HM06,Underwear,Seasonal,Elastan,142
+PRD_0721,HM01,Outerwear,Fast_Track,Elastan,916
+PRD_0722,HM05,Knitwear,Core_Basics,Elastan,272
+PRD_0723,HM07,Activewear,Fast_Track,Cotone Convenzionale,279
+PRD_0724,HM01,Underwear,Core_Basics,Cotone Organico,109
+PRD_0725,HM05,Outerwear,Seasonal,Lana Riciclata,1411
+PRD_0726,HM03,Outerwear,Fast_Track,Poliestere Riciclato,1332
+PRD_0727,HM02,Dresses,Fast_Track,Lyocell (TENCEL),355
+PRD_0728,HM01,Knitwear,Fast_Track,Cotone Organico,379
+PRD_0729,HM04,Activewear,Fast_Track,Elastan,300
+PRD_0730,HM05,Dresses,Fast_Track,Elastan,284
+PRD_0731,HM06,Knitwear,Fast_Track,Poliestere Riciclato,445
+PRD_0732,HM06,Knitwear,Seasonal,Poliestere Riciclato,462
+PRD_0733,HM08,Knitwear,Core_Basics,Lyocell (TENCEL),334
+PRD_0734,HM08,Knitwear,Fast_Track,Poliestere Riciclato,483
+PRD_0735,HM01,Dresses,Fast_Track,Lana Riciclata,378
+PRD_0736,HM02,Underwear,Fast_Track,Lyocell (TENCEL),54
+PRD_0737,HM02,Outerwear,Seasonal,Poliestere Riciclato,806
+PRD_0738,HM05,Underwear,Fast_Track,Lyocell (TENCEL),78
+PRD_0739,HM08,Activewear,Core_Basics,Poliestere Riciclato,185
+PRD_0740,HM03,Denim,Core_Basics,Poliestere Riciclato,637
+PRD_0741,HM03,Activewear,Fast_Track,Lana Riciclata,211
+PRD_0742,HM04,Underwear,Core_Basics,Lana Riciclata,114
+PRD_0743,HM05,Outerwear,Core_Basics,Cotone Convenzionale,1092
+PRD_0744,HM07,Activewear,Fast_Track,Cotone Organico,190
+PRD_0745,HM03,Activewear,Fast_Track,Cotone Organico,236
+PRD_0746,HM02,Activewear,Fast_Track,Cotone Convenzionale,314
+PRD_0747,HM01,Dresses,Core_Basics,Elastan,466
+PRD_0748,HM07,Dresses,Seasonal,Cotone Organico,253
+PRD_0749,HM02,Activewear,Fast_Track,Elastan,231
+PRD_0750,HM04,Denim,Fast_Track,Elastan,896
+PRD_0751,HM01,Underwear,Fast_Track,Lana Riciclata,99
+PRD_0752,HM08,Denim,Core_Basics,Cotone Organico,629
+PRD_0753,HM08,Underwear,Core_Basics,Cotone Convenzionale,109
+PRD_0754,HM02,Dresses,Seasonal,Cotone Convenzionale,295
+PRD_0755,HM07,Outerwear,Seasonal,Cotone Convenzionale,1140
+PRD_0756,HM08,Underwear,Core_Basics,Cotone Organico,145
+PRD_0757,HM03,Dresses,Fast_Track,Cotone Organico,347
+PRD_0758,HM04,Activewear,Seasonal,Lana Riciclata,265
+PRD_0759,HM03,Dresses,Core_Basics,Cotone Organico,426
+PRD_0760,HM06,Knitwear,Seasonal,Poliestere Riciclato,282
+PRD_0761,HM07,Denim,Seasonal,Lana Riciclata,614
+PRD_0762,HM08,Dresses,Seasonal,Lyocell (TENCEL),312
+PRD_0763,HM02,Activewear,Seasonal,Lana Riciclata,318
+PRD_0764,HM08,Dresses,Core_Basics,Cotone Convenzionale,482
+PRD_0765,HM07,Underwear,Fast_Track,Cotone Convenzionale,81
+PRD_0766,HM02,Activewear,Seasonal,Cotone Convenzionale,174
+PRD_0767,HM08,Denim,Core_Basics,Elastan,891
+PRD_0768,HM04,Outerwear,Seasonal,Lana Riciclata,1471
+PRD_0769,HM04,Denim,Seasonal,Lana Riciclata,657
+PRD_0770,HM04,Knitwear,Seasonal,Cotone Convenzionale,480
+PRD_0771,HM06,Outerwear,Seasonal,Poliestere Riciclato,1376
+PRD_0772,HM07,Underwear,Fast_Track,Cotone Convenzionale,123
+PRD_0773,HM08,Outerwear,Seasonal,Cotone Organico,1100
+PRD_0774,HM06,Knitwear,Seasonal,Lana Riciclata,436
+PRD_0775,HM05,Underwear,Core_Basics,Cotone Organico,80
+PRD_0776,HM08,Knitwear,Fast_Track,Elastan,304
+PRD_0777,HM01,Underwear,Fast_Track,Elastan,145
+PRD_0778,HM04,Activewear,Fast_Track,Cotone Organico,242
+PRD_0779,HM04,Activewear,Fast_Track,Cotone Convenzionale,325
+PRD_0780,HM03,Underwear,Fast_Track,Cotone Convenzionale,88
+PRD_0781,HM05,Activewear,Core_Basics,Elastan,158
+PRD_0782,HM04,Denim,Seasonal,Cotone Organico,835
+PRD_0783,HM01,Knitwear,Core_Basics,Lyocell (TENCEL),419
+PRD_0784,HM03,Underwear,Fast_Track,Lyocell (TENCEL),84
+PRD_0785,HM07,Knitwear,Core_Basics,Cotone Convenzionale,254
+PRD_0786,HM03,Activewear,Seasonal,Lana Riciclata,215
+PRD_0787,HM03,Knitwear,Seasonal,Cotone Convenzionale,422
+PRD_0788,HM01,Underwear,Fast_Track,Lyocell (TENCEL),121
+PRD_0789,HM03,Denim,Core_Basics,Lana Riciclata,674
+PRD_0790,HM08,Dresses,Core_Basics,Lana Riciclata,450
+PRD_0791,HM01,Outerwear,Fast_Track,Cotone Organico,919
+PRD_0792,HM04,Activewear,Fast_Track,Cotone Convenzionale,216
+PRD_0793,HM04,Denim,Seasonal,Poliestere Riciclato,606
+PRD_0794,HM01,Activewear,Core_Basics,Lana Riciclata,312
+PRD_0795,HM02,Activewear,Seasonal,Cotone Organico,271
+PRD_0796,HM04,Underwear,Seasonal,Elastan,83
+PRD_0797,HM01,Activewear,Seasonal,Lyocell (TENCEL),302
+PRD_0798,HM01,Dresses,Seasonal,Cotone Organico,467
+PRD_0799,HM01,Knitwear,Seasonal,Elastan,463
+PRD_0800,HM04,Activewear,Fast_Track,Lana Riciclata,314
+PRD_0801,HM04,Knitwear,Seasonal,Cotone Convenzionale,275
+PRD_0802,HM04,Knitwear,Core_Basics,Elastan,413
+PRD_0803,HM01,Denim,Fast_Track,Poliestere Riciclato,652
+PRD_0804,HM06,Activewear,Seasonal,Lana Riciclata,177
+PRD_0805,HM05,Denim,Seasonal,Cotone Convenzionale,634
+PRD_0806,HM04,Dresses,Seasonal,Lana Riciclata,442
+PRD_0807,HM03,Activewear,Core_Basics,Lana Riciclata,349
+PRD_0808,HM04,Underwear,Fast_Track,Lana Riciclata,142
+PRD_0809,HM06,Underwear,Core_Basics,Elastan,113
+PRD_0810,HM06,Denim,Fast_Track,Cotone Convenzionale,882
+PRD_0811,HM04,Dresses,Seasonal,Cotone Organico,409
+PRD_0812,HM07,Denim,Fast_Track,Cotone Organico,824
+PRD_0813,HM01,Denim,Seasonal,Cotone Organico,632
+PRD_0814,HM08,Activewear,Fast_Track,Poliestere Riciclato,335
+PRD_0815,HM05,Activewear,Core_Basics,Lana Riciclata,204
+PRD_0816,HM07,Activewear,Core_Basics,Cotone Organico,295
+PRD_0817,HM02,Outerwear,Fast_Track,Poliestere Riciclato,1457
+PRD_0818,HM02,Dresses,Seasonal,Lana Riciclata,311
+PRD_0819,HM08,Outerwear,Seasonal,Elastan,1028
+PRD_0820,HM08,Dresses,Seasonal,Lyocell (TENCEL),286
+PRD_0821,HM05,Activewear,Seasonal,Elastan,246
+PRD_0822,HM04,Knitwear,Core_Basics,Lyocell (TENCEL),319
+PRD_0823,HM06,Activewear,Fast_Track,Cotone Organico,314
+PRD_0824,HM01,Denim,Seasonal,Lana Riciclata,618
+PRD_0825,HM06,Denim,Core_Basics,Poliestere Riciclato,891
+PRD_0826,HM07,Underwear,Fast_Track,Cotone Convenzionale,136
+PRD_0827,HM06,Dresses,Fast_Track,Poliestere Riciclato,465
+PRD_0828,HM05,Denim,Seasonal,Elastan,782
+PRD_0829,HM07,Activewear,Core_Basics,Poliestere Riciclato,281
+PRD_0830,HM07,Denim,Seasonal,Elastan,640
+PRD_0831,HM01,Denim,Core_Basics,Poliestere Riciclato,811
+PRD_0832,HM04,Dresses,Fast_Track,Lana Riciclata,397
+PRD_0833,HM08,Dresses,Seasonal,Poliestere Riciclato,253
+PRD_0834,HM07,Knitwear,Seasonal,Cotone Convenzionale,347
+PRD_0835,HM06,Knitwear,Core_Basics,Lana Riciclata,399
+PRD_0836,HM03,Knitwear,Seasonal,Lyocell (TENCEL),432
+PRD_0837,HM02,Knitwear,Fast_Track,Elastan,412
+PRD_0838,HM03,Outerwear,Seasonal,Lyocell (TENCEL),1264
+PRD_0839,HM01,Outerwear,Fast_Track,Lana Riciclata,997
+PRD_0840,HM02,Underwear,Fast_Track,Elastan,135
+PRD_0841,HM03,Outerwear,Fast_Track,Cotone Convenzionale,801
+PRD_0842,HM08,Dresses,Fast_Track,Cotone Convenzionale,423
+PRD_0843,HM03,Knitwear,Seasonal,Elastan,332
+PRD_0844,HM03,Dresses,Core_Basics,Poliestere Riciclato,458
+PRD_0845,HM06,Outerwear,Core_Basics,Elastan,1327
+PRD_0846,HM07,Denim,Fast_Track,Cotone Organico,645
+PRD_0847,HM04,Dresses,Fast_Track,Cotone Convenzionale,317
+PRD_0848,HM04,Underwear,Fast_Track,Poliestere Riciclato,85
+PRD_0849,HM08,Dresses,Fast_Track,Lana Riciclata,391
+PRD_0850,HM02,Knitwear,Core_Basics,Lyocell (TENCEL),426
+PRD_0851,HM06,Activewear,Seasonal,Lyocell (TENCEL),203
+PRD_0852,HM01,Outerwear,Seasonal,Elastan,1219
+PRD_0853,HM08,Underwear,Seasonal,Lyocell (TENCEL),62
+PRD_0854,HM06,Denim,Core_Basics,Cotone Convenzionale,831
+PRD_0855,HM01,Activewear,Fast_Track,Poliestere Riciclato,252
+PRD_0856,HM06,Knitwear,Seasonal,Cotone Convenzionale,342
+PRD_0857,HM08,Underwear,Fast_Track,Cotone Organico,130
+PRD_0858,HM07,Knitwear,Seasonal,Poliestere Riciclato,314
+PRD_0859,HM06,Underwear,Core_Basics,Lyocell (TENCEL),135
+PRD_0860,HM03,Denim,Seasonal,Elastan,648
+PRD_0861,HM08,Underwear,Seasonal,Poliestere Riciclato,128
+PRD_0862,HM08,Activewear,Seasonal,Elastan,302
+PRD_0863,HM05,Underwear,Fast_Track,Cotone Organico,55
+PRD_0864,HM02,Dresses,Seasonal,Elastan,470
+PRD_0865,HM04,Outerwear,Fast_Track,Cotone Convenzionale,1419
+PRD_0866,HM05,Outerwear,Fast_Track,Poliestere Riciclato,1186
+PRD_0867,HM02,Activewear,Fast_Track,Lyocell (TENCEL),222
+PRD_0868,HM01,Underwear,Seasonal,Lana Riciclata,136
+PRD_0869,HM08,Underwear,Fast_Track,Lyocell (TENCEL),112
+PRD_0870,HM03,Underwear,Seasonal,Cotone Organico,54
+PRD_0871,HM07,Knitwear,Fast_Track,Lana Riciclata,394
+PRD_0872,HM04,Activewear,Fast_Track,Cotone Convenzionale,278
+PRD_0873,HM08,Activewear,Core_Basics,Lana Riciclata,180
+PRD_0874,HM05,Dresses,Seasonal,Elastan,362
+PRD_0875,HM04,Denim,Core_Basics,Cotone Organico,627
+PRD_0876,HM07,Underwear,Seasonal,Lyocell (TENCEL),81
+PRD_0877,HM04,Knitwear,Fast_Track,Elastan,475
+PRD_0878,HM02,Activewear,Core_Basics,Cotone Organico,190
+PRD_0879,HM07,Denim,Core_Basics,Cotone Organico,644
+PRD_0880,HM03,Denim,Seasonal,Cotone Convenzionale,897
+PRD_0881,HM02,Knitwear,Seasonal,Elastan,376
+PRD_0882,HM05,Knitwear,Fast_Track,Lana Riciclata,312
+PRD_0883,HM06,Underwear,Core_Basics,Elastan,96
+PRD_0884,HM07,Activewear,Fast_Track,Poliestere Riciclato,199
+PRD_0885,HM08,Activewear,Seasonal,Cotone Convenzionale,317
+PRD_0886,HM04,Knitwear,Fast_Track,Cotone Convenzionale,471
+PRD_0887,HM05,Knitwear,Fast_Track,Cotone Organico,278
+PRD_0888,HM08,Denim,Core_Basics,Lana Riciclata,643
+PRD_0889,HM02,Denim,Seasonal,Lana Riciclata,823
+PRD_0890,HM06,Denim,Fast_Track,Elastan,831
+PRD_0891,HM01,Dresses,Fast_Track,Poliestere Riciclato,333
+PRD_0892,HM01,Denim,Fast_Track,Cotone Convenzionale,736
+PRD_0893,HM01,Denim,Seasonal,Cotone Organico,660
+PRD_0894,HM02,Dresses,Core_Basics,Cotone Organico,324
+PRD_0895,HM03,Denim,Seasonal,Lyocell (TENCEL),874
+PRD_0896,HM05,Activewear,Fast_Track,Cotone Convenzionale,153
+PRD_0897,HM07,Knitwear,Fast_Track,Cotone Organico,353
+PRD_0898,HM01,Underwear,Core_Basics,Cotone Organico,98
+PRD_0899,HM04,Dresses,Core_Basics,Lana Riciclata,459
+PRD_0900,HM08,Underwear,Seasonal,Cotone Organico,146
+PRD_0901,HM06,Outerwear,Core_Basics,Poliestere Riciclato,1069
+PRD_0902,HM06,Knitwear,Seasonal,Lyocell (TENCEL),447
+PRD_0903,HM01,Knitwear,Seasonal,Lyocell (TENCEL),345
+PRD_0904,HM05,Dresses,Core_Basics,Lyocell (TENCEL),311
+PRD_0905,HM03,Dresses,Fast_Track,Poliestere Riciclato,403
+PRD_0906,HM05,Dresses,Fast_Track,Cotone Organico,318
+PRD_0907,HM06,Outerwear,Fast_Track,Cotone Convenzionale,945
+PRD_0908,HM01,Denim,Seasonal,Elastan,662
+PRD_0909,HM05,Knitwear,Seasonal,Cotone Organico,448
+PRD_0910,HM05,Activewear,Seasonal,Lyocell (TENCEL),241
+PRD_0911,HM08,Activewear,Seasonal,Cotone Convenzionale,296
+PRD_0912,HM01,Underwear,Fast_Track,Poliestere Riciclato,79
+PRD_0913,HM07,Activewear,Core_Basics,Lyocell (TENCEL),204
+PRD_0914,HM05,Underwear,Core_Basics,Elastan,99
+PRD_0915,HM03,Underwear,Core_Basics,Poliestere Riciclato,77
+PRD_0916,HM03,Knitwear,Fast_Track,Cotone Organico,386
+PRD_0917,HM01,Knitwear,Core_Basics,Cotone Organico,256
+PRD_0918,HM06,Dresses,Seasonal,Poliestere Riciclato,276
+PRD_0919,HM04,Outerwear,Fast_Track,Cotone Organico,984
+PRD_0920,HM07,Activewear,Seasonal,Elastan,240
+PRD_0921,HM06,Denim,Seasonal,Poliestere Riciclato,881
+PRD_0922,HM03,Activewear,Seasonal,Cotone Organico,316
+PRD_0923,HM06,Activewear,Core_Basics,Elastan,261
+PRD_0924,HM05,Outerwear,Fast_Track,Elastan,1253
+PRD_0925,HM08,Activewear,Fast_Track,Cotone Convenzionale,216
+PRD_0926,HM01,Denim,Fast_Track,Elastan,868
+PRD_0927,HM08,Denim,Core_Basics,Cotone Organico,808
+PRD_0928,HM05,Underwear,Fast_Track,Elastan,105
+PRD_0929,HM06,Denim,Seasonal,Poliestere Riciclato,724
+PRD_0930,HM08,Activewear,Fast_Track,Elastan,346
+PRD_0931,HM01,Activewear,Core_Basics,Lyocell (TENCEL),225
+PRD_0932,HM05,Activewear,Core_Basics,Elastan,317
+PRD_0933,HM05,Underwear,Seasonal,Lyocell (TENCEL),97
+PRD_0934,HM08,Knitwear,Seasonal,Poliestere Riciclato,346
+PRD_0935,HM03,Denim,Core_Basics,Elastan,735
+PRD_0936,HM08,Dresses,Core_Basics,Lyocell (TENCEL),420
+PRD_0937,HM07,Outerwear,Fast_Track,Lana Riciclata,1259
+PRD_0938,HM04,Knitwear,Seasonal,Elastan,334
+PRD_0939,HM01,Knitwear,Core_Basics,Cotone Organico,391
+PRD_0940,HM08,Knitwear,Fast_Track,Cotone Organico,272
+PRD_0941,HM08,Outerwear,Seasonal,Lana Riciclata,1363
+PRD_0942,HM04,Underwear,Fast_Track,Lana Riciclata,96
+PRD_0943,HM08,Denim,Seasonal,Elastan,871
+PRD_0944,HM08,Dresses,Core_Basics,Lyocell (TENCEL),301
+PRD_0945,HM04,Activewear,Seasonal,Poliestere Riciclato,230
+PRD_0946,HM08,Denim,Core_Basics,Poliestere Riciclato,841
+PRD_0947,HM08,Denim,Fast_Track,Cotone Convenzionale,600
+PRD_0948,HM05,Underwear,Core_Basics,Cotone Convenzionale,107
+PRD_0949,HM04,Outerwear,Fast_Track,Elastan,1448
+PRD_0950,HM08,Underwear,Fast_Track,Lana Riciclata,53
+PRD_0951,HM07,Outerwear,Core_Basics,Lana Riciclata,1315
+PRD_0952,HM01,Outerwear,Fast_Track,Cotone Organico,863
+PRD_0953,HM02,Dresses,Core_Basics,Poliestere Riciclato,316
+PRD_0954,HM07,Dresses,Fast_Track,Cotone Convenzionale,483
+PRD_0955,HM06,Outerwear,Seasonal,Elastan,966
+PRD_0956,HM03,Activewear,Core_Basics,Lana Riciclata,293
+PRD_0957,HM07,Activewear,Seasonal,Lyocell (TENCEL),221
+PRD_0958,HM04,Dresses,Seasonal,Cotone Organico,407
+PRD_0959,HM03,Denim,Seasonal,Elastan,812
+PRD_0960,HM02,Knitwear,Core_Basics,Poliestere Riciclato,468
+PRD_0961,HM06,Outerwear,Seasonal,Poliestere Riciclato,902
+PRD_0962,HM01,Knitwear,Seasonal,Poliestere Riciclato,315
+PRD_0963,HM05,Denim,Core_Basics,Poliestere Riciclato,665
+PRD_0964,HM04,Activewear,Seasonal,Lyocell (TENCEL),222
+PRD_0965,HM08,Underwear,Core_Basics,Lana Riciclata,72
+PRD_0966,HM05,Dresses,Seasonal,Cotone Convenzionale,415
+PRD_0967,HM08,Underwear,Core_Basics,Lyocell (TENCEL),82
+PRD_0968,HM08,Denim,Core_Basics,Lyocell (TENCEL),764
+PRD_0969,HM08,Underwear,Seasonal,Elastan,59
+PRD_0970,HM05,Activewear,Core_Basics,Poliestere Riciclato,320
+PRD_0971,HM07,Underwear,Core_Basics,Lana Riciclata,100
+PRD_0972,HM01,Denim,Seasonal,Poliestere Riciclato,728
+PRD_0973,HM03,Denim,Fast_Track,Poliestere Riciclato,610
+PRD_0974,HM05,Dresses,Core_Basics,Cotone Convenzionale,490
+PRD_0975,HM05,Outerwear,Fast_Track,Lana Riciclata,994
+PRD_0976,HM04,Underwear,Seasonal,Elastan,106
+PRD_0977,HM03,Outerwear,Core_Basics,Poliestere Riciclato,1368
+PRD_0978,HM05,Underwear,Seasonal,Cotone Organico,52
+PRD_0979,HM05,Dresses,Seasonal,Cotone Convenzionale,379
+PRD_0980,HM05,Outerwear,Fast_Track,Elastan,1235
+PRD_0981,HM05,Outerwear,Fast_Track,Cotone Organico,1464
+PRD_0982,HM06,Underwear,Core_Basics,Poliestere Riciclato,60
+PRD_0983,HM04,Outerwear,Fast_Track,Cotone Organico,1025
+PRD_0984,HM02,Denim,Seasonal,Elastan,730
+PRD_0985,HM05,Outerwear,Fast_Track,Cotone Convenzionale,1450
+PRD_0986,HM06,Denim,Seasonal,Lana Riciclata,647
+PRD_0987,HM05,Knitwear,Seasonal,Elastan,439
+PRD_0988,HM04,Denim,Fast_Track,Lana Riciclata,705
+PRD_0989,HM02,Dresses,Fast_Track,Elastan,342
+PRD_0990,HM02,Denim,Seasonal,Elastan,689
+PRD_0991,HM04,Activewear,Seasonal,Lyocell (TENCEL),276
+PRD_0992,HM08,Dresses,Seasonal,Lyocell (TENCEL),354
+PRD_0993,HM08,Outerwear,Fast_Track,Poliestere Riciclato,1404
+PRD_0994,HM06,Underwear,Seasonal,Elastan,105
+PRD_0995,HM02,Activewear,Fast_Track,Poliestere Riciclato,223
+PRD_0996,HM08,Denim,Fast_Track,Cotone Convenzionale,670
+PRD_0997,HM03,Outerwear,Seasonal,Cotone Convenzionale,976
+PRD_0998,HM06,Activewear,Fast_Track,Elastan,345
+PRD_0999,HM05,Underwear,Core_Basics,Elastan,75

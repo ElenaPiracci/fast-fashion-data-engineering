@@ -1,0 +1,7 @@
+company_id;brand_id;brand_name;parent_company;hq_country;brand_tier;transparency_score
+D_1;SPC01;Forever 21;SPARC Group F21 LLC;USA;Fast Fashion;15
+D_2;SPC02;Aeropostale;SPARC Group F21 LLC;USA;Teen Value Retail;22
+D_3;SPC03;Brooks Brothers;SPARC Group F21 LLC;USA;Heritage / Premium;28
+D_4;SPC04;Eddie Bauer;SPARC Group F21 LLC;USA;Outdoor;45
+D_5;SPC05;Reebok;SPARC Group F21 LLC;USA;Activewear;50
+D_6;SPC06;Lucky Brand;SPARC Group F21 LLC;USA;Denim;25

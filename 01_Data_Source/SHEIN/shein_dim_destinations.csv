@@ -1,0 +1,4 @@
+destination_id,destination_type,country_code,city,latitude,longitude
+DST_SHEIN_001,Hub Centrale,US,Los Angeles (Hub),34.05,-118.24
+DST_SHEIN_002,Magazzino Regionale,FR,Paris (D2C Node),48.85,2.35
+DST_SHEIN_003,Magazzino Regionale,BR,Sao Paulo (D2C Node),-23.55,-46.63

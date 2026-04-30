@@ -1,0 +1,4 @@
+destination_id,destination_type,country_code,city,latitude,longitude
+DST_UNIQLO_001,Hub Centrale,JP,Tokyo (Global Hub),35.68,139.76
+DST_UNIQLO_002,Magazzino Regionale,CN,Shanghai (Regional),31.23,121.47
+DST_UNIQLO_003,Negozio Fisico,UK,London (Store),51.5,-0.12

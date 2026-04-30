@@ -1,0 +1,6 @@
+company_id;brand_id;brand_name;parent_company;hq_country;transparency_score
+B_1;PRM01;Primark (Main);Associated British Foods (ABF);Ireland;43
+B_2;PRM02;Penneys (Ireland);Associated British Foods (ABF);Ireland;43
+B_3;PRM03;Primark Cares;Associated British Foods (ABF);Ireland;52
+B_4;PRM04;Atmosphere;Associated British Foods (ABF);Ireland;40
+B_5;PRM05;Cedar Wood State;Associated British Foods (ABF);Ireland;40

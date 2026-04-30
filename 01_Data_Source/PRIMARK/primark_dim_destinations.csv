@@ -1,0 +1,4 @@
+destination_id,destination_type,country_code,city,latitude,longitude
+DST_PRIMARK_001,Hub Centrale,IE,Dublin (HQ Hub),53.34,-6.26
+DST_PRIMARK_002,Magazzino Regionale,UK,Reading (Depot),51.45,-0.97
+DST_PRIMARK_003,Negozio Fisico,ES,Madrid (Store),40.41,-3.7

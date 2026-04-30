@@ -1,0 +1,8 @@
+company_id;brand_id;brand_name;parent_company;hq_country;transparency_score
+E_1;B001;Zara;Inditex;Spain;54
+E_2;B002;Bershka;Inditex;Spain;52
+E_3;B003;Pull&Bear;Inditex;Spain;52
+E_4;B004;Massimo Dutti;Inditex;Spain;50
+E_5;B005;Stradivarius;Inditex;Spain;52
+E_6;B006;Oysho;Inditex;Spain;51
+E_7;B007;Zara Home;Inditex;Spain;48

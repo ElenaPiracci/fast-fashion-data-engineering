@@ -1,0 +1,4 @@
+destination_id,destination_type,country_code,city,latitude,longitude
+DST_INDITEX_001,Hub Centrale,ES,Arteixo (Global Hub),43.31,-8.5
+DST_INDITEX_002,Magazzino Regionale,ES,Zaragoza (Logistics),41.64,-0.88
+DST_INDITEX_003,Negozio Fisico,IT,Milano (Store),45.46,9.19

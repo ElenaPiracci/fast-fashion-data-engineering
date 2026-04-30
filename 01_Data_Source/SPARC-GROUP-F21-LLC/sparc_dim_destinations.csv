@@ -1,0 +1,4 @@
+destination_id,destination_type,country_code,city,latitude,longitude
+DST_SPARC_001,Hub Centrale,US,New York (HQ Hub),40.71,-74.0
+DST_SPARC_002,Magazzino Regionale,US,Dallas (Distribution),32.77,-96.79
+DST_SPARC_003,Negozio Fisico,US,Chicago (Store),41.87,-87.62

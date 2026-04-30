@@ -1,0 +1,6 @@
+material_id,material_name,co2_kg_per_kg,water_liters_per_kg,microplastic_shedding_rank
+PR_MAT_1,Cotone Sostenibile (PSCP),3.5,500,1
+PR_MAT_2,Cotone Convenzionale Basso Costo,6.2,3000,1
+PR_MAT_3,Poliestere Economico,8.5,55,5
+PR_MAT_4,Acrilico Basic,10.0,75,5
+PR_MAT_5,Misto Viscosa,5.8,2500,2

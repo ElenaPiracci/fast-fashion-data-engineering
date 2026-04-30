@@ -1,0 +1,1001 @@
+product_id,brand_id,category,product_lifecycle,main_material,weight_grams
+FR_PRD_00000,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),227
+FR_PRD_00001,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,390
+FR_PRD_00002,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),141
+FR_PRD_00003,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,230
+FR_PRD_00004,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,343
+FR_PRD_00005,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,171
+FR_PRD_00006,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,281
+FR_PRD_00007,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),270
+FR_PRD_00008,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,329
+FR_PRD_00009,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),249
+FR_PRD_00010,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),206
+FR_PRD_00011,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),240
+FR_PRD_00012,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,332
+FR_PRD_00013,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),301
+FR_PRD_00014,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),450
+FR_PRD_00015,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),119
+FR_PRD_00016,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,288
+FR_PRD_00017,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,272
+FR_PRD_00018,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),116
+FR_PRD_00019,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,321
+FR_PRD_00020,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,240
+FR_PRD_00021,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),196
+FR_PRD_00022,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,222
+FR_PRD_00023,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),244
+FR_PRD_00024,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,170
+FR_PRD_00025,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,278
+FR_PRD_00026,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),428
+FR_PRD_00027,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,305
+FR_PRD_00028,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,193
+FR_PRD_00029,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,345
+FR_PRD_00030,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,182
+FR_PRD_00031,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,328
+FR_PRD_00032,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,154
+FR_PRD_00033,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),141
+FR_PRD_00034,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),233
+FR_PRD_00035,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,470
+FR_PRD_00036,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),202
+FR_PRD_00037,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),414
+FR_PRD_00038,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,268
+FR_PRD_00039,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,355
+FR_PRD_00040,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),260
+FR_PRD_00041,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,305
+FR_PRD_00042,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,265
+FR_PRD_00043,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,444
+FR_PRD_00044,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),188
+FR_PRD_00045,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,429
+FR_PRD_00046,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),265
+FR_PRD_00047,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,336
+FR_PRD_00048,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,429
+FR_PRD_00049,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),239
+FR_PRD_00050,FR04,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,339
+FR_PRD_00051,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),102
+FR_PRD_00052,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,232
+FR_PRD_00053,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,227
+FR_PRD_00054,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),195
+FR_PRD_00055,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),201
+FR_PRD_00056,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),104
+FR_PRD_00057,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),257
+FR_PRD_00058,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),148
+FR_PRD_00059,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,471
+FR_PRD_00060,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,277
+FR_PRD_00061,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,166
+FR_PRD_00062,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,370
+FR_PRD_00063,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,323
+FR_PRD_00064,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,447
+FR_PRD_00065,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),172
+FR_PRD_00066,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),384
+FR_PRD_00067,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,253
+FR_PRD_00068,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,479
+FR_PRD_00069,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,231
+FR_PRD_00070,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,246
+FR_PRD_00071,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,275
+FR_PRD_00072,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,267
+FR_PRD_00073,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),402
+FR_PRD_00074,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,358
+FR_PRD_00075,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,257
+FR_PRD_00076,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),214
+FR_PRD_00077,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,303
+FR_PRD_00078,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),161
+FR_PRD_00079,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,379
+FR_PRD_00080,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,400
+FR_PRD_00081,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,342
+FR_PRD_00082,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,380
+FR_PRD_00083,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,260
+FR_PRD_00084,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,349
+FR_PRD_00085,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,174
+FR_PRD_00086,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),241
+FR_PRD_00087,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,217
+FR_PRD_00088,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,498
+FR_PRD_00089,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,156
+FR_PRD_00090,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),344
+FR_PRD_00091,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),203
+FR_PRD_00092,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),168
+FR_PRD_00093,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,229
+FR_PRD_00094,FR04,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,372
+FR_PRD_00095,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,252
+FR_PRD_00096,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),219
+FR_PRD_00097,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,405
+FR_PRD_00098,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),226
+FR_PRD_00099,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,370
+FR_PRD_00100,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,289
+FR_PRD_00101,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),247
+FR_PRD_00102,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,285
+FR_PRD_00103,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),227
+FR_PRD_00104,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,183
+FR_PRD_00105,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,171
+FR_PRD_00106,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),240
+FR_PRD_00107,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,321
+FR_PRD_00108,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,338
+FR_PRD_00109,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),160
+FR_PRD_00110,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,341
+FR_PRD_00111,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,407
+FR_PRD_00112,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,209
+FR_PRD_00113,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,345
+FR_PRD_00114,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),379
+FR_PRD_00115,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,180
+FR_PRD_00116,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,286
+FR_PRD_00117,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,389
+FR_PRD_00118,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,167
+FR_PRD_00119,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),301
+FR_PRD_00120,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),116
+FR_PRD_00121,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,225
+FR_PRD_00122,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,287
+FR_PRD_00123,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),223
+FR_PRD_00124,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),204
+FR_PRD_00125,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),215
+FR_PRD_00126,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),335
+FR_PRD_00127,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,319
+FR_PRD_00128,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),307
+FR_PRD_00129,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,259
+FR_PRD_00130,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),186
+FR_PRD_00131,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),239
+FR_PRD_00132,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,247
+FR_PRD_00133,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,383
+FR_PRD_00134,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,386
+FR_PRD_00135,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,362
+FR_PRD_00136,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,359
+FR_PRD_00137,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),211
+FR_PRD_00138,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),423
+FR_PRD_00139,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),171
+FR_PRD_00140,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,388
+FR_PRD_00141,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,268
+FR_PRD_00142,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,285
+FR_PRD_00143,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,274
+FR_PRD_00144,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),247
+FR_PRD_00145,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),352
+FR_PRD_00146,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,392
+FR_PRD_00147,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,326
+FR_PRD_00148,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,423
+FR_PRD_00149,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,312
+FR_PRD_00150,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,278
+FR_PRD_00151,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),190
+FR_PRD_00152,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,169
+FR_PRD_00153,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),261
+FR_PRD_00154,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,271
+FR_PRD_00155,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,365
+FR_PRD_00156,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),255
+FR_PRD_00157,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,261
+FR_PRD_00158,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,330
+FR_PRD_00159,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,214
+FR_PRD_00160,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,151
+FR_PRD_00161,FR04,Knitwear,Seasonal_Standard,Cashmere 3D Knit,317
+FR_PRD_00162,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),198
+FR_PRD_00163,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,353
+FR_PRD_00164,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,326
+FR_PRD_00165,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,152
+FR_PRD_00166,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,376
+FR_PRD_00167,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),175
+FR_PRD_00168,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,282
+FR_PRD_00169,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),211
+FR_PRD_00170,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),199
+FR_PRD_00171,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),295
+FR_PRD_00172,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),213
+FR_PRD_00173,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,385
+FR_PRD_00174,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),112
+FR_PRD_00175,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,438
+FR_PRD_00176,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,397
+FR_PRD_00177,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,335
+FR_PRD_00178,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),211
+FR_PRD_00179,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,462
+FR_PRD_00180,FR04,Knitwear,Seasonal_Standard,Cashmere 3D Knit,335
+FR_PRD_00181,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),261
+FR_PRD_00182,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,487
+FR_PRD_00183,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,206
+FR_PRD_00184,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,311
+FR_PRD_00185,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),223
+FR_PRD_00186,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,296
+FR_PRD_00187,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),210
+FR_PRD_00188,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,362
+FR_PRD_00189,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,308
+FR_PRD_00190,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,449
+FR_PRD_00191,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,457
+FR_PRD_00192,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,271
+FR_PRD_00193,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,193
+FR_PRD_00194,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,304
+FR_PRD_00195,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,289
+FR_PRD_00196,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,173
+FR_PRD_00197,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),189
+FR_PRD_00198,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,346
+FR_PRD_00199,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),312
+FR_PRD_00200,FR04,Knitwear,Seasonal_Standard,Cashmere 3D Knit,429
+FR_PRD_00201,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,350
+FR_PRD_00202,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),187
+FR_PRD_00203,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,281
+FR_PRD_00204,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),341
+FR_PRD_00205,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,171
+FR_PRD_00206,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),203
+FR_PRD_00207,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,253
+FR_PRD_00208,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),253
+FR_PRD_00209,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,416
+FR_PRD_00210,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,304
+FR_PRD_00211,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,288
+FR_PRD_00212,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),380
+FR_PRD_00213,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),142
+FR_PRD_00214,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),126
+FR_PRD_00215,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),328
+FR_PRD_00216,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),302
+FR_PRD_00217,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),183
+FR_PRD_00218,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,158
+FR_PRD_00219,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,356
+FR_PRD_00220,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,325
+FR_PRD_00221,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),385
+FR_PRD_00222,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),239
+FR_PRD_00223,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),197
+FR_PRD_00224,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,388
+FR_PRD_00225,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,410
+FR_PRD_00226,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,181
+FR_PRD_00227,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),410
+FR_PRD_00228,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),133
+FR_PRD_00229,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,341
+FR_PRD_00230,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),229
+FR_PRD_00231,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,176
+FR_PRD_00232,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,358
+FR_PRD_00233,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,331
+FR_PRD_00234,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),328
+FR_PRD_00235,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),146
+FR_PRD_00236,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),310
+FR_PRD_00237,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,197
+FR_PRD_00238,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,293
+FR_PRD_00239,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,433
+FR_PRD_00240,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,218
+FR_PRD_00241,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,196
+FR_PRD_00242,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),447
+FR_PRD_00243,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,314
+FR_PRD_00244,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),259
+FR_PRD_00245,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),397
+FR_PRD_00246,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),428
+FR_PRD_00247,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,310
+FR_PRD_00248,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),168
+FR_PRD_00249,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,335
+FR_PRD_00250,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,338
+FR_PRD_00251,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),313
+FR_PRD_00252,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),380
+FR_PRD_00253,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,312
+FR_PRD_00254,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,313
+FR_PRD_00255,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),236
+FR_PRD_00256,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),173
+FR_PRD_00257,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,334
+FR_PRD_00258,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),154
+FR_PRD_00259,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,216
+FR_PRD_00260,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,272
+FR_PRD_00261,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),355
+FR_PRD_00262,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,242
+FR_PRD_00263,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,231
+FR_PRD_00264,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),341
+FR_PRD_00265,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,343
+FR_PRD_00266,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),231
+FR_PRD_00267,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),179
+FR_PRD_00268,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,174
+FR_PRD_00269,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),275
+FR_PRD_00270,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),214
+FR_PRD_00271,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,377
+FR_PRD_00272,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,237
+FR_PRD_00273,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,326
+FR_PRD_00274,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),239
+FR_PRD_00275,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,492
+FR_PRD_00276,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),170
+FR_PRD_00277,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,267
+FR_PRD_00278,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,150
+FR_PRD_00279,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),390
+FR_PRD_00280,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),420
+FR_PRD_00281,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,156
+FR_PRD_00282,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),125
+FR_PRD_00283,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,150
+FR_PRD_00284,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,353
+FR_PRD_00285,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,378
+FR_PRD_00286,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),353
+FR_PRD_00287,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,347
+FR_PRD_00288,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,209
+FR_PRD_00289,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,250
+FR_PRD_00290,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,241
+FR_PRD_00291,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),425
+FR_PRD_00292,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),208
+FR_PRD_00293,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),391
+FR_PRD_00294,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,435
+FR_PRD_00295,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,327
+FR_PRD_00296,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,158
+FR_PRD_00297,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),147
+FR_PRD_00298,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,171
+FR_PRD_00299,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,459
+FR_PRD_00300,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,331
+FR_PRD_00301,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,263
+FR_PRD_00302,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,467
+FR_PRD_00303,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),153
+FR_PRD_00304,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),317
+FR_PRD_00305,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,384
+FR_PRD_00306,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,306
+FR_PRD_00307,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),340
+FR_PRD_00308,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),263
+FR_PRD_00309,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,291
+FR_PRD_00310,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,256
+FR_PRD_00311,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),357
+FR_PRD_00312,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),229
+FR_PRD_00313,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,382
+FR_PRD_00314,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,351
+FR_PRD_00315,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,180
+FR_PRD_00316,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,256
+FR_PRD_00317,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,282
+FR_PRD_00318,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,299
+FR_PRD_00319,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,315
+FR_PRD_00320,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),449
+FR_PRD_00321,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,175
+FR_PRD_00322,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,394
+FR_PRD_00323,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,293
+FR_PRD_00324,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,383
+FR_PRD_00325,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,333
+FR_PRD_00326,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),223
+FR_PRD_00327,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),198
+FR_PRD_00328,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,323
+FR_PRD_00329,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,271
+FR_PRD_00330,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,228
+FR_PRD_00331,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,208
+FR_PRD_00332,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),406
+FR_PRD_00333,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),293
+FR_PRD_00334,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),355
+FR_PRD_00335,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,222
+FR_PRD_00336,FR04,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,251
+FR_PRD_00337,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,255
+FR_PRD_00338,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),180
+FR_PRD_00339,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,224
+FR_PRD_00340,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),386
+FR_PRD_00341,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),369
+FR_PRD_00342,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,265
+FR_PRD_00343,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,464
+FR_PRD_00344,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),393
+FR_PRD_00345,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,261
+FR_PRD_00346,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),200
+FR_PRD_00347,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,312
+FR_PRD_00348,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,395
+FR_PRD_00349,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,337
+FR_PRD_00350,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,263
+FR_PRD_00351,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,282
+FR_PRD_00352,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,490
+FR_PRD_00353,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),332
+FR_PRD_00354,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,286
+FR_PRD_00355,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,473
+FR_PRD_00356,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,335
+FR_PRD_00357,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,368
+FR_PRD_00358,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,399
+FR_PRD_00359,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),390
+FR_PRD_00360,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,384
+FR_PRD_00361,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,248
+FR_PRD_00362,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,464
+FR_PRD_00363,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,318
+FR_PRD_00364,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,349
+FR_PRD_00365,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),225
+FR_PRD_00366,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,356
+FR_PRD_00367,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,203
+FR_PRD_00368,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,297
+FR_PRD_00369,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,322
+FR_PRD_00370,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),362
+FR_PRD_00371,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),194
+FR_PRD_00372,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,232
+FR_PRD_00373,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,208
+FR_PRD_00374,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,292
+FR_PRD_00375,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),109
+FR_PRD_00376,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,299
+FR_PRD_00377,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,380
+FR_PRD_00378,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,365
+FR_PRD_00379,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,328
+FR_PRD_00380,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),318
+FR_PRD_00381,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),201
+FR_PRD_00382,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),288
+FR_PRD_00383,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),241
+FR_PRD_00384,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,316
+FR_PRD_00385,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,202
+FR_PRD_00386,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),240
+FR_PRD_00387,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,331
+FR_PRD_00388,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),299
+FR_PRD_00389,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,293
+FR_PRD_00390,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),249
+FR_PRD_00391,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),228
+FR_PRD_00392,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,363
+FR_PRD_00393,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),203
+FR_PRD_00394,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,180
+FR_PRD_00395,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,334
+FR_PRD_00396,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),209
+FR_PRD_00397,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,303
+FR_PRD_00398,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,278
+FR_PRD_00399,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,164
+FR_PRD_00400,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,374
+FR_PRD_00401,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),104
+FR_PRD_00402,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,182
+FR_PRD_00403,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,262
+FR_PRD_00404,FR04,Knitwear,Seasonal_Standard,Cashmere 3D Knit,255
+FR_PRD_00405,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),437
+FR_PRD_00406,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),165
+FR_PRD_00407,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,187
+FR_PRD_00408,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),222
+FR_PRD_00409,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,343
+FR_PRD_00410,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),119
+FR_PRD_00411,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,153
+FR_PRD_00412,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,397
+FR_PRD_00413,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),337
+FR_PRD_00414,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),143
+FR_PRD_00415,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,199
+FR_PRD_00416,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,278
+FR_PRD_00417,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,388
+FR_PRD_00418,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,281
+FR_PRD_00419,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),359
+FR_PRD_00420,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,310
+FR_PRD_00421,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,351
+FR_PRD_00422,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),271
+FR_PRD_00423,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,499
+FR_PRD_00424,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,312
+FR_PRD_00425,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),415
+FR_PRD_00426,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,154
+FR_PRD_00427,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,485
+FR_PRD_00428,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,330
+FR_PRD_00429,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),320
+FR_PRD_00430,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,155
+FR_PRD_00431,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,223
+FR_PRD_00432,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),442
+FR_PRD_00433,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),210
+FR_PRD_00434,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),362
+FR_PRD_00435,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,431
+FR_PRD_00436,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),414
+FR_PRD_00437,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,452
+FR_PRD_00438,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,349
+FR_PRD_00439,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,221
+FR_PRD_00440,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,362
+FR_PRD_00441,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,358
+FR_PRD_00442,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,384
+FR_PRD_00443,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,206
+FR_PRD_00444,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,390
+FR_PRD_00445,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,182
+FR_PRD_00446,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,161
+FR_PRD_00447,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,309
+FR_PRD_00448,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),250
+FR_PRD_00449,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,235
+FR_PRD_00450,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),133
+FR_PRD_00451,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,305
+FR_PRD_00452,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),204
+FR_PRD_00453,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,163
+FR_PRD_00454,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),111
+FR_PRD_00455,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),129
+FR_PRD_00456,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),206
+FR_PRD_00457,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,184
+FR_PRD_00458,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),439
+FR_PRD_00459,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),270
+FR_PRD_00460,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,273
+FR_PRD_00461,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,251
+FR_PRD_00462,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,457
+FR_PRD_00463,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,247
+FR_PRD_00464,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,160
+FR_PRD_00465,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),219
+FR_PRD_00466,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),385
+FR_PRD_00467,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,160
+FR_PRD_00468,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),359
+FR_PRD_00469,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),138
+FR_PRD_00470,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),170
+FR_PRD_00471,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,175
+FR_PRD_00472,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,230
+FR_PRD_00473,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,245
+FR_PRD_00474,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),155
+FR_PRD_00475,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,266
+FR_PRD_00476,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),218
+FR_PRD_00477,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,485
+FR_PRD_00478,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,297
+FR_PRD_00479,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,416
+FR_PRD_00480,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,320
+FR_PRD_00481,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,319
+FR_PRD_00482,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),218
+FR_PRD_00483,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,199
+FR_PRD_00484,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,392
+FR_PRD_00485,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,288
+FR_PRD_00486,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),314
+FR_PRD_00487,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,230
+FR_PRD_00488,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),416
+FR_PRD_00489,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),333
+FR_PRD_00490,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),205
+FR_PRD_00491,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),344
+FR_PRD_00492,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),203
+FR_PRD_00493,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,278
+FR_PRD_00494,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),249
+FR_PRD_00495,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),163
+FR_PRD_00496,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),373
+FR_PRD_00497,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,332
+FR_PRD_00498,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),231
+FR_PRD_00499,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,277
+FR_PRD_00500,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),450
+FR_PRD_00501,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,252
+FR_PRD_00502,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),279
+FR_PRD_00503,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),142
+FR_PRD_00504,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),401
+FR_PRD_00505,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,160
+FR_PRD_00506,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),176
+FR_PRD_00507,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),155
+FR_PRD_00508,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),167
+FR_PRD_00509,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,394
+FR_PRD_00510,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,430
+FR_PRD_00511,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),346
+FR_PRD_00512,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),140
+FR_PRD_00513,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,220
+FR_PRD_00514,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,363
+FR_PRD_00515,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,152
+FR_PRD_00516,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),249
+FR_PRD_00517,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),362
+FR_PRD_00518,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,386
+FR_PRD_00519,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,306
+FR_PRD_00520,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,304
+FR_PRD_00521,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),127
+FR_PRD_00522,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,271
+FR_PRD_00523,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,181
+FR_PRD_00524,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),417
+FR_PRD_00525,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,232
+FR_PRD_00526,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,293
+FR_PRD_00527,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),377
+FR_PRD_00528,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,253
+FR_PRD_00529,FR04,Knitwear,Seasonal_Standard,Cashmere 3D Knit,268
+FR_PRD_00530,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,280
+FR_PRD_00531,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,377
+FR_PRD_00532,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),357
+FR_PRD_00533,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,236
+FR_PRD_00534,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,342
+FR_PRD_00535,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),113
+FR_PRD_00536,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),221
+FR_PRD_00537,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),339
+FR_PRD_00538,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,397
+FR_PRD_00539,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),208
+FR_PRD_00540,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,209
+FR_PRD_00541,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),176
+FR_PRD_00542,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),168
+FR_PRD_00543,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),294
+FR_PRD_00544,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),242
+FR_PRD_00545,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),437
+FR_PRD_00546,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,296
+FR_PRD_00547,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),151
+FR_PRD_00548,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,394
+FR_PRD_00549,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,385
+FR_PRD_00550,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,281
+FR_PRD_00551,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),172
+FR_PRD_00552,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,281
+FR_PRD_00553,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,276
+FR_PRD_00554,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,216
+FR_PRD_00555,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),337
+FR_PRD_00556,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),224
+FR_PRD_00557,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,372
+FR_PRD_00558,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,294
+FR_PRD_00559,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,256
+FR_PRD_00560,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,329
+FR_PRD_00561,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,216
+FR_PRD_00562,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,429
+FR_PRD_00563,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,241
+FR_PRD_00564,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,190
+FR_PRD_00565,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,298
+FR_PRD_00566,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,177
+FR_PRD_00567,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),265
+FR_PRD_00568,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),189
+FR_PRD_00569,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,281
+FR_PRD_00570,FR04,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,415
+FR_PRD_00571,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),256
+FR_PRD_00572,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,272
+FR_PRD_00573,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),207
+FR_PRD_00574,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,377
+FR_PRD_00575,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,151
+FR_PRD_00576,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,254
+FR_PRD_00577,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,471
+FR_PRD_00578,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),212
+FR_PRD_00579,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,215
+FR_PRD_00580,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,278
+FR_PRD_00581,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,305
+FR_PRD_00582,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),140
+FR_PRD_00583,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),134
+FR_PRD_00584,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,435
+FR_PRD_00585,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,374
+FR_PRD_00586,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,315
+FR_PRD_00587,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),132
+FR_PRD_00588,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),402
+FR_PRD_00589,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,304
+FR_PRD_00590,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,360
+FR_PRD_00591,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,288
+FR_PRD_00592,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,151
+FR_PRD_00593,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,291
+FR_PRD_00594,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,182
+FR_PRD_00595,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,161
+FR_PRD_00596,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),162
+FR_PRD_00597,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,167
+FR_PRD_00598,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),344
+FR_PRD_00599,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),425
+FR_PRD_00600,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,253
+FR_PRD_00601,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),111
+FR_PRD_00602,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,207
+FR_PRD_00603,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),248
+FR_PRD_00604,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,290
+FR_PRD_00605,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,499
+FR_PRD_00606,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),398
+FR_PRD_00607,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),123
+FR_PRD_00608,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),377
+FR_PRD_00609,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),138
+FR_PRD_00610,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,177
+FR_PRD_00611,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,280
+FR_PRD_00612,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,180
+FR_PRD_00613,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,349
+FR_PRD_00614,FR05,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),158
+FR_PRD_00615,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,268
+FR_PRD_00616,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,212
+FR_PRD_00617,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),204
+FR_PRD_00618,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),130
+FR_PRD_00619,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),231
+FR_PRD_00620,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),348
+FR_PRD_00621,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,356
+FR_PRD_00622,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),164
+FR_PRD_00623,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,256
+FR_PRD_00624,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,264
+FR_PRD_00625,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,278
+FR_PRD_00626,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,227
+FR_PRD_00627,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),395
+FR_PRD_00628,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,424
+FR_PRD_00629,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,275
+FR_PRD_00630,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,293
+FR_PRD_00631,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),117
+FR_PRD_00632,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),443
+FR_PRD_00633,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,395
+FR_PRD_00634,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,342
+FR_PRD_00635,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,233
+FR_PRD_00636,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,394
+FR_PRD_00637,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,191
+FR_PRD_00638,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,360
+FR_PRD_00639,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,300
+FR_PRD_00640,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),381
+FR_PRD_00641,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),120
+FR_PRD_00642,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,328
+FR_PRD_00643,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),153
+FR_PRD_00644,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),238
+FR_PRD_00645,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),372
+FR_PRD_00646,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,347
+FR_PRD_00647,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),191
+FR_PRD_00648,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),119
+FR_PRD_00649,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),132
+FR_PRD_00650,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,270
+FR_PRD_00651,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),376
+FR_PRD_00652,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),418
+FR_PRD_00653,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),350
+FR_PRD_00654,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),171
+FR_PRD_00655,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,354
+FR_PRD_00656,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),233
+FR_PRD_00657,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,384
+FR_PRD_00658,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,286
+FR_PRD_00659,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),303
+FR_PRD_00660,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,210
+FR_PRD_00661,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,353
+FR_PRD_00662,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),351
+FR_PRD_00663,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),259
+FR_PRD_00664,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),246
+FR_PRD_00665,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),336
+FR_PRD_00666,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),171
+FR_PRD_00667,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,324
+FR_PRD_00668,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,375
+FR_PRD_00669,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,314
+FR_PRD_00670,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),232
+FR_PRD_00671,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),175
+FR_PRD_00672,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,273
+FR_PRD_00673,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,372
+FR_PRD_00674,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),184
+FR_PRD_00675,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,196
+FR_PRD_00676,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),123
+FR_PRD_00677,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),206
+FR_PRD_00678,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),160
+FR_PRD_00679,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,332
+FR_PRD_00680,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,316
+FR_PRD_00681,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,453
+FR_PRD_00682,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,313
+FR_PRD_00683,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,346
+FR_PRD_00684,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),217
+FR_PRD_00685,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),437
+FR_PRD_00686,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),433
+FR_PRD_00687,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),212
+FR_PRD_00688,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,356
+FR_PRD_00689,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,373
+FR_PRD_00690,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,177
+FR_PRD_00691,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,185
+FR_PRD_00692,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),354
+FR_PRD_00693,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),130
+FR_PRD_00694,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,393
+FR_PRD_00695,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),169
+FR_PRD_00696,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,262
+FR_PRD_00697,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),382
+FR_PRD_00698,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),216
+FR_PRD_00699,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,397
+FR_PRD_00700,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,317
+FR_PRD_00701,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,340
+FR_PRD_00702,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),217
+FR_PRD_00703,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),347
+FR_PRD_00704,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),153
+FR_PRD_00705,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),378
+FR_PRD_00706,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),404
+FR_PRD_00707,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,198
+FR_PRD_00708,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),112
+FR_PRD_00709,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),409
+FR_PRD_00710,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,283
+FR_PRD_00711,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),306
+FR_PRD_00712,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,273
+FR_PRD_00713,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,397
+FR_PRD_00714,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,269
+FR_PRD_00715,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),265
+FR_PRD_00716,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),220
+FR_PRD_00717,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),342
+FR_PRD_00718,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),328
+FR_PRD_00719,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,233
+FR_PRD_00720,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),314
+FR_PRD_00721,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),118
+FR_PRD_00722,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),207
+FR_PRD_00723,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,434
+FR_PRD_00724,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,196
+FR_PRD_00725,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,183
+FR_PRD_00726,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,430
+FR_PRD_00727,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,215
+FR_PRD_00728,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),335
+FR_PRD_00729,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,334
+FR_PRD_00730,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),241
+FR_PRD_00731,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,227
+FR_PRD_00732,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,353
+FR_PRD_00733,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,260
+FR_PRD_00734,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),378
+FR_PRD_00735,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),292
+FR_PRD_00736,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,472
+FR_PRD_00737,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,368
+FR_PRD_00738,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,312
+FR_PRD_00739,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,211
+FR_PRD_00740,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,151
+FR_PRD_00741,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),217
+FR_PRD_00742,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,253
+FR_PRD_00743,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),296
+FR_PRD_00744,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,382
+FR_PRD_00745,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),225
+FR_PRD_00746,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,334
+FR_PRD_00747,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),233
+FR_PRD_00748,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),415
+FR_PRD_00749,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,229
+FR_PRD_00750,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,355
+FR_PRD_00751,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,158
+FR_PRD_00752,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,482
+FR_PRD_00753,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),370
+FR_PRD_00754,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),245
+FR_PRD_00755,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),210
+FR_PRD_00756,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,214
+FR_PRD_00757,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,391
+FR_PRD_00758,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,302
+FR_PRD_00759,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,364
+FR_PRD_00760,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),106
+FR_PRD_00761,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),199
+FR_PRD_00762,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,300
+FR_PRD_00763,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,340
+FR_PRD_00764,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,167
+FR_PRD_00765,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,268
+FR_PRD_00766,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,319
+FR_PRD_00767,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,279
+FR_PRD_00768,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),417
+FR_PRD_00769,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,220
+FR_PRD_00770,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),377
+FR_PRD_00771,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,372
+FR_PRD_00772,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,219
+FR_PRD_00773,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,203
+FR_PRD_00774,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,194
+FR_PRD_00775,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,150
+FR_PRD_00776,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,246
+FR_PRD_00777,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),277
+FR_PRD_00778,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,237
+FR_PRD_00779,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),105
+FR_PRD_00780,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,345
+FR_PRD_00781,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),400
+FR_PRD_00782,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,155
+FR_PRD_00783,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),272
+FR_PRD_00784,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),442
+FR_PRD_00785,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,358
+FR_PRD_00786,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),167
+FR_PRD_00787,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),284
+FR_PRD_00788,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),398
+FR_PRD_00789,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,306
+FR_PRD_00790,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),391
+FR_PRD_00791,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,387
+FR_PRD_00792,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),159
+FR_PRD_00793,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,173
+FR_PRD_00794,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),142
+FR_PRD_00795,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),315
+FR_PRD_00796,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),307
+FR_PRD_00797,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,357
+FR_PRD_00798,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),312
+FR_PRD_00799,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,318
+FR_PRD_00800,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),210
+FR_PRD_00801,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,309
+FR_PRD_00802,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,254
+FR_PRD_00803,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,346
+FR_PRD_00804,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),311
+FR_PRD_00805,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,232
+FR_PRD_00806,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),108
+FR_PRD_00807,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),219
+FR_PRD_00808,FR04,Knitwear,Seasonal_Standard,Cashmere 3D Knit,350
+FR_PRD_00809,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,193
+FR_PRD_00810,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,198
+FR_PRD_00811,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),232
+FR_PRD_00812,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,373
+FR_PRD_00813,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,309
+FR_PRD_00814,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,498
+FR_PRD_00815,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,208
+FR_PRD_00816,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,233
+FR_PRD_00817,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),362
+FR_PRD_00818,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,400
+FR_PRD_00819,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,350
+FR_PRD_00820,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,353
+FR_PRD_00821,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,258
+FR_PRD_00822,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),137
+FR_PRD_00823,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),192
+FR_PRD_00824,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),224
+FR_PRD_00825,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),248
+FR_PRD_00826,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,228
+FR_PRD_00827,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),205
+FR_PRD_00828,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),157
+FR_PRD_00829,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,150
+FR_PRD_00830,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,341
+FR_PRD_00831,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,203
+FR_PRD_00832,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,255
+FR_PRD_00833,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),288
+FR_PRD_00834,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,308
+FR_PRD_00835,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,294
+FR_PRD_00836,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,172
+FR_PRD_00837,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,375
+FR_PRD_00838,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,316
+FR_PRD_00839,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,334
+FR_PRD_00840,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),209
+FR_PRD_00841,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,155
+FR_PRD_00842,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,303
+FR_PRD_00843,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,268
+FR_PRD_00844,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),123
+FR_PRD_00845,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),216
+FR_PRD_00846,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,282
+FR_PRD_00847,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,243
+FR_PRD_00848,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),106
+FR_PRD_00849,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),355
+FR_PRD_00850,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,347
+FR_PRD_00851,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,258
+FR_PRD_00852,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,233
+FR_PRD_00853,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),310
+FR_PRD_00854,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,364
+FR_PRD_00855,FR02,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,266
+FR_PRD_00856,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,398
+FR_PRD_00857,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),176
+FR_PRD_00858,FR04,Knitwear,Seasonal_Standard,Cashmere 3D Knit,441
+FR_PRD_00859,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),209
+FR_PRD_00860,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,363
+FR_PRD_00861,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),224
+FR_PRD_00862,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,306
+FR_PRD_00863,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,282
+FR_PRD_00864,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),351
+FR_PRD_00865,FR06,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),247
+FR_PRD_00866,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),231
+FR_PRD_00867,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),214
+FR_PRD_00868,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,185
+FR_PRD_00869,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,261
+FR_PRD_00870,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,260
+FR_PRD_00871,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),248
+FR_PRD_00872,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),114
+FR_PRD_00873,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,317
+FR_PRD_00874,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,276
+FR_PRD_00875,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,256
+FR_PRD_00876,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),187
+FR_PRD_00877,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,276
+FR_PRD_00878,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,222
+FR_PRD_00879,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),448
+FR_PRD_00880,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,219
+FR_PRD_00881,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,450
+FR_PRD_00882,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,280
+FR_PRD_00883,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),259
+FR_PRD_00884,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),220
+FR_PRD_00885,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,288
+FR_PRD_00886,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),366
+FR_PRD_00887,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,382
+FR_PRD_00888,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),289
+FR_PRD_00889,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,292
+FR_PRD_00890,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),103
+FR_PRD_00891,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),136
+FR_PRD_00892,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),420
+FR_PRD_00893,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),334
+FR_PRD_00894,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,377
+FR_PRD_00895,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,368
+FR_PRD_00896,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,353
+FR_PRD_00897,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),339
+FR_PRD_00898,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),111
+FR_PRD_00899,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,302
+FR_PRD_00900,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),337
+FR_PRD_00901,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,379
+FR_PRD_00902,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),146
+FR_PRD_00903,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),386
+FR_PRD_00904,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),202
+FR_PRD_00905,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,154
+FR_PRD_00906,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),154
+FR_PRD_00907,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),130
+FR_PRD_00908,FR01,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),314
+FR_PRD_00909,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,393
+FR_PRD_00910,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),313
+FR_PRD_00911,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),428
+FR_PRD_00912,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,397
+FR_PRD_00913,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,309
+FR_PRD_00914,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,341
+FR_PRD_00915,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,384
+FR_PRD_00916,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,222
+FR_PRD_00917,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,421
+FR_PRD_00918,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),206
+FR_PRD_00919,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),244
+FR_PRD_00920,FR01,Knitwear,Core_Long_Term,Cashmere 3D Knit,329
+FR_PRD_00921,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,375
+FR_PRD_00922,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),320
+FR_PRD_00923,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),209
+FR_PRD_00924,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,329
+FR_PRD_00925,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,235
+FR_PRD_00926,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,345
+FR_PRD_00927,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,287
+FR_PRD_00928,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),180
+FR_PRD_00929,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),195
+FR_PRD_00930,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,416
+FR_PRD_00931,FR02,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),240
+FR_PRD_00932,FR03,Knitwear,Seasonal_Standard,Cashmere 3D Knit,333
+FR_PRD_00933,FR01,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),211
+FR_PRD_00934,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,263
+FR_PRD_00935,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,325
+FR_PRD_00936,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),429
+FR_PRD_00937,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,306
+FR_PRD_00938,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),393
+FR_PRD_00939,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,288
+FR_PRD_00940,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),438
+FR_PRD_00941,FR03,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),241
+FR_PRD_00942,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),236
+FR_PRD_00943,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,364
+FR_PRD_00944,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),410
+FR_PRD_00945,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,304
+FR_PRD_00946,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,270
+FR_PRD_00947,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,192
+FR_PRD_00948,FR03,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),212
+FR_PRD_00949,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,174
+FR_PRD_00950,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),111
+FR_PRD_00951,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),303
+FR_PRD_00952,FR05,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,354
+FR_PRD_00953,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),277
+FR_PRD_00954,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),349
+FR_PRD_00955,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,383
+FR_PRD_00956,FR06,Smart Casual Pants,Seasonal_Standard,Cotone Supima,255
+FR_PRD_00957,FR04,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,319
+FR_PRD_00958,FR06,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),163
+FR_PRD_00959,FR02,Innerwear & Loungewear,Core_Long_Term,HEATTECH (Misto Acrilico/Rayon),152
+FR_PRD_00960,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,220
+FR_PRD_00961,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,165
+FR_PRD_00962,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,224
+FR_PRD_00963,FR01,Innerwear & Loungewear,Core_Long_Term,AIRism (Cupro/Poliestere),237
+FR_PRD_00964,FR04,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),427
+FR_PRD_00965,FR02,Smart Casual Pants,Core_Long_Term,Cotone Supima,355
+FR_PRD_00966,FR02,Knitwear,Core_Long_Term,Cashmere 3D Knit,399
+FR_PRD_00967,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,362
+FR_PRD_00968,FR03,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),367
+FR_PRD_00969,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),122
+FR_PRD_00970,FR02,Knitwear,Core_Long_Term,Lana Merino Extra Fine,340
+FR_PRD_00971,FR04,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),240
+FR_PRD_00972,FR04,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,323
+FR_PRD_00973,FR04,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,391
+FR_PRD_00974,FR05,Knitwear,Seasonal_Standard,Cashmere 3D Knit,399
+FR_PRD_00975,FR04,Innerwear & Loungewear,Seasonal_Standard,AIRism (Cupro/Poliestere),209
+FR_PRD_00976,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),315
+FR_PRD_00977,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,214
+FR_PRD_00978,FR02,Fleece & Outerwear,Core_Long_Term,Ultra Light Down (Nylon/Piuma),204
+FR_PRD_00979,FR01,T-Shirts & Sweatshirts,Core_Long_Term,Cotone Supima,255
+FR_PRD_00980,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,312
+FR_PRD_00981,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,229
+FR_PRD_00982,FR06,Knitwear,Seasonal_Standard,Cashmere 3D Knit,328
+FR_PRD_00983,FR05,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,220
+FR_PRD_00984,FR03,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,355
+FR_PRD_00985,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,278
+FR_PRD_00986,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,335
+FR_PRD_00987,FR01,Knitwear,Core_Long_Term,Lana Merino Extra Fine,473
+FR_PRD_00988,FR06,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,380
+FR_PRD_00989,FR03,Smart Casual Pants,Seasonal_Standard,Cotone Supima,243
+FR_PRD_00990,FR06,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),438
+FR_PRD_00991,FR05,Smart Casual Pants,Seasonal_Standard,Cotone Supima,383
+FR_PRD_00992,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,315
+FR_PRD_00993,FR01,Smart Casual Pants,Core_Long_Term,Cotone Supima,203
+FR_PRD_00994,FR06,Knitwear,Seasonal_Standard,Lana Merino Extra Fine,478
+FR_PRD_00995,FR03,T-Shirts & Sweatshirts,Seasonal_Standard,Cotone Supima,306
+FR_PRD_00996,FR05,Innerwear & Loungewear,Seasonal_Standard,HEATTECH (Misto Acrilico/Rayon),248
+FR_PRD_00997,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),362
+FR_PRD_00998,FR04,Smart Casual Pants,Seasonal_Standard,Cotone Supima,390
+FR_PRD_00999,FR05,Fleece & Outerwear,Seasonal_Standard,Ultra Light Down (Nylon/Piuma),403

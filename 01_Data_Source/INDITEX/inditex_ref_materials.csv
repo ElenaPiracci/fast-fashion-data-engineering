@@ -1,0 +1,7 @@
+material_id,material_name,co2_kg_per_kg,water_liters_per_kg,microplastic_shedding_rank
+M01,Poliestere,7.2,60,5
+M02,Cotone Convenzionale,5.9,2700,1
+M03,Cotone Organico,3.2,240,1
+M04,Nylon,8.1,150,4
+M05,Viscosa,5.5,3000,2
+M06,Lana,13.5,500,1

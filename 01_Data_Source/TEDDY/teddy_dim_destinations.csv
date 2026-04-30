@@ -1,0 +1,4 @@
+destination_id,destination_type,country_code,city,latitude,longitude
+DST_TEDDY_001,Hub Centrale,IT,Rimini (HQ Hub),44.05,12.56
+DST_TEDDY_002,Magazzino Regionale,PL,Warsaw (Regional),52.22,21.01
+DST_TEDDY_003,Negozio Fisico,IT,Roma (Store),41.9,12.49

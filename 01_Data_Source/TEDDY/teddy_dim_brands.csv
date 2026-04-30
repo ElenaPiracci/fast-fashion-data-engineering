@@ -1,0 +1,5 @@
+company_id;brand_id;brand_name;parent_company;hq_country;transparency_score
+G_1;TED01;Terranova;Gruppo Teddy;Italy;25
+G_2;TED02;Calliope;Gruppo Teddy;Italy;25
+G_3;TED03;Rinascimento;Gruppo Teddy;Italy;20
+G_4;TED04;Miss Miss;Gruppo Teddy;Italy;18

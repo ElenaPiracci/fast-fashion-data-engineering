@@ -1,0 +1,9 @@
+company_id;brand_id;brand_name;parent_company;hq_country;transparency_score
+A_1;HM01;H&M;H&M Group;Sweden;71
+A_2;HM02;COS;H&M Group;Sweden;65
+A_3;HM03;Weekday;H&M Group;Sweden;66
+A_4;HM04;Monki;H&M Group;Sweden;64
+A_5;HM05;H&M HOME;H&M Group;Sweden;68
+A_6;HM06;& Other Stories;H&M Group;Sweden;62
+A_7;HM07;ARKET;H&M Group;Sweden;65
+A_8;HM08;Afound;H&M Group;Sweden;60

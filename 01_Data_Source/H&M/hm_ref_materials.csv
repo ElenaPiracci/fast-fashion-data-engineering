@@ -1,0 +1,7 @@
+material_id,material_name,co2_kg_per_kg,water_liters_per_kg,microplastic_shedding_rank
+MAT_01,Poliestere Riciclato,4.5,40,4
+MAT_02,Cotone Convenzionale,5.9,2700,1
+MAT_03,Cotone Organico,3.2,240,1
+MAT_04,Lyocell (TENCEL),4.0,100,1
+MAT_05,Elastan,9.5,150,3
+MAT_06,Lana Riciclata,3.8,50,2

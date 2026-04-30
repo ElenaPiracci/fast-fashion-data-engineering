@@ -1,0 +1,1001 @@
+product_id,brand_id,category,business_model,collection_cycle,main_material,weight_grams
+TED_PRD_0000,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),422
+TED_PRD_0001,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,519
+TED_PRD_0002,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),246
+TED_PRD_0003,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,309
+TED_PRD_0004,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,453
+TED_PRD_0005,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),353
+TED_PRD_0006,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,109
+TED_PRD_0007,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),149
+TED_PRD_0008,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),317
+TED_PRD_0009,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,347
+TED_PRD_0010,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,368
+TED_PRD_0011,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,316
+TED_PRD_0012,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,83
+TED_PRD_0013,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),336
+TED_PRD_0014,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),352
+TED_PRD_0015,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),291
+TED_PRD_0016,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,706
+TED_PRD_0017,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,411
+TED_PRD_0018,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),974
+TED_PRD_0019,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),261
+TED_PRD_0020,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,232
+TED_PRD_0021,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,1025
+TED_PRD_0022,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),356
+TED_PRD_0023,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),261
+TED_PRD_0024,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,297
+TED_PRD_0025,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),433
+TED_PRD_0026,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,760
+TED_PRD_0027,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),308
+TED_PRD_0028,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),264
+TED_PRD_0029,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),432
+TED_PRD_0030,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,209
+TED_PRD_0031,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,420
+TED_PRD_0032,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),335
+TED_PRD_0033,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),941
+TED_PRD_0034,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,553
+TED_PRD_0035,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,68
+TED_PRD_0036,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),306
+TED_PRD_0037,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),361
+TED_PRD_0038,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),1136
+TED_PRD_0039,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,312
+TED_PRD_0040,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,50
+TED_PRD_0041,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,248
+TED_PRD_0042,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,1255
+TED_PRD_0043,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),1209
+TED_PRD_0044,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),210
+TED_PRD_0045,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,95
+TED_PRD_0046,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),459
+TED_PRD_0047,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),107
+TED_PRD_0048,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),245
+TED_PRD_0049,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),199
+TED_PRD_0050,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,56
+TED_PRD_0051,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),261
+TED_PRD_0052,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,1235
+TED_PRD_0053,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,307
+TED_PRD_0054,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),292
+TED_PRD_0055,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),174
+TED_PRD_0056,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),255
+TED_PRD_0057,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),174
+TED_PRD_0058,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,292
+TED_PRD_0059,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,906
+TED_PRD_0060,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,115
+TED_PRD_0061,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),318
+TED_PRD_0062,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),254
+TED_PRD_0063,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),413
+TED_PRD_0064,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,223
+TED_PRD_0065,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),578
+TED_PRD_0066,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,353
+TED_PRD_0067,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,212
+TED_PRD_0068,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),418
+TED_PRD_0069,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),165
+TED_PRD_0070,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),438
+TED_PRD_0071,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,292
+TED_PRD_0072,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),339
+TED_PRD_0073,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),124
+TED_PRD_0074,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,145
+TED_PRD_0075,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),319
+TED_PRD_0076,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,479
+TED_PRD_0077,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,475
+TED_PRD_0078,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),336
+TED_PRD_0079,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),297
+TED_PRD_0080,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,173
+TED_PRD_0081,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,366
+TED_PRD_0082,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),280
+TED_PRD_0083,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),300
+TED_PRD_0084,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),456
+TED_PRD_0085,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),740
+TED_PRD_0086,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),321
+TED_PRD_0087,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),170
+TED_PRD_0088,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,951
+TED_PRD_0089,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,124
+TED_PRD_0090,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),147
+TED_PRD_0091,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),740
+TED_PRD_0092,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,315
+TED_PRD_0093,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),286
+TED_PRD_0094,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),315
+TED_PRD_0095,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),518
+TED_PRD_0096,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,1202
+TED_PRD_0097,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),128
+TED_PRD_0098,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),1140
+TED_PRD_0099,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),373
+TED_PRD_0100,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),518
+TED_PRD_0101,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),397
+TED_PRD_0102,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),122
+TED_PRD_0103,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,1163
+TED_PRD_0104,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,900
+TED_PRD_0105,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),259
+TED_PRD_0106,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,250
+TED_PRD_0107,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,338
+TED_PRD_0108,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),119
+TED_PRD_0109,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),367
+TED_PRD_0110,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,596
+TED_PRD_0111,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),378
+TED_PRD_0112,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),176
+TED_PRD_0113,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),361
+TED_PRD_0114,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),186
+TED_PRD_0115,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,208
+TED_PRD_0116,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,806
+TED_PRD_0117,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,228
+TED_PRD_0118,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,368
+TED_PRD_0119,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),54
+TED_PRD_0120,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),342
+TED_PRD_0121,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),569
+TED_PRD_0122,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,272
+TED_PRD_0123,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,1173
+TED_PRD_0124,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,127
+TED_PRD_0125,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),324
+TED_PRD_0126,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,302
+TED_PRD_0127,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),124
+TED_PRD_0128,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,374
+TED_PRD_0129,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),390
+TED_PRD_0130,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),492
+TED_PRD_0131,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,1259
+TED_PRD_0132,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,371
+TED_PRD_0133,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),341
+TED_PRD_0134,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),317
+TED_PRD_0135,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),229
+TED_PRD_0136,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,289
+TED_PRD_0137,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),339
+TED_PRD_0138,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),253
+TED_PRD_0139,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,284
+TED_PRD_0140,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,432
+TED_PRD_0141,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),181
+TED_PRD_0142,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),327
+TED_PRD_0143,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,231
+TED_PRD_0144,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),358
+TED_PRD_0145,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,253
+TED_PRD_0146,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),110
+TED_PRD_0147,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),312
+TED_PRD_0148,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,496
+TED_PRD_0149,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),256
+TED_PRD_0150,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,359
+TED_PRD_0151,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),353
+TED_PRD_0152,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),77
+TED_PRD_0153,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),249
+TED_PRD_0154,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,1143
+TED_PRD_0155,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),290
+TED_PRD_0156,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),219
+TED_PRD_0157,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,258
+TED_PRD_0158,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),495
+TED_PRD_0159,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,251
+TED_PRD_0160,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,390
+TED_PRD_0161,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,236
+TED_PRD_0162,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,289
+TED_PRD_0163,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,358
+TED_PRD_0164,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),218
+TED_PRD_0165,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,363
+TED_PRD_0166,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),280
+TED_PRD_0167,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),190
+TED_PRD_0168,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,182
+TED_PRD_0169,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,127
+TED_PRD_0170,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),1038
+TED_PRD_0171,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,259
+TED_PRD_0172,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,388
+TED_PRD_0173,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,299
+TED_PRD_0174,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),55
+TED_PRD_0175,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),238
+TED_PRD_0176,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,331
+TED_PRD_0177,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,567
+TED_PRD_0178,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),391
+TED_PRD_0179,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),525
+TED_PRD_0180,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,800
+TED_PRD_0181,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),76
+TED_PRD_0182,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,287
+TED_PRD_0183,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,724
+TED_PRD_0184,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),324
+TED_PRD_0185,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),895
+TED_PRD_0186,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),268
+TED_PRD_0187,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),965
+TED_PRD_0188,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),500
+TED_PRD_0189,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,144
+TED_PRD_0190,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),599
+TED_PRD_0191,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,1199
+TED_PRD_0192,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,263
+TED_PRD_0193,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,262
+TED_PRD_0194,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),454
+TED_PRD_0195,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,243
+TED_PRD_0196,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,335
+TED_PRD_0197,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),164
+TED_PRD_0198,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),93
+TED_PRD_0199,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),436
+TED_PRD_0200,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,145
+TED_PRD_0201,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),338
+TED_PRD_0202,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,391
+TED_PRD_0203,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),380
+TED_PRD_0204,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,595
+TED_PRD_0205,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),430
+TED_PRD_0206,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),423
+TED_PRD_0207,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,331
+TED_PRD_0208,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),184
+TED_PRD_0209,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),1098
+TED_PRD_0210,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),364
+TED_PRD_0211,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),945
+TED_PRD_0212,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),364
+TED_PRD_0213,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),553
+TED_PRD_0214,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),390
+TED_PRD_0215,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,63
+TED_PRD_0216,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,119
+TED_PRD_0217,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),313
+TED_PRD_0218,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,752
+TED_PRD_0219,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),246
+TED_PRD_0220,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,477
+TED_PRD_0221,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,584
+TED_PRD_0222,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,342
+TED_PRD_0223,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),240
+TED_PRD_0224,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),118
+TED_PRD_0225,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),211
+TED_PRD_0226,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,216
+TED_PRD_0227,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,1238
+TED_PRD_0228,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,397
+TED_PRD_0229,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),98
+TED_PRD_0230,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,150
+TED_PRD_0231,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),341
+TED_PRD_0232,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,564
+TED_PRD_0233,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),278
+TED_PRD_0234,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,281
+TED_PRD_0235,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,365
+TED_PRD_0236,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),346
+TED_PRD_0237,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,400
+TED_PRD_0238,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),466
+TED_PRD_0239,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),456
+TED_PRD_0240,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,301
+TED_PRD_0241,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,159
+TED_PRD_0242,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,86
+TED_PRD_0243,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,356
+TED_PRD_0244,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,1193
+TED_PRD_0245,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,107
+TED_PRD_0246,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,370
+TED_PRD_0247,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,241
+TED_PRD_0248,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),1049
+TED_PRD_0249,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),291
+TED_PRD_0250,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),446
+TED_PRD_0251,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,900
+TED_PRD_0252,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),100
+TED_PRD_0253,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),304
+TED_PRD_0254,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,196
+TED_PRD_0255,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),406
+TED_PRD_0256,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,1108
+TED_PRD_0257,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),500
+TED_PRD_0258,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,216
+TED_PRD_0259,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,127
+TED_PRD_0260,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,159
+TED_PRD_0261,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),378
+TED_PRD_0262,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,332
+TED_PRD_0263,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),329
+TED_PRD_0264,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),409
+TED_PRD_0265,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),753
+TED_PRD_0266,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),1077
+TED_PRD_0267,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),775
+TED_PRD_0268,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),386
+TED_PRD_0269,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,373
+TED_PRD_0270,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,296
+TED_PRD_0271,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,1255
+TED_PRD_0272,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,993
+TED_PRD_0273,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),128
+TED_PRD_0274,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,297
+TED_PRD_0275,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),523
+TED_PRD_0276,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,581
+TED_PRD_0277,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),810
+TED_PRD_0278,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,219
+TED_PRD_0279,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),966
+TED_PRD_0280,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,319
+TED_PRD_0281,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,99
+TED_PRD_0282,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,334
+TED_PRD_0283,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,247
+TED_PRD_0284,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,1226
+TED_PRD_0285,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,1149
+TED_PRD_0286,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),59
+TED_PRD_0287,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),65
+TED_PRD_0288,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,385
+TED_PRD_0289,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),116
+TED_PRD_0290,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),287
+TED_PRD_0291,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,84
+TED_PRD_0292,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),239
+TED_PRD_0293,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),874
+TED_PRD_0294,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),187
+TED_PRD_0295,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,87
+TED_PRD_0296,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,262
+TED_PRD_0297,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,320
+TED_PRD_0298,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,140
+TED_PRD_0299,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),777
+TED_PRD_0300,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,260
+TED_PRD_0301,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),532
+TED_PRD_0302,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,149
+TED_PRD_0303,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),371
+TED_PRD_0304,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),93
+TED_PRD_0305,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,266
+TED_PRD_0306,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),397
+TED_PRD_0307,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,753
+TED_PRD_0308,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,1152
+TED_PRD_0309,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,82
+TED_PRD_0310,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),300
+TED_PRD_0311,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),397
+TED_PRD_0312,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),582
+TED_PRD_0313,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),356
+TED_PRD_0314,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,253
+TED_PRD_0315,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),388
+TED_PRD_0316,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,103
+TED_PRD_0317,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),291
+TED_PRD_0318,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,227
+TED_PRD_0319,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),957
+TED_PRD_0320,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,472
+TED_PRD_0321,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,915
+TED_PRD_0322,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),269
+TED_PRD_0323,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,353
+TED_PRD_0324,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,1075
+TED_PRD_0325,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),113
+TED_PRD_0326,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),314
+TED_PRD_0327,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),412
+TED_PRD_0328,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),375
+TED_PRD_0329,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),311
+TED_PRD_0330,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,303
+TED_PRD_0331,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,424
+TED_PRD_0332,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),331
+TED_PRD_0333,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),268
+TED_PRD_0334,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,179
+TED_PRD_0335,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),939
+TED_PRD_0336,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,881
+TED_PRD_0337,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),269
+TED_PRD_0338,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),1227
+TED_PRD_0339,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),358
+TED_PRD_0340,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),289
+TED_PRD_0341,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),176
+TED_PRD_0342,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,137
+TED_PRD_0343,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),1126
+TED_PRD_0344,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,368
+TED_PRD_0345,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),285
+TED_PRD_0346,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,140
+TED_PRD_0347,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,1154
+TED_PRD_0348,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),81
+TED_PRD_0349,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,269
+TED_PRD_0350,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,456
+TED_PRD_0351,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,137
+TED_PRD_0352,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,294
+TED_PRD_0353,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,99
+TED_PRD_0354,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,417
+TED_PRD_0355,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),422
+TED_PRD_0356,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,468
+TED_PRD_0357,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,400
+TED_PRD_0358,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),310
+TED_PRD_0359,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),80
+TED_PRD_0360,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),294
+TED_PRD_0361,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),513
+TED_PRD_0362,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),1015
+TED_PRD_0363,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),428
+TED_PRD_0364,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),134
+TED_PRD_0365,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),258
+TED_PRD_0366,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),270
+TED_PRD_0367,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,308
+TED_PRD_0368,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,734
+TED_PRD_0369,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),239
+TED_PRD_0370,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),217
+TED_PRD_0371,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),352
+TED_PRD_0372,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,62
+TED_PRD_0373,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,481
+TED_PRD_0374,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,397
+TED_PRD_0375,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),498
+TED_PRD_0376,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,884
+TED_PRD_0377,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,207
+TED_PRD_0378,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),242
+TED_PRD_0379,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,429
+TED_PRD_0380,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,351
+TED_PRD_0381,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),392
+TED_PRD_0382,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,490
+TED_PRD_0383,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,1189
+TED_PRD_0384,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,296
+TED_PRD_0385,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),195
+TED_PRD_0386,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,303
+TED_PRD_0387,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,89
+TED_PRD_0388,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),981
+TED_PRD_0389,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,481
+TED_PRD_0390,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,416
+TED_PRD_0391,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,293
+TED_PRD_0392,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),155
+TED_PRD_0393,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),357
+TED_PRD_0394,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,339
+TED_PRD_0395,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,235
+TED_PRD_0396,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),180
+TED_PRD_0397,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,319
+TED_PRD_0398,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),224
+TED_PRD_0399,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,1074
+TED_PRD_0400,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,462
+TED_PRD_0401,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),1110
+TED_PRD_0402,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),826
+TED_PRD_0403,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,126
+TED_PRD_0404,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),1195
+TED_PRD_0405,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),500
+TED_PRD_0406,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,599
+TED_PRD_0407,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,402
+TED_PRD_0408,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,141
+TED_PRD_0409,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),455
+TED_PRD_0410,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,118
+TED_PRD_0411,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),108
+TED_PRD_0412,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),291
+TED_PRD_0413,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,283
+TED_PRD_0414,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),193
+TED_PRD_0415,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),521
+TED_PRD_0416,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),1216
+TED_PRD_0417,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,506
+TED_PRD_0418,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,339
+TED_PRD_0419,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,446
+TED_PRD_0420,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,100
+TED_PRD_0421,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),749
+TED_PRD_0422,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,366
+TED_PRD_0423,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,60
+TED_PRD_0424,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),401
+TED_PRD_0425,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,444
+TED_PRD_0426,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),475
+TED_PRD_0427,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,953
+TED_PRD_0428,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,497
+TED_PRD_0429,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,95
+TED_PRD_0430,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,880
+TED_PRD_0431,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,118
+TED_PRD_0432,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),329
+TED_PRD_0433,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,477
+TED_PRD_0434,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),1295
+TED_PRD_0435,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),262
+TED_PRD_0436,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),274
+TED_PRD_0437,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),374
+TED_PRD_0438,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,133
+TED_PRD_0439,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),507
+TED_PRD_0440,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),806
+TED_PRD_0441,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),1293
+TED_PRD_0442,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,503
+TED_PRD_0443,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),1035
+TED_PRD_0444,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,132
+TED_PRD_0445,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,578
+TED_PRD_0446,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,386
+TED_PRD_0447,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),105
+TED_PRD_0448,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),325
+TED_PRD_0449,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,379
+TED_PRD_0450,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,156
+TED_PRD_0451,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,255
+TED_PRD_0452,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,79
+TED_PRD_0453,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),394
+TED_PRD_0454,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),495
+TED_PRD_0455,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),444
+TED_PRD_0456,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,247
+TED_PRD_0457,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,391
+TED_PRD_0458,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),564
+TED_PRD_0459,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,476
+TED_PRD_0460,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,358
+TED_PRD_0461,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),215
+TED_PRD_0462,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,335
+TED_PRD_0463,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,205
+TED_PRD_0464,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),362
+TED_PRD_0465,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,265
+TED_PRD_0466,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,80
+TED_PRD_0467,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,371
+TED_PRD_0468,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),95
+TED_PRD_0469,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),364
+TED_PRD_0470,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),97
+TED_PRD_0471,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,229
+TED_PRD_0472,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,832
+TED_PRD_0473,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),263
+TED_PRD_0474,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),1077
+TED_PRD_0475,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,1227
+TED_PRD_0476,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,358
+TED_PRD_0477,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),357
+TED_PRD_0478,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,284
+TED_PRD_0479,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),881
+TED_PRD_0480,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,791
+TED_PRD_0481,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,322
+TED_PRD_0482,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),838
+TED_PRD_0483,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,340
+TED_PRD_0484,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,245
+TED_PRD_0485,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,383
+TED_PRD_0486,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),318
+TED_PRD_0487,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,304
+TED_PRD_0488,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,430
+TED_PRD_0489,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,1122
+TED_PRD_0490,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),852
+TED_PRD_0491,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),431
+TED_PRD_0492,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,132
+TED_PRD_0493,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),511
+TED_PRD_0494,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,120
+TED_PRD_0495,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),339
+TED_PRD_0496,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),752
+TED_PRD_0497,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,265
+TED_PRD_0498,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),82
+TED_PRD_0499,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,385
+TED_PRD_0500,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,125
+TED_PRD_0501,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),166
+TED_PRD_0502,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,148
+TED_PRD_0503,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,229
+TED_PRD_0504,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,530
+TED_PRD_0505,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),192
+TED_PRD_0506,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,162
+TED_PRD_0507,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),294
+TED_PRD_0508,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,317
+TED_PRD_0509,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),257
+TED_PRD_0510,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,322
+TED_PRD_0511,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,204
+TED_PRD_0512,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),1032
+TED_PRD_0513,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),169
+TED_PRD_0514,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),358
+TED_PRD_0515,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,265
+TED_PRD_0516,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,376
+TED_PRD_0517,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),542
+TED_PRD_0518,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,438
+TED_PRD_0519,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,380
+TED_PRD_0520,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),242
+TED_PRD_0521,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,309
+TED_PRD_0522,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,415
+TED_PRD_0523,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,344
+TED_PRD_0524,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),288
+TED_PRD_0525,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,353
+TED_PRD_0526,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),892
+TED_PRD_0527,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),52
+TED_PRD_0528,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),346
+TED_PRD_0529,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,355
+TED_PRD_0530,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,246
+TED_PRD_0531,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,162
+TED_PRD_0532,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),382
+TED_PRD_0533,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,406
+TED_PRD_0534,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,127
+TED_PRD_0535,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,238
+TED_PRD_0536,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),217
+TED_PRD_0537,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),202
+TED_PRD_0538,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,432
+TED_PRD_0539,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,347
+TED_PRD_0540,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),337
+TED_PRD_0541,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,114
+TED_PRD_0542,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,596
+TED_PRD_0543,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),542
+TED_PRD_0544,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),310
+TED_PRD_0545,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),1160
+TED_PRD_0546,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),253
+TED_PRD_0547,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),917
+TED_PRD_0548,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,367
+TED_PRD_0549,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),1054
+TED_PRD_0550,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),95
+TED_PRD_0551,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),414
+TED_PRD_0552,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),314
+TED_PRD_0553,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),591
+TED_PRD_0554,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),359
+TED_PRD_0555,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,250
+TED_PRD_0556,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,358
+TED_PRD_0557,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),162
+TED_PRD_0558,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,586
+TED_PRD_0559,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,497
+TED_PRD_0560,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,286
+TED_PRD_0561,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),109
+TED_PRD_0562,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,121
+TED_PRD_0563,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),134
+TED_PRD_0564,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,557
+TED_PRD_0565,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),500
+TED_PRD_0566,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),746
+TED_PRD_0567,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,426
+TED_PRD_0568,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),218
+TED_PRD_0569,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),361
+TED_PRD_0570,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),76
+TED_PRD_0571,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,260
+TED_PRD_0572,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),425
+TED_PRD_0573,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,428
+TED_PRD_0574,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,66
+TED_PRD_0575,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,1298
+TED_PRD_0576,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),98
+TED_PRD_0577,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),343
+TED_PRD_0578,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),192
+TED_PRD_0579,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,168
+TED_PRD_0580,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,378
+TED_PRD_0581,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),268
+TED_PRD_0582,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,1287
+TED_PRD_0583,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),56
+TED_PRD_0584,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),558
+TED_PRD_0585,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),188
+TED_PRD_0586,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),600
+TED_PRD_0587,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,423
+TED_PRD_0588,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,436
+TED_PRD_0589,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),376
+TED_PRD_0590,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),457
+TED_PRD_0591,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),401
+TED_PRD_0592,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),184
+TED_PRD_0593,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),177
+TED_PRD_0594,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,278
+TED_PRD_0595,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),303
+TED_PRD_0596,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),273
+TED_PRD_0597,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,1062
+TED_PRD_0598,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),124
+TED_PRD_0599,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,497
+TED_PRD_0600,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,477
+TED_PRD_0601,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,445
+TED_PRD_0602,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,262
+TED_PRD_0603,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,129
+TED_PRD_0604,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),220
+TED_PRD_0605,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,88
+TED_PRD_0606,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,190
+TED_PRD_0607,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),195
+TED_PRD_0608,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),259
+TED_PRD_0609,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,251
+TED_PRD_0610,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,453
+TED_PRD_0611,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,706
+TED_PRD_0612,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,1142
+TED_PRD_0613,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),708
+TED_PRD_0614,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),147
+TED_PRD_0615,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),357
+TED_PRD_0616,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,283
+TED_PRD_0617,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,275
+TED_PRD_0618,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),334
+TED_PRD_0619,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,470
+TED_PRD_0620,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),471
+TED_PRD_0621,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),80
+TED_PRD_0622,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,538
+TED_PRD_0623,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,131
+TED_PRD_0624,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,1002
+TED_PRD_0625,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,381
+TED_PRD_0626,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,442
+TED_PRD_0627,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,385
+TED_PRD_0628,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),134
+TED_PRD_0629,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,114
+TED_PRD_0630,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),447
+TED_PRD_0631,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),379
+TED_PRD_0632,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),164
+TED_PRD_0633,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),1107
+TED_PRD_0634,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),131
+TED_PRD_0635,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,1154
+TED_PRD_0636,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),386
+TED_PRD_0637,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,139
+TED_PRD_0638,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),845
+TED_PRD_0639,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,516
+TED_PRD_0640,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),267
+TED_PRD_0641,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Cotone Basic,1149
+TED_PRD_0642,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,1126
+TED_PRD_0643,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),227
+TED_PRD_0644,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,1186
+TED_PRD_0645,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),378
+TED_PRD_0646,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),462
+TED_PRD_0647,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,197
+TED_PRD_0648,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,717
+TED_PRD_0649,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),207
+TED_PRD_0650,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,322
+TED_PRD_0651,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),353
+TED_PRD_0652,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),345
+TED_PRD_0653,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,313
+TED_PRD_0654,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),348
+TED_PRD_0655,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,368
+TED_PRD_0656,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),828
+TED_PRD_0657,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),232
+TED_PRD_0658,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),302
+TED_PRD_0659,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),252
+TED_PRD_0660,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),65
+TED_PRD_0661,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),352
+TED_PRD_0662,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,265
+TED_PRD_0663,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),173
+TED_PRD_0664,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,366
+TED_PRD_0665,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,306
+TED_PRD_0666,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),340
+TED_PRD_0667,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),131
+TED_PRD_0668,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),154
+TED_PRD_0669,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),224
+TED_PRD_0670,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),997
+TED_PRD_0671,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),1001
+TED_PRD_0672,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,312
+TED_PRD_0673,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),356
+TED_PRD_0674,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,322
+TED_PRD_0675,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,284
+TED_PRD_0676,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),136
+TED_PRD_0677,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,551
+TED_PRD_0678,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,291
+TED_PRD_0679,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),299
+TED_PRD_0680,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),411
+TED_PRD_0681,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,88
+TED_PRD_0682,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),1270
+TED_PRD_0683,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),469
+TED_PRD_0684,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),444
+TED_PRD_0685,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),131
+TED_PRD_0686,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),294
+TED_PRD_0687,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),805
+TED_PRD_0688,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),944
+TED_PRD_0689,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,266
+TED_PRD_0690,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),146
+TED_PRD_0691,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),294
+TED_PRD_0692,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),196
+TED_PRD_0693,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),358
+TED_PRD_0694,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,419
+TED_PRD_0695,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),296
+TED_PRD_0696,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),135
+TED_PRD_0697,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),215
+TED_PRD_0698,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),904
+TED_PRD_0699,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,373
+TED_PRD_0700,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),481
+TED_PRD_0701,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,350
+TED_PRD_0702,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,423
+TED_PRD_0703,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,1080
+TED_PRD_0704,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),381
+TED_PRD_0705,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,436
+TED_PRD_0706,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,707
+TED_PRD_0707,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,332
+TED_PRD_0708,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),174
+TED_PRD_0709,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),253
+TED_PRD_0710,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),214
+TED_PRD_0711,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,169
+TED_PRD_0712,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),291
+TED_PRD_0713,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),490
+TED_PRD_0714,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),395
+TED_PRD_0715,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),87
+TED_PRD_0716,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),379
+TED_PRD_0717,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Poliestere Standard,728
+TED_PRD_0718,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),193
+TED_PRD_0719,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,471
+TED_PRD_0720,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),362
+TED_PRD_0721,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,296
+TED_PRD_0722,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,398
+TED_PRD_0723,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),294
+TED_PRD_0724,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),139
+TED_PRD_0725,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),387
+TED_PRD_0726,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,306
+TED_PRD_0727,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,359
+TED_PRD_0728,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,79
+TED_PRD_0729,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),298
+TED_PRD_0730,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,353
+TED_PRD_0731,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,486
+TED_PRD_0732,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),270
+TED_PRD_0733,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,551
+TED_PRD_0734,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),1117
+TED_PRD_0735,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,364
+TED_PRD_0736,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),393
+TED_PRD_0737,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),168
+TED_PRD_0738,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),352
+TED_PRD_0739,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),1264
+TED_PRD_0740,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),348
+TED_PRD_0741,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,1258
+TED_PRD_0742,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,721
+TED_PRD_0743,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),447
+TED_PRD_0744,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,244
+TED_PRD_0745,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),386
+TED_PRD_0746,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),294
+TED_PRD_0747,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),174
+TED_PRD_0748,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,275
+TED_PRD_0749,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),388
+TED_PRD_0750,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,247
+TED_PRD_0751,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),123
+TED_PRD_0752,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),359
+TED_PRD_0753,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,370
+TED_PRD_0754,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),52
+TED_PRD_0755,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,447
+TED_PRD_0756,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),432
+TED_PRD_0757,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),99
+TED_PRD_0758,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,272
+TED_PRD_0759,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),397
+TED_PRD_0760,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),225
+TED_PRD_0761,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),367
+TED_PRD_0762,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,391
+TED_PRD_0763,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,308
+TED_PRD_0764,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,124
+TED_PRD_0765,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),143
+TED_PRD_0766,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),302
+TED_PRD_0767,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),291
+TED_PRD_0768,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,1292
+TED_PRD_0769,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),355
+TED_PRD_0770,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,179
+TED_PRD_0771,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,50
+TED_PRD_0772,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,359
+TED_PRD_0773,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,208
+TED_PRD_0774,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),918
+TED_PRD_0775,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,383
+TED_PRD_0776,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),346
+TED_PRD_0777,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,327
+TED_PRD_0778,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,157
+TED_PRD_0779,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),433
+TED_PRD_0780,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,743
+TED_PRD_0781,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),388
+TED_PRD_0782,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),1065
+TED_PRD_0783,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,482
+TED_PRD_0784,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),376
+TED_PRD_0785,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),356
+TED_PRD_0786,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),120
+TED_PRD_0787,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),221
+TED_PRD_0788,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),399
+TED_PRD_0789,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),138
+TED_PRD_0790,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,354
+TED_PRD_0791,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),359
+TED_PRD_0792,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,288
+TED_PRD_0793,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,208
+TED_PRD_0794,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,1027
+TED_PRD_0795,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),408
+TED_PRD_0796,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),376
+TED_PRD_0797,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),472
+TED_PRD_0798,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),458
+TED_PRD_0799,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),260
+TED_PRD_0800,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),235
+TED_PRD_0801,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,513
+TED_PRD_0802,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,89
+TED_PRD_0803,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),370
+TED_PRD_0804,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),270
+TED_PRD_0805,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,58
+TED_PRD_0806,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,344
+TED_PRD_0807,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,938
+TED_PRD_0808,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,598
+TED_PRD_0809,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,89
+TED_PRD_0810,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,539
+TED_PRD_0811,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,77
+TED_PRD_0812,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,971
+TED_PRD_0813,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),964
+TED_PRD_0814,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),98
+TED_PRD_0815,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),404
+TED_PRD_0816,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,740
+TED_PRD_0817,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,352
+TED_PRD_0818,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,845
+TED_PRD_0819,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,457
+TED_PRD_0820,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,392
+TED_PRD_0821,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,379
+TED_PRD_0822,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),333
+TED_PRD_0823,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,137
+TED_PRD_0824,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,77
+TED_PRD_0825,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),481
+TED_PRD_0826,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,324
+TED_PRD_0827,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,326
+TED_PRD_0828,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,278
+TED_PRD_0829,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),55
+TED_PRD_0830,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),281
+TED_PRD_0831,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,195
+TED_PRD_0832,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),239
+TED_PRD_0833,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,76
+TED_PRD_0834,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,69
+TED_PRD_0835,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),73
+TED_PRD_0836,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,85
+TED_PRD_0837,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),233
+TED_PRD_0838,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),367
+TED_PRD_0839,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),266
+TED_PRD_0840,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,165
+TED_PRD_0841,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,496
+TED_PRD_0842,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,469
+TED_PRD_0843,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,343
+TED_PRD_0844,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),310
+TED_PRD_0845,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,177
+TED_PRD_0846,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),401
+TED_PRD_0847,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,447
+TED_PRD_0848,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),201
+TED_PRD_0849,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),276
+TED_PRD_0850,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),481
+TED_PRD_0851,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,1059
+TED_PRD_0852,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),363
+TED_PRD_0853,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,252
+TED_PRD_0854,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,574
+TED_PRD_0855,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),271
+TED_PRD_0856,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),282
+TED_PRD_0857,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),340
+TED_PRD_0858,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),199
+TED_PRD_0859,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,50
+TED_PRD_0860,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),540
+TED_PRD_0861,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,820
+TED_PRD_0862,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),111
+TED_PRD_0863,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,316
+TED_PRD_0864,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),1156
+TED_PRD_0865,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,50
+TED_PRD_0866,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),67
+TED_PRD_0867,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,240
+TED_PRD_0868,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,391
+TED_PRD_0869,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),394
+TED_PRD_0870,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),139
+TED_PRD_0871,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,1030
+TED_PRD_0872,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,351
+TED_PRD_0873,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,281
+TED_PRD_0874,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,506
+TED_PRD_0875,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),78
+TED_PRD_0876,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,356
+TED_PRD_0877,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),226
+TED_PRD_0878,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,255
+TED_PRD_0879,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),1087
+TED_PRD_0880,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,100
+TED_PRD_0881,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),472
+TED_PRD_0882,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,342
+TED_PRD_0883,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),172
+TED_PRD_0884,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),441
+TED_PRD_0885,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,159
+TED_PRD_0886,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),383
+TED_PRD_0887,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,269
+TED_PRD_0888,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),362
+TED_PRD_0889,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),523
+TED_PRD_0890,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),1091
+TED_PRD_0891,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,130
+TED_PRD_0892,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),358
+TED_PRD_0893,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,959
+TED_PRD_0894,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,448
+TED_PRD_0895,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,231
+TED_PRD_0896,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,1055
+TED_PRD_0897,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),281
+TED_PRD_0898,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),383
+TED_PRD_0899,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,190
+TED_PRD_0900,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,95
+TED_PRD_0901,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,183
+TED_PRD_0902,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,316
+TED_PRD_0903,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,467
+TED_PRD_0904,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,328
+TED_PRD_0905,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,504
+TED_PRD_0906,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),273
+TED_PRD_0907,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),205
+TED_PRD_0908,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),280
+TED_PRD_0909,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,221
+TED_PRD_0910,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,397
+TED_PRD_0911,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,244
+TED_PRD_0912,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),818
+TED_PRD_0913,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),388
+TED_PRD_0914,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,594
+TED_PRD_0915,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,97
+TED_PRD_0916,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),180
+TED_PRD_0917,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,246
+TED_PRD_0918,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),345
+TED_PRD_0919,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),1147
+TED_PRD_0920,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,52
+TED_PRD_0921,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,245
+TED_PRD_0922,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,390
+TED_PRD_0923,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,72
+TED_PRD_0924,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,159
+TED_PRD_0925,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,84
+TED_PRD_0926,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),311
+TED_PRD_0927,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,481
+TED_PRD_0928,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,141
+TED_PRD_0929,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),1262
+TED_PRD_0930,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),165
+TED_PRD_0931,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,497
+TED_PRD_0932,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),307
+TED_PRD_0933,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,146
+TED_PRD_0934,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,318
+TED_PRD_0935,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),261
+TED_PRD_0936,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,330
+TED_PRD_0937,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,294
+TED_PRD_0938,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),703
+TED_PRD_0939,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),231
+TED_PRD_0940,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),704
+TED_PRD_0941,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,369
+TED_PRD_0942,TED04,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,364
+TED_PRD_0943,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Cotone Basic,431
+TED_PRD_0944,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),767
+TED_PRD_0945,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),497
+TED_PRD_0946,TED01,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,1105
+TED_PRD_0947,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),561
+TED_PRD_0948,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,257
+TED_PRD_0949,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Misto Lana,432
+TED_PRD_0950,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,321
+TED_PRD_0951,TED03,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),118
+TED_PRD_0952,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,313
+TED_PRD_0953,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,354
+TED_PRD_0954,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Poliestere Standard,125
+TED_PRD_0955,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),372
+TED_PRD_0956,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Misto Lana,779
+TED_PRD_0957,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,187
+TED_PRD_0958,TED02,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),250
+TED_PRD_0959,TED04,Accessori,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),89
+TED_PRD_0960,TED04,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),361
+TED_PRD_0961,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),361
+TED_PRD_0962,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Cotone Basic,240
+TED_PRD_0963,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),462
+TED_PRD_0964,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),390
+TED_PRD_0965,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,253
+TED_PRD_0966,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),101
+TED_PRD_0967,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Acrilico (Maglieria),186
+TED_PRD_0968,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Misto Lana,167
+TED_PRD_0969,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Viscosa (Rayon),1146
+TED_PRD_0970,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,300
+TED_PRD_0971,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Acrilico (Maglieria),279
+TED_PRD_0972,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,76
+TED_PRD_0973,TED04,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,208
+TED_PRD_0974,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Poliestere Standard,214
+TED_PRD_0975,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,168
+TED_PRD_0976,TED02,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,183
+TED_PRD_0977,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Poliestere Standard,286
+TED_PRD_0978,TED03,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,835
+TED_PRD_0979,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,373
+TED_PRD_0980,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),204
+TED_PRD_0981,TED03,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),183
+TED_PRD_0982,TED01,T-Shirt & Top,Retail_Franchising,Seasonal_Fast,Cotone Basic,190
+TED_PRD_0983,TED03,Abiti Eleganti,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),354
+TED_PRD_0984,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Ecopelle (PU),122
+TED_PRD_0985,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),1114
+TED_PRD_0986,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Misto Lana,286
+TED_PRD_0987,TED01,Maglieria,Retail_Franchising,Seasonal_Fast,Poliestere Standard,473
+TED_PRD_0988,TED01,Abiti Eleganti,Retail_Franchising,Seasonal_Fast,Poliestere Standard,259
+TED_PRD_0989,TED04,Capispalla,Wholesale_B2B,Pronto_Moda_Weekly,Cotone Basic,981
+TED_PRD_0990,TED01,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,320
+TED_PRD_0991,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),329
+TED_PRD_0992,TED02,Maglieria,Retail_Franchising,Seasonal_Fast,Cotone Basic,587
+TED_PRD_0993,TED02,Accessori,Retail_Franchising,Seasonal_Fast,Cotone Basic,61
+TED_PRD_0994,TED04,T-Shirt & Top,Wholesale_B2B,Pronto_Moda_Weekly,Poliestere Standard,156
+TED_PRD_0995,TED03,Pantaloni & Denim,Wholesale_B2B,Pronto_Moda_Weekly,Viscosa (Rayon),332
+TED_PRD_0996,TED02,Pantaloni & Denim,Retail_Franchising,Seasonal_Fast,Misto Lana,205
+TED_PRD_0997,TED02,Capispalla,Retail_Franchising,Seasonal_Fast,Misto Lana,1286
+TED_PRD_0998,TED01,Accessori,Retail_Franchising,Seasonal_Fast,Misto Lana,130
+TED_PRD_0999,TED03,Maglieria,Wholesale_B2B,Pronto_Moda_Weekly,Ecopelle (PU),483

@@ -1,0 +1,1001 @@
+product_id,brand_id,brand_tier,category,main_material,weight_grams
+SPC_PRD_0000,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,292
+SPC_PRD_0001,SPC04,Outdoor,Outerwear,Nylon Riciclato,689
+SPC_PRD_0002,SPC02,Teen Value Retail,Hoodies,Cotone Supima,509
+SPC_PRD_0003,SPC05,Activewear,Sneakers,Poliestere High-Performance,513
+SPC_PRD_0004,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,394
+SPC_PRD_0005,SPC06,Denim,Casual Shirts,Denim Misto Elastan,742
+SPC_PRD_0006,SPC05,Activewear,Sneakers,Poliestere High-Performance,708
+SPC_PRD_0007,SPC04,Outdoor,Fleece,Lana Merino,1138
+SPC_PRD_0008,SPC03,Heritage / Premium,Knitwear,Lana Merino,1033
+SPC_PRD_0009,SPC05,Activewear,Sneakers,Poliestere High-Performance,197
+SPC_PRD_0010,SPC02,Teen Value Retail,Hoodies,Cotone Supima,418
+SPC_PRD_0011,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,406
+SPC_PRD_0012,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,256
+SPC_PRD_0013,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,135
+SPC_PRD_0014,SPC06,Denim,Denim Jeans,Denim Misto Elastan,693
+SPC_PRD_0015,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,165
+SPC_PRD_0016,SPC04,Outdoor,Fleece,Lana Merino,635
+SPC_PRD_0017,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,889
+SPC_PRD_0018,SPC06,Denim,Denim Jeans,Denim Misto Elastan,745
+SPC_PRD_0019,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,533
+SPC_PRD_0020,SPC03,Heritage / Premium,Knitwear,Lana Merino,415
+SPC_PRD_0021,SPC06,Denim,Denim Jeans,Denim Misto Elastan,876
+SPC_PRD_0022,SPC04,Outdoor,Outerwear,Nylon Riciclato,1029
+SPC_PRD_0023,SPC05,Activewear,Sneakers,Poliestere High-Performance,755
+SPC_PRD_0024,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,491
+SPC_PRD_0025,SPC06,Denim,Casual Shirts,Denim Misto Elastan,538
+SPC_PRD_0026,SPC04,Outdoor,Outerwear,Lana Merino,1153
+SPC_PRD_0027,SPC04,Outdoor,Outerwear,Lana Merino,1345
+SPC_PRD_0028,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,1075
+SPC_PRD_0029,SPC04,Outdoor,Fleece,Nylon Riciclato,959
+SPC_PRD_0030,SPC03,Heritage / Premium,Knitwear,Lana Merino,710
+SPC_PRD_0031,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,839
+SPC_PRD_0032,SPC05,Activewear,Sports Bras,Poliestere High-Performance,427
+SPC_PRD_0033,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,278
+SPC_PRD_0034,SPC06,Denim,Casual Shirts,Denim Misto Elastan,552
+SPC_PRD_0035,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,403
+SPC_PRD_0036,SPC06,Denim,Casual Shirts,Denim Misto Elastan,741
+SPC_PRD_0037,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,300
+SPC_PRD_0038,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,1048
+SPC_PRD_0039,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,465
+SPC_PRD_0040,SPC06,Denim,Casual Shirts,Denim Misto Elastan,863
+SPC_PRD_0041,SPC06,Denim,Denim Jeans,Denim Misto Elastan,773
+SPC_PRD_0042,SPC06,Denim,Denim Jeans,Denim Misto Elastan,582
+SPC_PRD_0043,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,955
+SPC_PRD_0044,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,809
+SPC_PRD_0045,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,229
+SPC_PRD_0046,SPC04,Outdoor,Fleece,Lana Merino,1026
+SPC_PRD_0047,SPC05,Activewear,Sneakers,Poliestere High-Performance,565
+SPC_PRD_0048,SPC06,Denim,Denim Jeans,Denim Misto Elastan,733
+SPC_PRD_0049,SPC04,Outdoor,Outerwear,Nylon Riciclato,539
+SPC_PRD_0050,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,276
+SPC_PRD_0051,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,250
+SPC_PRD_0052,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,1177
+SPC_PRD_0053,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,376
+SPC_PRD_0054,SPC05,Activewear,Sneakers,Poliestere High-Performance,467
+SPC_PRD_0055,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,218
+SPC_PRD_0056,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,213
+SPC_PRD_0057,SPC06,Denim,Casual Shirts,Denim Misto Elastan,747
+SPC_PRD_0058,SPC04,Outdoor,Fleece,Lana Merino,1098
+SPC_PRD_0059,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,588
+SPC_PRD_0060,SPC04,Outdoor,Outerwear,Nylon Riciclato,1388
+SPC_PRD_0061,SPC04,Outdoor,Fleece,Nylon Riciclato,1409
+SPC_PRD_0062,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,259
+SPC_PRD_0063,SPC06,Denim,Casual Shirts,Denim Misto Elastan,814
+SPC_PRD_0064,SPC05,Activewear,Sports Bras,Poliestere High-Performance,401
+SPC_PRD_0065,SPC06,Denim,Casual Shirts,Denim Misto Elastan,822
+SPC_PRD_0066,SPC05,Activewear,Sports Bras,Poliestere High-Performance,288
+SPC_PRD_0067,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,169
+SPC_PRD_0068,SPC03,Heritage / Premium,Knitwear,Cotone Supima,535
+SPC_PRD_0069,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,703
+SPC_PRD_0070,SPC06,Denim,Casual Shirts,Denim Misto Elastan,669
+SPC_PRD_0071,SPC04,Outdoor,Outerwear,Lana Merino,1470
+SPC_PRD_0072,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,237
+SPC_PRD_0073,SPC06,Denim,Denim Jeans,Denim Misto Elastan,810
+SPC_PRD_0074,SPC03,Heritage / Premium,Knitwear,Cotone Supima,316
+SPC_PRD_0075,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,134
+SPC_PRD_0076,SPC03,Heritage / Premium,Knitwear,Cotone Supima,944
+SPC_PRD_0077,SPC03,Heritage / Premium,Knitwear,Cotone Supima,1016
+SPC_PRD_0078,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,720
+SPC_PRD_0079,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,790
+SPC_PRD_0080,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1405
+SPC_PRD_0081,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,157
+SPC_PRD_0082,SPC05,Activewear,Sneakers,Poliestere High-Performance,260
+SPC_PRD_0083,SPC03,Heritage / Premium,Knitwear,Cotone Supima,549
+SPC_PRD_0084,SPC03,Heritage / Premium,Knitwear,Cotone Supima,482
+SPC_PRD_0085,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,323
+SPC_PRD_0086,SPC04,Outdoor,Fleece,Lana Merino,724
+SPC_PRD_0087,SPC02,Teen Value Retail,Hoodies,Cotone Supima,367
+SPC_PRD_0088,SPC05,Activewear,Sports Bras,Poliestere High-Performance,282
+SPC_PRD_0089,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1095
+SPC_PRD_0090,SPC05,Activewear,Sports Bras,Poliestere High-Performance,736
+SPC_PRD_0091,SPC06,Denim,Denim Jeans,Denim Misto Elastan,535
+SPC_PRD_0092,SPC04,Outdoor,Fleece,Lana Merino,1241
+SPC_PRD_0093,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,265
+SPC_PRD_0094,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,192
+SPC_PRD_0095,SPC06,Denim,Casual Shirts,Denim Misto Elastan,527
+SPC_PRD_0096,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,100
+SPC_PRD_0097,SPC03,Heritage / Premium,Knitwear,Lana Merino,915
+SPC_PRD_0098,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,639
+SPC_PRD_0099,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,926
+SPC_PRD_0100,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,285
+SPC_PRD_0101,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,245
+SPC_PRD_0102,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,352
+SPC_PRD_0103,SPC06,Denim,Casual Shirts,Denim Misto Elastan,614
+SPC_PRD_0104,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,590
+SPC_PRD_0105,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,231
+SPC_PRD_0106,SPC06,Denim,Casual Shirts,Denim Misto Elastan,729
+SPC_PRD_0107,SPC06,Denim,Denim Jeans,Denim Misto Elastan,645
+SPC_PRD_0108,SPC04,Outdoor,Fleece,Nylon Riciclato,862
+SPC_PRD_0109,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,273
+SPC_PRD_0110,SPC06,Denim,Denim Jeans,Denim Misto Elastan,825
+SPC_PRD_0111,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,152
+SPC_PRD_0112,SPC04,Outdoor,Fleece,Lana Merino,1399
+SPC_PRD_0113,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,287
+SPC_PRD_0114,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,887
+SPC_PRD_0115,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,574
+SPC_PRD_0116,SPC06,Denim,Denim Jeans,Denim Misto Elastan,814
+SPC_PRD_0117,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,473
+SPC_PRD_0118,SPC06,Denim,Denim Jeans,Denim Misto Elastan,649
+SPC_PRD_0119,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,548
+SPC_PRD_0120,SPC05,Activewear,Sneakers,Poliestere High-Performance,572
+SPC_PRD_0121,SPC02,Teen Value Retail,Hoodies,Cotone Supima,342
+SPC_PRD_0122,SPC05,Activewear,Sports Bras,Poliestere High-Performance,798
+SPC_PRD_0123,SPC05,Activewear,Sneakers,Poliestere High-Performance,648
+SPC_PRD_0124,SPC05,Activewear,Sports Bras,Poliestere High-Performance,674
+SPC_PRD_0125,SPC03,Heritage / Premium,Knitwear,Cotone Supima,674
+SPC_PRD_0126,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,190
+SPC_PRD_0127,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,318
+SPC_PRD_0128,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,540
+SPC_PRD_0129,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1048
+SPC_PRD_0130,SPC04,Outdoor,Fleece,Lana Merino,1160
+SPC_PRD_0131,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,189
+SPC_PRD_0132,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1011
+SPC_PRD_0133,SPC04,Outdoor,Fleece,Nylon Riciclato,1144
+SPC_PRD_0134,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,861
+SPC_PRD_0135,SPC03,Heritage / Premium,Knitwear,Lana Merino,735
+SPC_PRD_0136,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,741
+SPC_PRD_0137,SPC06,Denim,Denim Jeans,Denim Misto Elastan,751
+SPC_PRD_0138,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,462
+SPC_PRD_0139,SPC06,Denim,Denim Jeans,Denim Misto Elastan,745
+SPC_PRD_0140,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,415
+SPC_PRD_0141,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,351
+SPC_PRD_0142,SPC06,Denim,Casual Shirts,Denim Misto Elastan,593
+SPC_PRD_0143,SPC05,Activewear,Sneakers,Poliestere High-Performance,325
+SPC_PRD_0144,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,586
+SPC_PRD_0145,SPC04,Outdoor,Fleece,Nylon Riciclato,1232
+SPC_PRD_0146,SPC06,Denim,Denim Jeans,Denim Misto Elastan,898
+SPC_PRD_0147,SPC04,Outdoor,Outerwear,Nylon Riciclato,888
+SPC_PRD_0148,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,378
+SPC_PRD_0149,SPC03,Heritage / Premium,Knitwear,Cotone Supima,474
+SPC_PRD_0150,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,275
+SPC_PRD_0151,SPC06,Denim,Denim Jeans,Denim Misto Elastan,579
+SPC_PRD_0152,SPC06,Denim,Denim Jeans,Denim Misto Elastan,720
+SPC_PRD_0153,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,667
+SPC_PRD_0154,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,220
+SPC_PRD_0155,SPC03,Heritage / Premium,Knitwear,Cotone Supima,586
+SPC_PRD_0156,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,457
+SPC_PRD_0157,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,546
+SPC_PRD_0158,SPC06,Denim,Denim Jeans,Denim Misto Elastan,506
+SPC_PRD_0159,SPC06,Denim,Casual Shirts,Denim Misto Elastan,546
+SPC_PRD_0160,SPC06,Denim,Casual Shirts,Denim Misto Elastan,891
+SPC_PRD_0161,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,383
+SPC_PRD_0162,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,186
+SPC_PRD_0163,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,255
+SPC_PRD_0164,SPC05,Activewear,Sports Bras,Poliestere High-Performance,338
+SPC_PRD_0165,SPC02,Teen Value Retail,Hoodies,Cotone Supima,265
+SPC_PRD_0166,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,482
+SPC_PRD_0167,SPC06,Denim,Denim Jeans,Denim Misto Elastan,753
+SPC_PRD_0168,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,723
+SPC_PRD_0169,SPC06,Denim,Casual Shirts,Denim Misto Elastan,563
+SPC_PRD_0170,SPC03,Heritage / Premium,Knitwear,Lana Merino,956
+SPC_PRD_0171,SPC04,Outdoor,Hiking Pants,Lana Merino,1458
+SPC_PRD_0172,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,164
+SPC_PRD_0173,SPC04,Outdoor,Fleece,Lana Merino,1277
+SPC_PRD_0174,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,190
+SPC_PRD_0175,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1073
+SPC_PRD_0176,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,712
+SPC_PRD_0177,SPC04,Outdoor,Hiking Pants,Lana Merino,686
+SPC_PRD_0178,SPC04,Outdoor,Outerwear,Nylon Riciclato,1058
+SPC_PRD_0179,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,863
+SPC_PRD_0180,SPC04,Outdoor,Fleece,Nylon Riciclato,1109
+SPC_PRD_0181,SPC04,Outdoor,Hiking Pants,Lana Merino,1249
+SPC_PRD_0182,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,277
+SPC_PRD_0183,SPC05,Activewear,Sneakers,Poliestere High-Performance,713
+SPC_PRD_0184,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,799
+SPC_PRD_0185,SPC03,Heritage / Premium,Knitwear,Cotone Supima,1084
+SPC_PRD_0186,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,398
+SPC_PRD_0187,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,307
+SPC_PRD_0188,SPC06,Denim,Denim Jeans,Denim Misto Elastan,890
+SPC_PRD_0189,SPC04,Outdoor,Outerwear,Lana Merino,850
+SPC_PRD_0190,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,381
+SPC_PRD_0191,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,201
+SPC_PRD_0192,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,390
+SPC_PRD_0193,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,594
+SPC_PRD_0194,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,559
+SPC_PRD_0195,SPC04,Outdoor,Outerwear,Lana Merino,967
+SPC_PRD_0196,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,248
+SPC_PRD_0197,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,439
+SPC_PRD_0198,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,785
+SPC_PRD_0199,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,224
+SPC_PRD_0200,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,151
+SPC_PRD_0201,SPC03,Heritage / Premium,Knitwear,Lana Merino,1183
+SPC_PRD_0202,SPC03,Heritage / Premium,Knitwear,Cotone Supima,613
+SPC_PRD_0203,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,146
+SPC_PRD_0204,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,142
+SPC_PRD_0205,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,454
+SPC_PRD_0206,SPC04,Outdoor,Fleece,Nylon Riciclato,566
+SPC_PRD_0207,SPC06,Denim,Denim Jeans,Denim Misto Elastan,529
+SPC_PRD_0208,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,324
+SPC_PRD_0209,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,574
+SPC_PRD_0210,SPC02,Teen Value Retail,Hoodies,Cotone Supima,504
+SPC_PRD_0211,SPC06,Denim,Casual Shirts,Denim Misto Elastan,697
+SPC_PRD_0212,SPC04,Outdoor,Outerwear,Lana Merino,618
+SPC_PRD_0213,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1239
+SPC_PRD_0214,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,261
+SPC_PRD_0215,SPC05,Activewear,Sneakers,Poliestere High-Performance,269
+SPC_PRD_0216,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,552
+SPC_PRD_0217,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1100
+SPC_PRD_0218,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,300
+SPC_PRD_0219,SPC06,Denim,Denim Jeans,Denim Misto Elastan,533
+SPC_PRD_0220,SPC04,Outdoor,Outerwear,Nylon Riciclato,1426
+SPC_PRD_0221,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,245
+SPC_PRD_0222,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,748
+SPC_PRD_0223,SPC06,Denim,Denim Jeans,Denim Misto Elastan,840
+SPC_PRD_0224,SPC03,Heritage / Premium,Knitwear,Lana Merino,613
+SPC_PRD_0225,SPC06,Denim,Denim Jeans,Denim Misto Elastan,846
+SPC_PRD_0226,SPC03,Heritage / Premium,Knitwear,Cotone Supima,1012
+SPC_PRD_0227,SPC05,Activewear,Sports Bras,Poliestere High-Performance,487
+SPC_PRD_0228,SPC06,Denim,Denim Jeans,Denim Misto Elastan,841
+SPC_PRD_0229,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,369
+SPC_PRD_0230,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1193
+SPC_PRD_0231,SPC04,Outdoor,Hiking Pants,Lana Merino,1140
+SPC_PRD_0232,SPC03,Heritage / Premium,Knitwear,Lana Merino,762
+SPC_PRD_0233,SPC04,Outdoor,Fleece,Nylon Riciclato,1466
+SPC_PRD_0234,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1225
+SPC_PRD_0235,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,493
+SPC_PRD_0236,SPC05,Activewear,Sports Bras,Poliestere High-Performance,265
+SPC_PRD_0237,SPC06,Denim,Casual Shirts,Denim Misto Elastan,764
+SPC_PRD_0238,SPC06,Denim,Denim Jeans,Denim Misto Elastan,691
+SPC_PRD_0239,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,905
+SPC_PRD_0240,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,583
+SPC_PRD_0241,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,527
+SPC_PRD_0242,SPC06,Denim,Denim Jeans,Denim Misto Elastan,586
+SPC_PRD_0243,SPC05,Activewear,Sneakers,Poliestere High-Performance,687
+SPC_PRD_0244,SPC06,Denim,Casual Shirts,Denim Misto Elastan,524
+SPC_PRD_0245,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,503
+SPC_PRD_0246,SPC05,Activewear,Sneakers,Poliestere High-Performance,476
+SPC_PRD_0247,SPC04,Outdoor,Fleece,Nylon Riciclato,655
+SPC_PRD_0248,SPC06,Denim,Casual Shirts,Denim Misto Elastan,734
+SPC_PRD_0249,SPC04,Outdoor,Fleece,Lana Merino,553
+SPC_PRD_0250,SPC06,Denim,Denim Jeans,Denim Misto Elastan,654
+SPC_PRD_0251,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,771
+SPC_PRD_0252,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,364
+SPC_PRD_0253,SPC05,Activewear,Sneakers,Poliestere High-Performance,421
+SPC_PRD_0254,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,308
+SPC_PRD_0255,SPC04,Outdoor,Fleece,Nylon Riciclato,1010
+SPC_PRD_0256,SPC03,Heritage / Premium,Knitwear,Lana Merino,829
+SPC_PRD_0257,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,360
+SPC_PRD_0258,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,332
+SPC_PRD_0259,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,696
+SPC_PRD_0260,SPC06,Denim,Casual Shirts,Denim Misto Elastan,633
+SPC_PRD_0261,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,148
+SPC_PRD_0262,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,155
+SPC_PRD_0263,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,1198
+SPC_PRD_0264,SPC06,Denim,Denim Jeans,Denim Misto Elastan,504
+SPC_PRD_0265,SPC06,Denim,Casual Shirts,Denim Misto Elastan,732
+SPC_PRD_0266,SPC04,Outdoor,Fleece,Nylon Riciclato,693
+SPC_PRD_0267,SPC04,Outdoor,Hiking Pants,Lana Merino,821
+SPC_PRD_0268,SPC06,Denim,Denim Jeans,Denim Misto Elastan,728
+SPC_PRD_0269,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,409
+SPC_PRD_0270,SPC02,Teen Value Retail,Hoodies,Cotone Supima,231
+SPC_PRD_0271,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,223
+SPC_PRD_0272,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1043
+SPC_PRD_0273,SPC05,Activewear,Sneakers,Poliestere High-Performance,493
+SPC_PRD_0274,SPC04,Outdoor,Outerwear,Nylon Riciclato,1185
+SPC_PRD_0275,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,252
+SPC_PRD_0276,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,151
+SPC_PRD_0277,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,320
+SPC_PRD_0278,SPC05,Activewear,Sports Bras,Poliestere High-Performance,730
+SPC_PRD_0279,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,382
+SPC_PRD_0280,SPC05,Activewear,Sports Bras,Poliestere High-Performance,334
+SPC_PRD_0281,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,189
+SPC_PRD_0282,SPC04,Outdoor,Outerwear,Lana Merino,1294
+SPC_PRD_0283,SPC06,Denim,Casual Shirts,Denim Misto Elastan,604
+SPC_PRD_0284,SPC04,Outdoor,Hiking Pants,Lana Merino,801
+SPC_PRD_0285,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,154
+SPC_PRD_0286,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,290
+SPC_PRD_0287,SPC05,Activewear,Sneakers,Poliestere High-Performance,248
+SPC_PRD_0288,SPC05,Activewear,Sports Bras,Poliestere High-Performance,675
+SPC_PRD_0289,SPC06,Denim,Denim Jeans,Denim Misto Elastan,766
+SPC_PRD_0290,SPC02,Teen Value Retail,Hoodies,Cotone Supima,213
+SPC_PRD_0291,SPC06,Denim,Casual Shirts,Denim Misto Elastan,729
+SPC_PRD_0292,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,309
+SPC_PRD_0293,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,222
+SPC_PRD_0294,SPC05,Activewear,Sneakers,Poliestere High-Performance,619
+SPC_PRD_0295,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,204
+SPC_PRD_0296,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,256
+SPC_PRD_0297,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,316
+SPC_PRD_0298,SPC06,Denim,Denim Jeans,Denim Misto Elastan,778
+SPC_PRD_0299,SPC02,Teen Value Retail,Hoodies,Cotone Supima,557
+SPC_PRD_0300,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,599
+SPC_PRD_0301,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,477
+SPC_PRD_0302,SPC06,Denim,Denim Jeans,Denim Misto Elastan,675
+SPC_PRD_0303,SPC06,Denim,Denim Jeans,Denim Misto Elastan,754
+SPC_PRD_0304,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,567
+SPC_PRD_0305,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,624
+SPC_PRD_0306,SPC05,Activewear,Sports Bras,Poliestere High-Performance,220
+SPC_PRD_0307,SPC04,Outdoor,Outerwear,Lana Merino,866
+SPC_PRD_0308,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,342
+SPC_PRD_0309,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,364
+SPC_PRD_0310,SPC06,Denim,Denim Jeans,Denim Misto Elastan,796
+SPC_PRD_0311,SPC05,Activewear,Sports Bras,Poliestere High-Performance,477
+SPC_PRD_0312,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,1083
+SPC_PRD_0313,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,121
+SPC_PRD_0314,SPC04,Outdoor,Hiking Pants,Lana Merino,1190
+SPC_PRD_0315,SPC04,Outdoor,Outerwear,Nylon Riciclato,1486
+SPC_PRD_0316,SPC04,Outdoor,Fleece,Nylon Riciclato,1488
+SPC_PRD_0317,SPC04,Outdoor,Outerwear,Nylon Riciclato,1387
+SPC_PRD_0318,SPC06,Denim,Casual Shirts,Denim Misto Elastan,897
+SPC_PRD_0319,SPC06,Denim,Casual Shirts,Denim Misto Elastan,652
+SPC_PRD_0320,SPC04,Outdoor,Fleece,Lana Merino,797
+SPC_PRD_0321,SPC04,Outdoor,Outerwear,Lana Merino,657
+SPC_PRD_0322,SPC05,Activewear,Sneakers,Poliestere High-Performance,753
+SPC_PRD_0323,SPC06,Denim,Denim Jeans,Denim Misto Elastan,640
+SPC_PRD_0324,SPC03,Heritage / Premium,Knitwear,Cotone Supima,1196
+SPC_PRD_0325,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,236
+SPC_PRD_0326,SPC04,Outdoor,Outerwear,Nylon Riciclato,549
+SPC_PRD_0327,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,1064
+SPC_PRD_0328,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,130
+SPC_PRD_0329,SPC06,Denim,Casual Shirts,Denim Misto Elastan,596
+SPC_PRD_0330,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,483
+SPC_PRD_0331,SPC04,Outdoor,Fleece,Lana Merino,927
+SPC_PRD_0332,SPC06,Denim,Casual Shirts,Denim Misto Elastan,742
+SPC_PRD_0333,SPC04,Outdoor,Fleece,Lana Merino,858
+SPC_PRD_0334,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,300
+SPC_PRD_0335,SPC05,Activewear,Sports Bras,Poliestere High-Performance,325
+SPC_PRD_0336,SPC03,Heritage / Premium,Knitwear,Lana Merino,829
+SPC_PRD_0337,SPC04,Outdoor,Outerwear,Lana Merino,1232
+SPC_PRD_0338,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,492
+SPC_PRD_0339,SPC06,Denim,Casual Shirts,Denim Misto Elastan,814
+SPC_PRD_0340,SPC04,Outdoor,Fleece,Lana Merino,1040
+SPC_PRD_0341,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,550
+SPC_PRD_0342,SPC04,Outdoor,Fleece,Nylon Riciclato,1319
+SPC_PRD_0343,SPC04,Outdoor,Outerwear,Nylon Riciclato,1021
+SPC_PRD_0344,SPC05,Activewear,Sports Bras,Poliestere High-Performance,253
+SPC_PRD_0345,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,301
+SPC_PRD_0346,SPC04,Outdoor,Hiking Pants,Lana Merino,1435
+SPC_PRD_0347,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,1083
+SPC_PRD_0348,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,599
+SPC_PRD_0349,SPC04,Outdoor,Fleece,Lana Merino,584
+SPC_PRD_0350,SPC02,Teen Value Retail,Hoodies,Cotone Supima,381
+SPC_PRD_0351,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,451
+SPC_PRD_0352,SPC04,Outdoor,Fleece,Nylon Riciclato,1264
+SPC_PRD_0353,SPC05,Activewear,Sports Bras,Poliestere High-Performance,245
+SPC_PRD_0354,SPC05,Activewear,Sneakers,Poliestere High-Performance,216
+SPC_PRD_0355,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,373
+SPC_PRD_0356,SPC03,Heritage / Premium,Knitwear,Lana Merino,327
+SPC_PRD_0357,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,222
+SPC_PRD_0358,SPC04,Outdoor,Hiking Pants,Lana Merino,617
+SPC_PRD_0359,SPC04,Outdoor,Outerwear,Nylon Riciclato,957
+SPC_PRD_0360,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,256
+SPC_PRD_0361,SPC04,Outdoor,Outerwear,Lana Merino,1246
+SPC_PRD_0362,SPC06,Denim,Denim Jeans,Denim Misto Elastan,772
+SPC_PRD_0363,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,285
+SPC_PRD_0364,SPC03,Heritage / Premium,Knitwear,Cotone Supima,400
+SPC_PRD_0365,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,411
+SPC_PRD_0366,SPC04,Outdoor,Outerwear,Nylon Riciclato,945
+SPC_PRD_0367,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,284
+SPC_PRD_0368,SPC05,Activewear,Sports Bras,Poliestere High-Performance,311
+SPC_PRD_0369,SPC04,Outdoor,Hiking Pants,Lana Merino,822
+SPC_PRD_0370,SPC05,Activewear,Sports Bras,Poliestere High-Performance,478
+SPC_PRD_0371,SPC02,Teen Value Retail,Hoodies,Cotone Supima,437
+SPC_PRD_0372,SPC03,Heritage / Premium,Knitwear,Lana Merino,899
+SPC_PRD_0373,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,183
+SPC_PRD_0374,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1193
+SPC_PRD_0375,SPC06,Denim,Casual Shirts,Denim Misto Elastan,511
+SPC_PRD_0376,SPC04,Outdoor,Hiking Pants,Lana Merino,781
+SPC_PRD_0377,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,325
+SPC_PRD_0378,SPC06,Denim,Casual Shirts,Denim Misto Elastan,796
+SPC_PRD_0379,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,339
+SPC_PRD_0380,SPC04,Outdoor,Fleece,Lana Merino,841
+SPC_PRD_0381,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,264
+SPC_PRD_0382,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,225
+SPC_PRD_0383,SPC06,Denim,Denim Jeans,Denim Misto Elastan,627
+SPC_PRD_0384,SPC04,Outdoor,Fleece,Lana Merino,1360
+SPC_PRD_0385,SPC04,Outdoor,Fleece,Nylon Riciclato,881
+SPC_PRD_0386,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,238
+SPC_PRD_0387,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,154
+SPC_PRD_0388,SPC03,Heritage / Premium,Knitwear,Lana Merino,469
+SPC_PRD_0389,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,265
+SPC_PRD_0390,SPC04,Outdoor,Fleece,Nylon Riciclato,1315
+SPC_PRD_0391,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,689
+SPC_PRD_0392,SPC06,Denim,Casual Shirts,Denim Misto Elastan,685
+SPC_PRD_0393,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,493
+SPC_PRD_0394,SPC03,Heritage / Premium,Knitwear,Lana Merino,1151
+SPC_PRD_0395,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1049
+SPC_PRD_0396,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,296
+SPC_PRD_0397,SPC06,Denim,Casual Shirts,Denim Misto Elastan,734
+SPC_PRD_0398,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,738
+SPC_PRD_0399,SPC06,Denim,Denim Jeans,Denim Misto Elastan,603
+SPC_PRD_0400,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,602
+SPC_PRD_0401,SPC04,Outdoor,Outerwear,Nylon Riciclato,1463
+SPC_PRD_0402,SPC04,Outdoor,Fleece,Nylon Riciclato,1316
+SPC_PRD_0403,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,142
+SPC_PRD_0404,SPC04,Outdoor,Outerwear,Lana Merino,1174
+SPC_PRD_0405,SPC04,Outdoor,Fleece,Lana Merino,1416
+SPC_PRD_0406,SPC05,Activewear,Sneakers,Poliestere High-Performance,416
+SPC_PRD_0407,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,1196
+SPC_PRD_0408,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,781
+SPC_PRD_0409,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,470
+SPC_PRD_0410,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,241
+SPC_PRD_0411,SPC03,Heritage / Premium,Knitwear,Lana Merino,690
+SPC_PRD_0412,SPC02,Teen Value Retail,Hoodies,Cotone Supima,249
+SPC_PRD_0413,SPC05,Activewear,Sports Bras,Poliestere High-Performance,442
+SPC_PRD_0414,SPC04,Outdoor,Fleece,Lana Merino,629
+SPC_PRD_0415,SPC04,Outdoor,Outerwear,Nylon Riciclato,849
+SPC_PRD_0416,SPC06,Denim,Denim Jeans,Denim Misto Elastan,651
+SPC_PRD_0417,SPC05,Activewear,Sneakers,Poliestere High-Performance,500
+SPC_PRD_0418,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,237
+SPC_PRD_0419,SPC04,Outdoor,Fleece,Nylon Riciclato,695
+SPC_PRD_0420,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,167
+SPC_PRD_0421,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,1160
+SPC_PRD_0422,SPC05,Activewear,Sports Bras,Poliestere High-Performance,374
+SPC_PRD_0423,SPC05,Activewear,Sneakers,Poliestere High-Performance,567
+SPC_PRD_0424,SPC03,Heritage / Premium,Knitwear,Lana Merino,1094
+SPC_PRD_0425,SPC04,Outdoor,Hiking Pants,Lana Merino,1459
+SPC_PRD_0426,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,219
+SPC_PRD_0427,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,362
+SPC_PRD_0428,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1363
+SPC_PRD_0429,SPC06,Denim,Casual Shirts,Denim Misto Elastan,661
+SPC_PRD_0430,SPC04,Outdoor,Outerwear,Lana Merino,964
+SPC_PRD_0431,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,205
+SPC_PRD_0432,SPC06,Denim,Casual Shirts,Denim Misto Elastan,803
+SPC_PRD_0433,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,773
+SPC_PRD_0434,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,863
+SPC_PRD_0435,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,227
+SPC_PRD_0436,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,682
+SPC_PRD_0437,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,289
+SPC_PRD_0438,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,317
+SPC_PRD_0439,SPC03,Heritage / Premium,Knitwear,Lana Merino,960
+SPC_PRD_0440,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,245
+SPC_PRD_0441,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,161
+SPC_PRD_0442,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,535
+SPC_PRD_0443,SPC06,Denim,Denim Jeans,Denim Misto Elastan,822
+SPC_PRD_0444,SPC03,Heritage / Premium,Knitwear,Cotone Supima,947
+SPC_PRD_0445,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,216
+SPC_PRD_0446,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,755
+SPC_PRD_0447,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,316
+SPC_PRD_0448,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,266
+SPC_PRD_0449,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,584
+SPC_PRD_0450,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,346
+SPC_PRD_0451,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,384
+SPC_PRD_0452,SPC04,Outdoor,Fleece,Nylon Riciclato,1336
+SPC_PRD_0453,SPC03,Heritage / Premium,Knitwear,Cotone Supima,974
+SPC_PRD_0454,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,594
+SPC_PRD_0455,SPC04,Outdoor,Outerwear,Lana Merino,1346
+SPC_PRD_0456,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,696
+SPC_PRD_0457,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,283
+SPC_PRD_0458,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,252
+SPC_PRD_0459,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,1144
+SPC_PRD_0460,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,188
+SPC_PRD_0461,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,388
+SPC_PRD_0462,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,390
+SPC_PRD_0463,SPC03,Heritage / Premium,Knitwear,Lana Merino,333
+SPC_PRD_0464,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,200
+SPC_PRD_0465,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1286
+SPC_PRD_0466,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,502
+SPC_PRD_0467,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,140
+SPC_PRD_0468,SPC03,Heritage / Premium,Knitwear,Cotone Supima,434
+SPC_PRD_0469,SPC04,Outdoor,Fleece,Nylon Riciclato,894
+SPC_PRD_0470,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,493
+SPC_PRD_0471,SPC04,Outdoor,Fleece,Lana Merino,515
+SPC_PRD_0472,SPC06,Denim,Casual Shirts,Denim Misto Elastan,869
+SPC_PRD_0473,SPC04,Outdoor,Outerwear,Nylon Riciclato,967
+SPC_PRD_0474,SPC06,Denim,Denim Jeans,Denim Misto Elastan,766
+SPC_PRD_0475,SPC04,Outdoor,Hiking Pants,Lana Merino,628
+SPC_PRD_0476,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,370
+SPC_PRD_0477,SPC05,Activewear,Sports Bras,Poliestere High-Performance,232
+SPC_PRD_0478,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,100
+SPC_PRD_0479,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,268
+SPC_PRD_0480,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,717
+SPC_PRD_0481,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,101
+SPC_PRD_0482,SPC06,Denim,Denim Jeans,Denim Misto Elastan,811
+SPC_PRD_0483,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,216
+SPC_PRD_0484,SPC04,Outdoor,Outerwear,Lana Merino,1209
+SPC_PRD_0485,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,391
+SPC_PRD_0486,SPC06,Denim,Casual Shirts,Denim Misto Elastan,830
+SPC_PRD_0487,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1123
+SPC_PRD_0488,SPC06,Denim,Denim Jeans,Denim Misto Elastan,762
+SPC_PRD_0489,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,179
+SPC_PRD_0490,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,493
+SPC_PRD_0491,SPC06,Denim,Denim Jeans,Denim Misto Elastan,680
+SPC_PRD_0492,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,454
+SPC_PRD_0493,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,492
+SPC_PRD_0494,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,165
+SPC_PRD_0495,SPC05,Activewear,Sneakers,Poliestere High-Performance,731
+SPC_PRD_0496,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,1067
+SPC_PRD_0497,SPC03,Heritage / Premium,Knitwear,Cotone Supima,770
+SPC_PRD_0498,SPC04,Outdoor,Hiking Pants,Lana Merino,964
+SPC_PRD_0499,SPC06,Denim,Denim Jeans,Denim Misto Elastan,744
+SPC_PRD_0500,SPC03,Heritage / Premium,Knitwear,Lana Merino,1021
+SPC_PRD_0501,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,587
+SPC_PRD_0502,SPC06,Denim,Casual Shirts,Denim Misto Elastan,544
+SPC_PRD_0503,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,185
+SPC_PRD_0504,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1005
+SPC_PRD_0505,SPC06,Denim,Casual Shirts,Denim Misto Elastan,817
+SPC_PRD_0506,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,509
+SPC_PRD_0507,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,316
+SPC_PRD_0508,SPC06,Denim,Denim Jeans,Denim Misto Elastan,536
+SPC_PRD_0509,SPC03,Heritage / Premium,Knitwear,Cotone Supima,794
+SPC_PRD_0510,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,517
+SPC_PRD_0511,SPC04,Outdoor,Fleece,Lana Merino,1286
+SPC_PRD_0512,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,560
+SPC_PRD_0513,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,853
+SPC_PRD_0514,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,110
+SPC_PRD_0515,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,896
+SPC_PRD_0516,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,1100
+SPC_PRD_0517,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,234
+SPC_PRD_0518,SPC05,Activewear,Sneakers,Poliestere High-Performance,694
+SPC_PRD_0519,SPC06,Denim,Casual Shirts,Denim Misto Elastan,502
+SPC_PRD_0520,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,349
+SPC_PRD_0521,SPC05,Activewear,Sports Bras,Poliestere High-Performance,700
+SPC_PRD_0522,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,435
+SPC_PRD_0523,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,336
+SPC_PRD_0524,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,162
+SPC_PRD_0525,SPC05,Activewear,Sports Bras,Poliestere High-Performance,234
+SPC_PRD_0526,SPC04,Outdoor,Fleece,Lana Merino,863
+SPC_PRD_0527,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1048
+SPC_PRD_0528,SPC06,Denim,Denim Jeans,Denim Misto Elastan,881
+SPC_PRD_0529,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,552
+SPC_PRD_0530,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,464
+SPC_PRD_0531,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,588
+SPC_PRD_0532,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,259
+SPC_PRD_0533,SPC06,Denim,Denim Jeans,Denim Misto Elastan,627
+SPC_PRD_0534,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,359
+SPC_PRD_0535,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,798
+SPC_PRD_0536,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,183
+SPC_PRD_0537,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,668
+SPC_PRD_0538,SPC05,Activewear,Sneakers,Poliestere High-Performance,601
+SPC_PRD_0539,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,1007
+SPC_PRD_0540,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,844
+SPC_PRD_0541,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,361
+SPC_PRD_0542,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,526
+SPC_PRD_0543,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,248
+SPC_PRD_0544,SPC04,Outdoor,Fleece,Lana Merino,1073
+SPC_PRD_0545,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,449
+SPC_PRD_0546,SPC05,Activewear,Sneakers,Poliestere High-Performance,150
+SPC_PRD_0547,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,769
+SPC_PRD_0548,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,587
+SPC_PRD_0549,SPC04,Outdoor,Fleece,Nylon Riciclato,1437
+SPC_PRD_0550,SPC05,Activewear,Sports Bras,Poliestere High-Performance,284
+SPC_PRD_0551,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,215
+SPC_PRD_0552,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,173
+SPC_PRD_0553,SPC02,Teen Value Retail,Hoodies,Cotone Supima,389
+SPC_PRD_0554,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,155
+SPC_PRD_0555,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,376
+SPC_PRD_0556,SPC05,Activewear,Sports Bras,Poliestere High-Performance,546
+SPC_PRD_0557,SPC03,Heritage / Premium,Knitwear,Cotone Supima,863
+SPC_PRD_0558,SPC05,Activewear,Sports Bras,Poliestere High-Performance,420
+SPC_PRD_0559,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,507
+SPC_PRD_0560,SPC04,Outdoor,Outerwear,Nylon Riciclato,1293
+SPC_PRD_0561,SPC06,Denim,Denim Jeans,Denim Misto Elastan,827
+SPC_PRD_0562,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,1014
+SPC_PRD_0563,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,107
+SPC_PRD_0564,SPC05,Activewear,Sneakers,Poliestere High-Performance,745
+SPC_PRD_0565,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,943
+SPC_PRD_0566,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1089
+SPC_PRD_0567,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,499
+SPC_PRD_0568,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,118
+SPC_PRD_0569,SPC03,Heritage / Premium,Knitwear,Lana Merino,834
+SPC_PRD_0570,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,114
+SPC_PRD_0571,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,539
+SPC_PRD_0572,SPC03,Heritage / Premium,Knitwear,Cotone Supima,1051
+SPC_PRD_0573,SPC03,Heritage / Premium,Knitwear,Lana Merino,534
+SPC_PRD_0574,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,155
+SPC_PRD_0575,SPC04,Outdoor,Fleece,Lana Merino,757
+SPC_PRD_0576,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,171
+SPC_PRD_0577,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,247
+SPC_PRD_0578,SPC05,Activewear,Sports Bras,Poliestere High-Performance,259
+SPC_PRD_0579,SPC03,Heritage / Premium,Knitwear,Lana Merino,392
+SPC_PRD_0580,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,139
+SPC_PRD_0581,SPC05,Activewear,Sports Bras,Poliestere High-Performance,663
+SPC_PRD_0582,SPC02,Teen Value Retail,Hoodies,Cotone Supima,264
+SPC_PRD_0583,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,763
+SPC_PRD_0584,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,840
+SPC_PRD_0585,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,204
+SPC_PRD_0586,SPC05,Activewear,Sports Bras,Poliestere High-Performance,460
+SPC_PRD_0587,SPC06,Denim,Casual Shirts,Denim Misto Elastan,529
+SPC_PRD_0588,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,741
+SPC_PRD_0589,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,206
+SPC_PRD_0590,SPC04,Outdoor,Fleece,Nylon Riciclato,754
+SPC_PRD_0591,SPC05,Activewear,Sports Bras,Poliestere High-Performance,545
+SPC_PRD_0592,SPC05,Activewear,Sports Bras,Poliestere High-Performance,209
+SPC_PRD_0593,SPC06,Denim,Denim Jeans,Denim Misto Elastan,832
+SPC_PRD_0594,SPC04,Outdoor,Outerwear,Lana Merino,1048
+SPC_PRD_0595,SPC03,Heritage / Premium,Knitwear,Cotone Supima,1015
+SPC_PRD_0596,SPC06,Denim,Casual Shirts,Denim Misto Elastan,758
+SPC_PRD_0597,SPC06,Denim,Casual Shirts,Denim Misto Elastan,875
+SPC_PRD_0598,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,260
+SPC_PRD_0599,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,642
+SPC_PRD_0600,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,517
+SPC_PRD_0601,SPC06,Denim,Denim Jeans,Denim Misto Elastan,726
+SPC_PRD_0602,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,544
+SPC_PRD_0603,SPC06,Denim,Casual Shirts,Denim Misto Elastan,719
+SPC_PRD_0604,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,727
+SPC_PRD_0605,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,454
+SPC_PRD_0606,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,149
+SPC_PRD_0607,SPC04,Outdoor,Outerwear,Lana Merino,668
+SPC_PRD_0608,SPC06,Denim,Casual Shirts,Denim Misto Elastan,851
+SPC_PRD_0609,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,161
+SPC_PRD_0610,SPC04,Outdoor,Outerwear,Lana Merino,1018
+SPC_PRD_0611,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,106
+SPC_PRD_0612,SPC02,Teen Value Retail,Hoodies,Cotone Supima,213
+SPC_PRD_0613,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,591
+SPC_PRD_0614,SPC06,Denim,Denim Jeans,Denim Misto Elastan,766
+SPC_PRD_0615,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,596
+SPC_PRD_0616,SPC06,Denim,Casual Shirts,Denim Misto Elastan,692
+SPC_PRD_0617,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,265
+SPC_PRD_0618,SPC02,Teen Value Retail,Hoodies,Cotone Supima,348
+SPC_PRD_0619,SPC05,Activewear,Sports Bras,Poliestere High-Performance,502
+SPC_PRD_0620,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,134
+SPC_PRD_0621,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,272
+SPC_PRD_0622,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,564
+SPC_PRD_0623,SPC06,Denim,Denim Jeans,Denim Misto Elastan,691
+SPC_PRD_0624,SPC05,Activewear,Sneakers,Poliestere High-Performance,421
+SPC_PRD_0625,SPC04,Outdoor,Outerwear,Lana Merino,1056
+SPC_PRD_0626,SPC06,Denim,Casual Shirts,Denim Misto Elastan,712
+SPC_PRD_0627,SPC04,Outdoor,Outerwear,Nylon Riciclato,809
+SPC_PRD_0628,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,299
+SPC_PRD_0629,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,503
+SPC_PRD_0630,SPC05,Activewear,Sports Bras,Poliestere High-Performance,259
+SPC_PRD_0631,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,930
+SPC_PRD_0632,SPC06,Denim,Denim Jeans,Denim Misto Elastan,752
+SPC_PRD_0633,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,144
+SPC_PRD_0634,SPC06,Denim,Denim Jeans,Denim Misto Elastan,539
+SPC_PRD_0635,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,600
+SPC_PRD_0636,SPC02,Teen Value Retail,Hoodies,Cotone Supima,279
+SPC_PRD_0637,SPC06,Denim,Denim Jeans,Denim Misto Elastan,670
+SPC_PRD_0638,SPC04,Outdoor,Outerwear,Nylon Riciclato,778
+SPC_PRD_0639,SPC04,Outdoor,Hiking Pants,Lana Merino,1341
+SPC_PRD_0640,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,103
+SPC_PRD_0641,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,304
+SPC_PRD_0642,SPC06,Denim,Denim Jeans,Denim Misto Elastan,817
+SPC_PRD_0643,SPC03,Heritage / Premium,Knitwear,Cotone Supima,751
+SPC_PRD_0644,SPC06,Denim,Denim Jeans,Denim Misto Elastan,794
+SPC_PRD_0645,SPC06,Denim,Denim Jeans,Denim Misto Elastan,694
+SPC_PRD_0646,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,184
+SPC_PRD_0647,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,216
+SPC_PRD_0648,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1108
+SPC_PRD_0649,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,276
+SPC_PRD_0650,SPC04,Outdoor,Outerwear,Nylon Riciclato,1198
+SPC_PRD_0651,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,268
+SPC_PRD_0652,SPC05,Activewear,Sneakers,Poliestere High-Performance,713
+SPC_PRD_0653,SPC06,Denim,Denim Jeans,Denim Misto Elastan,614
+SPC_PRD_0654,SPC05,Activewear,Sneakers,Poliestere High-Performance,615
+SPC_PRD_0655,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,420
+SPC_PRD_0656,SPC06,Denim,Denim Jeans,Denim Misto Elastan,648
+SPC_PRD_0657,SPC04,Outdoor,Fleece,Lana Merino,520
+SPC_PRD_0658,SPC04,Outdoor,Fleece,Lana Merino,1171
+SPC_PRD_0659,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,729
+SPC_PRD_0660,SPC04,Outdoor,Outerwear,Nylon Riciclato,554
+SPC_PRD_0661,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,511
+SPC_PRD_0662,SPC05,Activewear,Sports Bras,Poliestere High-Performance,194
+SPC_PRD_0663,SPC04,Outdoor,Fleece,Nylon Riciclato,1423
+SPC_PRD_0664,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,604
+SPC_PRD_0665,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1155
+SPC_PRD_0666,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,326
+SPC_PRD_0667,SPC06,Denim,Casual Shirts,Denim Misto Elastan,847
+SPC_PRD_0668,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,107
+SPC_PRD_0669,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,664
+SPC_PRD_0670,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,651
+SPC_PRD_0671,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,579
+SPC_PRD_0672,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,275
+SPC_PRD_0673,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,295
+SPC_PRD_0674,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,596
+SPC_PRD_0675,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,756
+SPC_PRD_0676,SPC04,Outdoor,Fleece,Lana Merino,944
+SPC_PRD_0677,SPC03,Heritage / Premium,Knitwear,Cotone Supima,514
+SPC_PRD_0678,SPC06,Denim,Casual Shirts,Denim Misto Elastan,860
+SPC_PRD_0679,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,964
+SPC_PRD_0680,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,753
+SPC_PRD_0681,SPC03,Heritage / Premium,Knitwear,Cotone Supima,440
+SPC_PRD_0682,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,317
+SPC_PRD_0683,SPC04,Outdoor,Hiking Pants,Lana Merino,522
+SPC_PRD_0684,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,376
+SPC_PRD_0685,SPC04,Outdoor,Outerwear,Nylon Riciclato,1080
+SPC_PRD_0686,SPC05,Activewear,Sports Bras,Poliestere High-Performance,231
+SPC_PRD_0687,SPC02,Teen Value Retail,Hoodies,Cotone Supima,234
+SPC_PRD_0688,SPC04,Outdoor,Outerwear,Lana Merino,502
+SPC_PRD_0689,SPC06,Denim,Casual Shirts,Denim Misto Elastan,715
+SPC_PRD_0690,SPC06,Denim,Denim Jeans,Denim Misto Elastan,742
+SPC_PRD_0691,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,695
+SPC_PRD_0692,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,195
+SPC_PRD_0693,SPC04,Outdoor,Fleece,Nylon Riciclato,839
+SPC_PRD_0694,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,277
+SPC_PRD_0695,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,296
+SPC_PRD_0696,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,479
+SPC_PRD_0697,SPC05,Activewear,Sports Bras,Poliestere High-Performance,647
+SPC_PRD_0698,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,278
+SPC_PRD_0699,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,195
+SPC_PRD_0700,SPC06,Denim,Denim Jeans,Denim Misto Elastan,811
+SPC_PRD_0701,SPC06,Denim,Casual Shirts,Denim Misto Elastan,695
+SPC_PRD_0702,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,533
+SPC_PRD_0703,SPC04,Outdoor,Fleece,Nylon Riciclato,760
+SPC_PRD_0704,SPC06,Denim,Denim Jeans,Denim Misto Elastan,718
+SPC_PRD_0705,SPC04,Outdoor,Fleece,Nylon Riciclato,804
+SPC_PRD_0706,SPC03,Heritage / Premium,Knitwear,Lana Merino,713
+SPC_PRD_0707,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,269
+SPC_PRD_0708,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,1122
+SPC_PRD_0709,SPC06,Denim,Casual Shirts,Denim Misto Elastan,500
+SPC_PRD_0710,SPC04,Outdoor,Fleece,Lana Merino,1018
+SPC_PRD_0711,SPC04,Outdoor,Outerwear,Nylon Riciclato,1047
+SPC_PRD_0712,SPC03,Heritage / Premium,Knitwear,Cotone Supima,300
+SPC_PRD_0713,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,294
+SPC_PRD_0714,SPC02,Teen Value Retail,Hoodies,Cotone Supima,234
+SPC_PRD_0715,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,643
+SPC_PRD_0716,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,699
+SPC_PRD_0717,SPC05,Activewear,Sneakers,Poliestere High-Performance,418
+SPC_PRD_0718,SPC06,Denim,Denim Jeans,Denim Misto Elastan,773
+SPC_PRD_0719,SPC04,Outdoor,Outerwear,Lana Merino,751
+SPC_PRD_0720,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,222
+SPC_PRD_0721,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,117
+SPC_PRD_0722,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,394
+SPC_PRD_0723,SPC04,Outdoor,Hiking Pants,Lana Merino,1445
+SPC_PRD_0724,SPC04,Outdoor,Outerwear,Lana Merino,1149
+SPC_PRD_0725,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,268
+SPC_PRD_0726,SPC05,Activewear,Sports Bras,Poliestere High-Performance,472
+SPC_PRD_0727,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,237
+SPC_PRD_0728,SPC06,Denim,Casual Shirts,Denim Misto Elastan,518
+SPC_PRD_0729,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,932
+SPC_PRD_0730,SPC06,Denim,Denim Jeans,Denim Misto Elastan,787
+SPC_PRD_0731,SPC05,Activewear,Sports Bras,Poliestere High-Performance,191
+SPC_PRD_0732,SPC04,Outdoor,Hiking Pants,Lana Merino,815
+SPC_PRD_0733,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,1048
+SPC_PRD_0734,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,494
+SPC_PRD_0735,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,266
+SPC_PRD_0736,SPC02,Teen Value Retail,Hoodies,Cotone Supima,259
+SPC_PRD_0737,SPC06,Denim,Denim Jeans,Denim Misto Elastan,877
+SPC_PRD_0738,SPC04,Outdoor,Outerwear,Nylon Riciclato,1209
+SPC_PRD_0739,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1388
+SPC_PRD_0740,SPC06,Denim,Casual Shirts,Denim Misto Elastan,578
+SPC_PRD_0741,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,383
+SPC_PRD_0742,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,232
+SPC_PRD_0743,SPC04,Outdoor,Fleece,Nylon Riciclato,1038
+SPC_PRD_0744,SPC05,Activewear,Sneakers,Poliestere High-Performance,735
+SPC_PRD_0745,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,130
+SPC_PRD_0746,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,324
+SPC_PRD_0747,SPC05,Activewear,Sneakers,Poliestere High-Performance,783
+SPC_PRD_0748,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,784
+SPC_PRD_0749,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,210
+SPC_PRD_0750,SPC05,Activewear,Sports Bras,Poliestere High-Performance,727
+SPC_PRD_0751,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,388
+SPC_PRD_0752,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,297
+SPC_PRD_0753,SPC05,Activewear,Sports Bras,Poliestere High-Performance,388
+SPC_PRD_0754,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,170
+SPC_PRD_0755,SPC04,Outdoor,Outerwear,Lana Merino,902
+SPC_PRD_0756,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,271
+SPC_PRD_0757,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,720
+SPC_PRD_0758,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,172
+SPC_PRD_0759,SPC06,Denim,Casual Shirts,Denim Misto Elastan,649
+SPC_PRD_0760,SPC02,Teen Value Retail,Hoodies,Cotone Supima,280
+SPC_PRD_0761,SPC03,Heritage / Premium,Knitwear,Cotone Supima,1119
+SPC_PRD_0762,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,368
+SPC_PRD_0763,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,793
+SPC_PRD_0764,SPC06,Denim,Denim Jeans,Denim Misto Elastan,649
+SPC_PRD_0765,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,539
+SPC_PRD_0766,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,301
+SPC_PRD_0767,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,695
+SPC_PRD_0768,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1051
+SPC_PRD_0769,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,220
+SPC_PRD_0770,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,485
+SPC_PRD_0771,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,243
+SPC_PRD_0772,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,1192
+SPC_PRD_0773,SPC04,Outdoor,Outerwear,Lana Merino,710
+SPC_PRD_0774,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,402
+SPC_PRD_0775,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,684
+SPC_PRD_0776,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1116
+SPC_PRD_0777,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,533
+SPC_PRD_0778,SPC05,Activewear,Sports Bras,Poliestere High-Performance,513
+SPC_PRD_0779,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,747
+SPC_PRD_0780,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,982
+SPC_PRD_0781,SPC04,Outdoor,Fleece,Lana Merino,839
+SPC_PRD_0782,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,152
+SPC_PRD_0783,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1195
+SPC_PRD_0784,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,117
+SPC_PRD_0785,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,298
+SPC_PRD_0786,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,379
+SPC_PRD_0787,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1355
+SPC_PRD_0788,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,248
+SPC_PRD_0789,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,489
+SPC_PRD_0790,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,314
+SPC_PRD_0791,SPC05,Activewear,Sports Bras,Poliestere High-Performance,693
+SPC_PRD_0792,SPC06,Denim,Denim Jeans,Denim Misto Elastan,859
+SPC_PRD_0793,SPC05,Activewear,Sports Bras,Poliestere High-Performance,342
+SPC_PRD_0794,SPC03,Heritage / Premium,Knitwear,Lana Merino,1157
+SPC_PRD_0795,SPC06,Denim,Denim Jeans,Denim Misto Elastan,658
+SPC_PRD_0796,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,249
+SPC_PRD_0797,SPC06,Denim,Denim Jeans,Denim Misto Elastan,869
+SPC_PRD_0798,SPC06,Denim,Denim Jeans,Denim Misto Elastan,678
+SPC_PRD_0799,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,179
+SPC_PRD_0800,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,373
+SPC_PRD_0801,SPC04,Outdoor,Fleece,Nylon Riciclato,1006
+SPC_PRD_0802,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,261
+SPC_PRD_0803,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,208
+SPC_PRD_0804,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,273
+SPC_PRD_0805,SPC06,Denim,Casual Shirts,Denim Misto Elastan,563
+SPC_PRD_0806,SPC03,Heritage / Premium,Knitwear,Cotone Supima,871
+SPC_PRD_0807,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,782
+SPC_PRD_0808,SPC05,Activewear,Sports Bras,Poliestere High-Performance,631
+SPC_PRD_0809,SPC03,Heritage / Premium,Knitwear,Lana Merino,724
+SPC_PRD_0810,SPC05,Activewear,Sneakers,Poliestere High-Performance,303
+SPC_PRD_0811,SPC02,Teen Value Retail,Hoodies,Cotone Supima,591
+SPC_PRD_0812,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,566
+SPC_PRD_0813,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,740
+SPC_PRD_0814,SPC06,Denim,Casual Shirts,Denim Misto Elastan,654
+SPC_PRD_0815,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,1170
+SPC_PRD_0816,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,427
+SPC_PRD_0817,SPC06,Denim,Casual Shirts,Denim Misto Elastan,754
+SPC_PRD_0818,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,565
+SPC_PRD_0819,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,390
+SPC_PRD_0820,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,617
+SPC_PRD_0821,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,372
+SPC_PRD_0822,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,224
+SPC_PRD_0823,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,242
+SPC_PRD_0824,SPC03,Heritage / Premium,Knitwear,Cotone Supima,685
+SPC_PRD_0825,SPC05,Activewear,Sneakers,Poliestere High-Performance,310
+SPC_PRD_0826,SPC06,Denim,Casual Shirts,Denim Misto Elastan,623
+SPC_PRD_0827,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,363
+SPC_PRD_0828,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,463
+SPC_PRD_0829,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,261
+SPC_PRD_0830,SPC04,Outdoor,Outerwear,Nylon Riciclato,636
+SPC_PRD_0831,SPC02,Teen Value Retail,Hoodies,Cotone Supima,580
+SPC_PRD_0832,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,581
+SPC_PRD_0833,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,427
+SPC_PRD_0834,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,159
+SPC_PRD_0835,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,247
+SPC_PRD_0836,SPC04,Outdoor,Fleece,Nylon Riciclato,1033
+SPC_PRD_0837,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,256
+SPC_PRD_0838,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,793
+SPC_PRD_0839,SPC06,Denim,Denim Jeans,Denim Misto Elastan,858
+SPC_PRD_0840,SPC03,Heritage / Premium,Knitwear,Cotone Supima,397
+SPC_PRD_0841,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,137
+SPC_PRD_0842,SPC06,Denim,Casual Shirts,Denim Misto Elastan,805
+SPC_PRD_0843,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,213
+SPC_PRD_0844,SPC06,Denim,Denim Jeans,Denim Misto Elastan,618
+SPC_PRD_0845,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,599
+SPC_PRD_0846,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,312
+SPC_PRD_0847,SPC05,Activewear,Sports Bras,Poliestere High-Performance,418
+SPC_PRD_0848,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,171
+SPC_PRD_0849,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,414
+SPC_PRD_0850,SPC05,Activewear,Sports Bras,Poliestere High-Performance,374
+SPC_PRD_0851,SPC06,Denim,Casual Shirts,Denim Misto Elastan,615
+SPC_PRD_0852,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,590
+SPC_PRD_0853,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,311
+SPC_PRD_0854,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,430
+SPC_PRD_0855,SPC06,Denim,Denim Jeans,Denim Misto Elastan,757
+SPC_PRD_0856,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,368
+SPC_PRD_0857,SPC03,Heritage / Premium,Knitwear,Cotone Supima,539
+SPC_PRD_0858,SPC06,Denim,Casual Shirts,Denim Misto Elastan,725
+SPC_PRD_0859,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,103
+SPC_PRD_0860,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,678
+SPC_PRD_0861,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,713
+SPC_PRD_0862,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,293
+SPC_PRD_0863,SPC06,Denim,Denim Jeans,Denim Misto Elastan,793
+SPC_PRD_0864,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,210
+SPC_PRD_0865,SPC06,Denim,Denim Jeans,Denim Misto Elastan,756
+SPC_PRD_0866,SPC06,Denim,Denim Jeans,Denim Misto Elastan,822
+SPC_PRD_0867,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,892
+SPC_PRD_0868,SPC02,Teen Value Retail,Hoodies,Cotone Supima,485
+SPC_PRD_0869,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,599
+SPC_PRD_0870,SPC03,Heritage / Premium,Dress Shirts,Cotone Supima,1155
+SPC_PRD_0871,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,174
+SPC_PRD_0872,SPC05,Activewear,Sports Bras,Poliestere High-Performance,307
+SPC_PRD_0873,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,899
+SPC_PRD_0874,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,225
+SPC_PRD_0875,SPC03,Heritage / Premium,Knitwear,Lana Merino,307
+SPC_PRD_0876,SPC06,Denim,Denim Jeans,Denim Misto Elastan,881
+SPC_PRD_0877,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,246
+SPC_PRD_0878,SPC06,Denim,Denim Jeans,Denim Misto Elastan,771
+SPC_PRD_0879,SPC06,Denim,Casual Shirts,Denim Misto Elastan,613
+SPC_PRD_0880,SPC04,Outdoor,Fleece,Nylon Riciclato,884
+SPC_PRD_0881,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,331
+SPC_PRD_0882,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,266
+SPC_PRD_0883,SPC05,Activewear,Sports Bras,Poliestere High-Performance,653
+SPC_PRD_0884,SPC04,Outdoor,Hiking Pants,Lana Merino,523
+SPC_PRD_0885,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,439
+SPC_PRD_0886,SPC04,Outdoor,Fleece,Lana Merino,1017
+SPC_PRD_0887,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,407
+SPC_PRD_0888,SPC02,Teen Value Retail,Hoodies,Cotone Supima,272
+SPC_PRD_0889,SPC04,Outdoor,Outerwear,Lana Merino,1330
+SPC_PRD_0890,SPC05,Activewear,Sneakers,Poliestere High-Performance,619
+SPC_PRD_0891,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,284
+SPC_PRD_0892,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,502
+SPC_PRD_0893,SPC01,Fast Fashion,Party Dresses,Denim Misto Elastan,166
+SPC_PRD_0894,SPC06,Denim,Denim Jeans,Denim Misto Elastan,568
+SPC_PRD_0895,SPC01,Fast Fashion,Party Dresses,Acrilico Economico,136
+SPC_PRD_0896,SPC06,Denim,Denim Jeans,Denim Misto Elastan,510
+SPC_PRD_0897,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,218
+SPC_PRD_0898,SPC05,Activewear,Sneakers,Poliestere High-Performance,485
+SPC_PRD_0899,SPC02,Teen Value Retail,Basic Tees,Cotone Supima,211
+SPC_PRD_0900,SPC05,Activewear,Sports Bras,Poliestere High-Performance,461
+SPC_PRD_0901,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,624
+SPC_PRD_0902,SPC06,Denim,Casual Shirts,Denim Misto Elastan,661
+SPC_PRD_0903,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,152
+SPC_PRD_0904,SPC02,Teen Value Retail,Hoodies,Acrilico Economico,524
+SPC_PRD_0905,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,424
+SPC_PRD_0906,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,239
+SPC_PRD_0907,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,578
+SPC_PRD_0908,SPC06,Denim,Casual Shirts,Denim Misto Elastan,710
+SPC_PRD_0909,SPC06,Denim,Casual Shirts,Denim Misto Elastan,887
+SPC_PRD_0910,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,285
+SPC_PRD_0911,SPC03,Heritage / Premium,Knitwear,Lana Merino,689
+SPC_PRD_0912,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,908
+SPC_PRD_0913,SPC06,Denim,Casual Shirts,Denim Misto Elastan,597
+SPC_PRD_0914,SPC04,Outdoor,Outerwear,Lana Merino,1037
+SPC_PRD_0915,SPC06,Denim,Denim Jeans,Denim Misto Elastan,752
+SPC_PRD_0916,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,307
+SPC_PRD_0917,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,483
+SPC_PRD_0918,SPC04,Outdoor,Outerwear,Lana Merino,1290
+SPC_PRD_0919,SPC04,Outdoor,Hiking Pants,Lana Merino,521
+SPC_PRD_0920,SPC04,Outdoor,Hiking Pants,Lana Merino,638
+SPC_PRD_0921,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,1044
+SPC_PRD_0922,SPC05,Activewear,Sneakers,Poliestere High-Performance,261
+SPC_PRD_0923,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,854
+SPC_PRD_0924,SPC06,Denim,Denim Jeans,Denim Misto Elastan,869
+SPC_PRD_0925,SPC06,Denim,Casual Shirts,Denim Misto Elastan,884
+SPC_PRD_0926,SPC05,Activewear,Sneakers,Poliestere High-Performance,340
+SPC_PRD_0927,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,204
+SPC_PRD_0928,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1209
+SPC_PRD_0929,SPC02,Teen Value Retail,Polo Shirts,Cotone Supima,503
+SPC_PRD_0930,SPC06,Denim,Denim Jeans,Denim Misto Elastan,881
+SPC_PRD_0931,SPC01,Fast Fashion,Crop Tops,Denim Misto Elastan,282
+SPC_PRD_0932,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,170
+SPC_PRD_0933,SPC05,Activewear,Sneakers,Poliestere High-Performance,748
+SPC_PRD_0934,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1025
+SPC_PRD_0935,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,320
+SPC_PRD_0936,SPC05,Activewear,Sneakers,Poliestere High-Performance,531
+SPC_PRD_0937,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,918
+SPC_PRD_0938,SPC04,Outdoor,Outerwear,Lana Merino,1024
+SPC_PRD_0939,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,181
+SPC_PRD_0940,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,527
+SPC_PRD_0941,SPC05,Activewear,Sneakers,Poliestere High-Performance,681
+SPC_PRD_0942,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,725
+SPC_PRD_0943,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,287
+SPC_PRD_0944,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,139
+SPC_PRD_0945,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,267
+SPC_PRD_0946,SPC04,Outdoor,Hiking Pants,Lana Merino,1487
+SPC_PRD_0947,SPC05,Activewear,Sneakers,Poliestere High-Performance,288
+SPC_PRD_0948,SPC02,Teen Value Retail,Hoodies,Cotone Supima,428
+SPC_PRD_0949,SPC02,Teen Value Retail,Hoodies,Cotone Supima,501
+SPC_PRD_0950,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,311
+SPC_PRD_0951,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,610
+SPC_PRD_0952,SPC04,Outdoor,Fleece,Nylon Riciclato,1193
+SPC_PRD_0953,SPC02,Teen Value Retail,Hoodies,Cotone Supima,246
+SPC_PRD_0954,SPC03,Heritage / Premium,Knitwear,Lana Merino,1115
+SPC_PRD_0955,SPC02,Teen Value Retail,Hoodies,Cotone Supima,228
+SPC_PRD_0956,SPC06,Denim,Casual Shirts,Denim Misto Elastan,657
+SPC_PRD_0957,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,276
+SPC_PRD_0958,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,346
+SPC_PRD_0959,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,140
+SPC_PRD_0960,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,689
+SPC_PRD_0961,SPC01,Fast Fashion,Crop Tops,Acrilico Economico,266
+SPC_PRD_0962,SPC02,Teen Value Retail,Hoodies,Cotone Supima,579
+SPC_PRD_0963,SPC05,Activewear,Sports Bras,Poliestere High-Performance,561
+SPC_PRD_0964,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,543
+SPC_PRD_0965,SPC04,Outdoor,Outerwear,Lana Merino,852
+SPC_PRD_0966,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,914
+SPC_PRD_0967,SPC05,Activewear,Sneakers,Poliestere High-Performance,745
+SPC_PRD_0968,SPC01,Fast Fashion,Graphic Tees,Acrilico Economico,199
+SPC_PRD_0969,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,343
+SPC_PRD_0970,SPC02,Teen Value Retail,Basic Tees,Acrilico Economico,352
+SPC_PRD_0971,SPC04,Outdoor,Outerwear,Nylon Riciclato,1028
+SPC_PRD_0972,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,487
+SPC_PRD_0973,SPC05,Activewear,Sports Bras,Poliestere High-Performance,293
+SPC_PRD_0974,SPC06,Denim,Casual Shirts,Denim Misto Elastan,574
+SPC_PRD_0975,SPC02,Teen Value Retail,Hoodies,Cotone Supima,426
+SPC_PRD_0976,SPC02,Teen Value Retail,Hoodies,Cotone Supima,344
+SPC_PRD_0977,SPC06,Denim,Casual Shirts,Denim Misto Elastan,572
+SPC_PRD_0978,SPC05,Activewear,Sneakers,Poliestere High-Performance,192
+SPC_PRD_0979,SPC05,Activewear,Sneakers,Poliestere High-Performance,468
+SPC_PRD_0980,SPC01,Fast Fashion,Graphic Tees,Denim Misto Elastan,188
+SPC_PRD_0981,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,172
+SPC_PRD_0982,SPC04,Outdoor,Fleece,Lana Merino,784
+SPC_PRD_0983,SPC03,Heritage / Premium,Knitwear,Lana Merino,717
+SPC_PRD_0984,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,594
+SPC_PRD_0985,SPC06,Denim,Denim Jeans,Denim Misto Elastan,545
+SPC_PRD_0986,SPC05,Activewear,Sports Bras,Poliestere High-Performance,602
+SPC_PRD_0987,SPC05,Activewear,Sports Bras,Poliestere High-Performance,785
+SPC_PRD_0988,SPC05,Activewear,Sneakers,Poliestere High-Performance,535
+SPC_PRD_0989,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,571
+SPC_PRD_0990,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,891
+SPC_PRD_0991,SPC02,Teen Value Retail,Hoodies,Cotone Supima,339
+SPC_PRD_0992,SPC05,Activewear,Activewear Sets,Poliestere High-Performance,580
+SPC_PRD_0993,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,909
+SPC_PRD_0994,SPC04,Outdoor,Hiking Pants,Nylon Riciclato,1471
+SPC_PRD_0995,SPC03,Heritage / Premium,Suits & Tailoring,Lana Merino,482
+SPC_PRD_0996,SPC03,Heritage / Premium,Knitwear,Lana Merino,498
+SPC_PRD_0997,SPC03,Heritage / Premium,Dress Shirts,Lana Merino,397
+SPC_PRD_0998,SPC03,Heritage / Premium,Suits & Tailoring,Cotone Supima,652
+SPC_PRD_0999,SPC02,Teen Value Retail,Polo Shirts,Acrilico Economico,222

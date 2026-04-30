@@ -1,0 +1,1001 @@
+product_id,brand_id,category,collection_cycle,main_material,weight_grams
+PROD_0000,B004,Abiti,Weekly,Cotone Organico,400
+PROD_0001,B003,Abiti,Weekly,Nylon,375
+PROD_0002,B002,Scarpe,Seasonal,Nylon,920
+PROD_0003,B003,T-shirt,Weekly,Viscosa,176
+PROD_0004,B001,Maglieria,Weekly,Poliestere,381
+PROD_0005,B003,Jeans,Seasonal,Cotone Convenzionale,684
+PROD_0006,B003,Accessori,Seasonal,Cotone Organico,484
+PROD_0007,B001,Scarpe,Seasonal,Cotone Organico,910
+PROD_0008,B002,T-shirt,Weekly,Poliestere,214
+PROD_0009,B005,Abiti,Seasonal,Viscosa,433
+PROD_0010,B007,Abiti,Seasonal,Poliestere,486
+PROD_0011,B005,Accessori,Seasonal,Cotone Convenzionale,438
+PROD_0012,B002,Abiti,Weekly,Poliestere,471
+PROD_0013,B006,Maglieria,Seasonal,Nylon,452
+PROD_0014,B007,T-shirt,Weekly,Cotone Convenzionale,181
+PROD_0015,B003,Jeans,Seasonal,Poliestere,669
+PROD_0016,B005,Abiti,Weekly,Poliestere,307
+PROD_0017,B001,Accessori,Seasonal,Cotone Convenzionale,346
+PROD_0018,B002,Scarpe,Seasonal,Cotone Convenzionale,1010
+PROD_0019,B003,Jeans,Weekly,Viscosa,563
+PROD_0020,B002,Accessori,Seasonal,Poliestere,442
+PROD_0021,B005,Accessori,Seasonal,Nylon,579
+PROD_0022,B002,Scarpe,Seasonal,Viscosa,1083
+PROD_0023,B001,T-shirt,Weekly,Cotone Organico,153
+PROD_0024,B003,Jeans,Seasonal,Lana,649
+PROD_0025,B001,Abiti,Seasonal,Viscosa,560
+PROD_0026,B001,Accessori,Weekly,Nylon,487
+PROD_0027,B007,Abiti,Weekly,Viscosa,412
+PROD_0028,B006,Maglieria,Seasonal,Poliestere,411
+PROD_0029,B005,Accessori,Weekly,Cotone Organico,441
+PROD_0030,B006,Accessori,Seasonal,Nylon,584
+PROD_0031,B002,T-shirt,Seasonal,Cotone Organico,241
+PROD_0032,B002,Scarpe,Seasonal,Lana,836
+PROD_0033,B004,Jeans,Seasonal,Poliestere,593
+PROD_0034,B001,Abiti,Seasonal,Cotone Convenzionale,430
+PROD_0035,B006,Accessori,Seasonal,Lana,414
+PROD_0036,B007,Jeans,Seasonal,Lana,606
+PROD_0037,B001,Abiti,Weekly,Nylon,459
+PROD_0038,B001,T-shirt,Weekly,Viscosa,244
+PROD_0039,B002,Abiti,Seasonal,Nylon,470
+PROD_0040,B006,Maglieria,Seasonal,Cotone Convenzionale,495
+PROD_0041,B002,Jeans,Seasonal,Poliestere,580
+PROD_0042,B007,Abiti,Seasonal,Poliestere,588
+PROD_0043,B007,Abiti,Seasonal,Cotone Convenzionale,355
+PROD_0044,B005,Scarpe,Weekly,Lana,913
+PROD_0045,B003,Scarpe,Weekly,Lana,1106
+PROD_0046,B006,Accessori,Weekly,Viscosa,379
+PROD_0047,B001,Scarpe,Weekly,Lana,837
+PROD_0048,B004,T-shirt,Weekly,Cotone Organico,152
+PROD_0049,B004,Maglieria,Seasonal,Cotone Convenzionale,470
+PROD_0050,B001,Scarpe,Weekly,Nylon,753
+PROD_0051,B001,Scarpe,Seasonal,Cotone Convenzionale,728
+PROD_0052,B001,T-shirt,Weekly,Viscosa,240
+PROD_0053,B005,T-shirt,Seasonal,Lana,249
+PROD_0054,B002,Maglieria,Seasonal,Cotone Organico,380
+PROD_0055,B001,T-shirt,Weekly,Viscosa,222
+PROD_0056,B001,Jeans,Weekly,Poliestere,523
+PROD_0057,B007,T-shirt,Weekly,Lana,206
+PROD_0058,B004,Scarpe,Weekly,Nylon,812
+PROD_0059,B002,T-shirt,Seasonal,Lana,176
+PROD_0060,B002,Abiti,Weekly,Lana,341
+PROD_0061,B002,Jeans,Seasonal,Cotone Organico,719
+PROD_0062,B005,Abiti,Seasonal,Cotone Convenzionale,522
+PROD_0063,B004,Jeans,Weekly,Poliestere,572
+PROD_0064,B005,Maglieria,Seasonal,Poliestere,478
+PROD_0065,B004,Maglieria,Seasonal,Cotone Organico,310
+PROD_0066,B007,Scarpe,Weekly,Poliestere,1181
+PROD_0067,B003,Maglieria,Seasonal,Lana,567
+PROD_0068,B007,Accessori,Weekly,Nylon,557
+PROD_0069,B003,Scarpe,Seasonal,Nylon,971
+PROD_0070,B002,Maglieria,Weekly,Poliestere,320
+PROD_0071,B002,Maglieria,Weekly,Poliestere,436
+PROD_0072,B005,Accessori,Seasonal,Lana,491
+PROD_0073,B007,T-shirt,Weekly,Nylon,197
+PROD_0074,B001,Maglieria,Seasonal,Viscosa,436
+PROD_0075,B004,Abiti,Seasonal,Lana,366
+PROD_0076,B002,T-shirt,Weekly,Cotone Organico,209
+PROD_0077,B003,Scarpe,Weekly,Viscosa,713
+PROD_0078,B004,Abiti,Weekly,Cotone Convenzionale,370
+PROD_0079,B002,Abiti,Weekly,Cotone Organico,409
+PROD_0080,B003,Jeans,Seasonal,Cotone Convenzionale,696
+PROD_0081,B001,Abiti,Weekly,Cotone Organico,432
+PROD_0082,B005,Abiti,Seasonal,Viscosa,345
+PROD_0083,B005,Accessori,Seasonal,Nylon,467
+PROD_0084,B005,Abiti,Seasonal,Cotone Organico,542
+PROD_0085,B005,Scarpe,Seasonal,Nylon,732
+PROD_0086,B003,T-shirt,Weekly,Cotone Organico,157
+PROD_0087,B004,Jeans,Weekly,Nylon,692
+PROD_0088,B006,Maglieria,Weekly,Cotone Convenzionale,384
+PROD_0089,B001,Maglieria,Seasonal,Poliestere,370
+PROD_0090,B006,T-shirt,Weekly,Nylon,172
+PROD_0091,B007,T-shirt,Seasonal,Cotone Convenzionale,215
+PROD_0092,B003,T-shirt,Seasonal,Viscosa,246
+PROD_0093,B001,Accessori,Weekly,Nylon,461
+PROD_0094,B003,T-shirt,Weekly,Lana,221
+PROD_0095,B004,Scarpe,Seasonal,Viscosa,1083
+PROD_0096,B004,Accessori,Seasonal,Viscosa,487
+PROD_0097,B007,Jeans,Weekly,Cotone Organico,581
+PROD_0098,B003,Maglieria,Weekly,Poliestere,450
+PROD_0099,B004,T-shirt,Seasonal,Cotone Organico,214
+PROD_0100,B007,Scarpe,Seasonal,Nylon,1057
+PROD_0101,B001,Maglieria,Weekly,Lana,555
+PROD_0102,B002,Abiti,Seasonal,Lana,535
+PROD_0103,B007,Jeans,Seasonal,Cotone Convenzionale,535
+PROD_0104,B006,Maglieria,Weekly,Cotone Organico,477
+PROD_0105,B003,Jeans,Seasonal,Viscosa,655
+PROD_0106,B006,Jeans,Weekly,Poliestere,583
+PROD_0107,B003,Maglieria,Seasonal,Lana,317
+PROD_0108,B007,Jeans,Seasonal,Viscosa,639
+PROD_0109,B005,T-shirt,Seasonal,Viscosa,177
+PROD_0110,B007,Accessori,Seasonal,Nylon,390
+PROD_0111,B007,Accessori,Weekly,Cotone Organico,320
+PROD_0112,B007,Jeans,Seasonal,Nylon,790
+PROD_0113,B007,Accessori,Seasonal,Poliestere,431
+PROD_0114,B005,T-shirt,Weekly,Poliestere,187
+PROD_0115,B007,Abiti,Weekly,Nylon,409
+PROD_0116,B002,T-shirt,Weekly,Cotone Organico,225
+PROD_0117,B005,Maglieria,Weekly,Cotone Convenzionale,467
+PROD_0118,B006,Jeans,Weekly,Cotone Convenzionale,767
+PROD_0119,B001,T-shirt,Seasonal,Cotone Convenzionale,203
+PROD_0120,B002,Accessori,Seasonal,Lana,343
+PROD_0121,B006,Accessori,Seasonal,Viscosa,407
+PROD_0122,B007,Maglieria,Weekly,Nylon,539
+PROD_0123,B007,Abiti,Weekly,Cotone Organico,540
+PROD_0124,B006,Accessori,Seasonal,Cotone Organico,315
+PROD_0125,B001,Abiti,Weekly,Cotone Organico,321
+PROD_0126,B001,Abiti,Seasonal,Lana,314
+PROD_0127,B005,Accessori,Seasonal,Nylon,401
+PROD_0128,B005,Scarpe,Seasonal,Cotone Convenzionale,991
+PROD_0129,B005,T-shirt,Seasonal,Cotone Convenzionale,167
+PROD_0130,B004,Jeans,Weekly,Viscosa,601
+PROD_0131,B003,Jeans,Weekly,Cotone Convenzionale,636
+PROD_0132,B004,Jeans,Seasonal,Viscosa,660
+PROD_0133,B007,Jeans,Seasonal,Viscosa,608
+PROD_0134,B002,Scarpe,Weekly,Viscosa,1170
+PROD_0135,B006,Maglieria,Seasonal,Poliestere,340
+PROD_0136,B001,Maglieria,Weekly,Cotone Convenzionale,436
+PROD_0137,B002,Maglieria,Weekly,Cotone Organico,306
+PROD_0138,B006,Maglieria,Weekly,Cotone Convenzionale,473
+PROD_0139,B004,T-shirt,Seasonal,Cotone Convenzionale,230
+PROD_0140,B002,Accessori,Seasonal,Lana,513
+PROD_0141,B001,Abiti,Weekly,Viscosa,490
+PROD_0142,B001,Accessori,Weekly,Cotone Organico,381
+PROD_0143,B007,Abiti,Weekly,Poliestere,365
+PROD_0144,B003,Accessori,Weekly,Cotone Organico,523
+PROD_0145,B004,Scarpe,Seasonal,Viscosa,914
+PROD_0146,B005,Accessori,Weekly,Cotone Convenzionale,328
+PROD_0147,B006,Maglieria,Seasonal,Cotone Organico,322
+PROD_0148,B005,Jeans,Weekly,Lana,561
+PROD_0149,B001,Maglieria,Seasonal,Poliestere,529
+PROD_0150,B001,Abiti,Seasonal,Lana,511
+PROD_0151,B006,Accessori,Seasonal,Viscosa,506
+PROD_0152,B002,Scarpe,Seasonal,Poliestere,1149
+PROD_0153,B002,Abiti,Seasonal,Lana,558
+PROD_0154,B003,Jeans,Seasonal,Poliestere,758
+PROD_0155,B005,Maglieria,Seasonal,Cotone Organico,413
+PROD_0156,B003,T-shirt,Seasonal,Cotone Convenzionale,151
+PROD_0157,B005,Abiti,Weekly,Cotone Convenzionale,388
+PROD_0158,B003,Accessori,Weekly,Cotone Organico,587
+PROD_0159,B001,Accessori,Seasonal,Cotone Organico,452
+PROD_0160,B002,Maglieria,Weekly,Nylon,340
+PROD_0161,B006,Maglieria,Weekly,Lana,344
+PROD_0162,B004,Maglieria,Weekly,Viscosa,318
+PROD_0163,B002,Accessori,Weekly,Lana,487
+PROD_0164,B004,T-shirt,Weekly,Lana,232
+PROD_0165,B004,Abiti,Weekly,Poliestere,329
+PROD_0166,B007,Jeans,Weekly,Cotone Convenzionale,632
+PROD_0167,B007,Maglieria,Weekly,Nylon,355
+PROD_0168,B004,Jeans,Weekly,Cotone Convenzionale,564
+PROD_0169,B004,Maglieria,Seasonal,Lana,402
+PROD_0170,B006,Accessori,Seasonal,Viscosa,565
+PROD_0171,B006,Scarpe,Seasonal,Poliestere,728
+PROD_0172,B004,T-shirt,Weekly,Nylon,180
+PROD_0173,B004,Abiti,Seasonal,Viscosa,544
+PROD_0174,B002,Scarpe,Seasonal,Cotone Organico,956
+PROD_0175,B004,Scarpe,Seasonal,Cotone Organico,1194
+PROD_0176,B003,Accessori,Weekly,Viscosa,430
+PROD_0177,B007,T-shirt,Seasonal,Nylon,201
+PROD_0178,B003,Jeans,Weekly,Poliestere,594
+PROD_0179,B003,Maglieria,Seasonal,Nylon,515
+PROD_0180,B005,Accessori,Seasonal,Viscosa,343
+PROD_0181,B007,Scarpe,Seasonal,Cotone Convenzionale,736
+PROD_0182,B007,T-shirt,Seasonal,Viscosa,159
+PROD_0183,B002,Scarpe,Seasonal,Nylon,833
+PROD_0184,B002,Accessori,Seasonal,Cotone Convenzionale,315
+PROD_0185,B003,Jeans,Weekly,Lana,653
+PROD_0186,B004,Scarpe,Weekly,Nylon,1050
+PROD_0187,B006,Scarpe,Weekly,Poliestere,1193
+PROD_0188,B003,T-shirt,Seasonal,Viscosa,161
+PROD_0189,B005,Jeans,Seasonal,Viscosa,643
+PROD_0190,B001,Jeans,Seasonal,Cotone Convenzionale,630
+PROD_0191,B002,Jeans,Weekly,Poliestere,690
+PROD_0192,B001,Accessori,Weekly,Cotone Convenzionale,432
+PROD_0193,B004,T-shirt,Seasonal,Poliestere,196
+PROD_0194,B007,Maglieria,Weekly,Nylon,360
+PROD_0195,B004,Accessori,Seasonal,Viscosa,424
+PROD_0196,B004,Maglieria,Seasonal,Cotone Convenzionale,470
+PROD_0197,B007,Scarpe,Seasonal,Poliestere,815
+PROD_0198,B001,Scarpe,Seasonal,Lana,1048
+PROD_0199,B003,Scarpe,Weekly,Poliestere,886
+PROD_0200,B002,Jeans,Seasonal,Cotone Organico,584
+PROD_0201,B003,T-shirt,Weekly,Cotone Organico,210
+PROD_0202,B006,Scarpe,Weekly,Poliestere,1090
+PROD_0203,B005,Jeans,Weekly,Nylon,520
+PROD_0204,B006,Accessori,Weekly,Viscosa,379
+PROD_0205,B006,Abiti,Seasonal,Viscosa,469
+PROD_0206,B002,Maglieria,Seasonal,Cotone Organico,478
+PROD_0207,B004,Scarpe,Weekly,Cotone Organico,929
+PROD_0208,B007,Accessori,Weekly,Cotone Convenzionale,302
+PROD_0209,B001,Abiti,Seasonal,Viscosa,510
+PROD_0210,B005,Maglieria,Seasonal,Poliestere,360
+PROD_0211,B004,T-shirt,Weekly,Viscosa,166
+PROD_0212,B004,Abiti,Seasonal,Cotone Organico,458
+PROD_0213,B005,Maglieria,Weekly,Lana,306
+PROD_0214,B001,Accessori,Weekly,Nylon,558
+PROD_0215,B006,Accessori,Weekly,Cotone Organico,324
+PROD_0216,B004,Scarpe,Weekly,Poliestere,914
+PROD_0217,B005,Jeans,Seasonal,Viscosa,554
+PROD_0218,B006,Scarpe,Seasonal,Viscosa,773
+PROD_0219,B005,Accessori,Weekly,Cotone Organico,562
+PROD_0220,B005,Jeans,Seasonal,Lana,575
+PROD_0221,B006,T-shirt,Weekly,Lana,247
+PROD_0222,B003,T-shirt,Weekly,Cotone Organico,166
+PROD_0223,B003,Accessori,Weekly,Cotone Organico,313
+PROD_0224,B004,Maglieria,Seasonal,Lana,501
+PROD_0225,B005,T-shirt,Weekly,Cotone Convenzionale,199
+PROD_0226,B007,T-shirt,Weekly,Viscosa,204
+PROD_0227,B007,Abiti,Weekly,Cotone Convenzionale,424
+PROD_0228,B004,Accessori,Weekly,Poliestere,360
+PROD_0229,B001,Abiti,Seasonal,Nylon,332
+PROD_0230,B005,Accessori,Seasonal,Viscosa,477
+PROD_0231,B002,Jeans,Seasonal,Poliestere,540
+PROD_0232,B006,Accessori,Seasonal,Viscosa,384
+PROD_0233,B006,Scarpe,Weekly,Cotone Convenzionale,949
+PROD_0234,B002,Maglieria,Weekly,Cotone Convenzionale,420
+PROD_0235,B007,Jeans,Seasonal,Lana,541
+PROD_0236,B004,Maglieria,Seasonal,Cotone Organico,336
+PROD_0237,B004,T-shirt,Weekly,Nylon,152
+PROD_0238,B002,Maglieria,Weekly,Cotone Convenzionale,519
+PROD_0239,B005,Abiti,Weekly,Viscosa,513
+PROD_0240,B002,Accessori,Weekly,Poliestere,364
+PROD_0241,B003,Accessori,Weekly,Cotone Convenzionale,326
+PROD_0242,B001,Maglieria,Seasonal,Nylon,310
+PROD_0243,B004,Jeans,Weekly,Cotone Organico,647
+PROD_0244,B003,Abiti,Seasonal,Poliestere,393
+PROD_0245,B005,Jeans,Seasonal,Nylon,561
+PROD_0246,B002,Abiti,Weekly,Poliestere,467
+PROD_0247,B005,Abiti,Seasonal,Poliestere,347
+PROD_0248,B001,T-shirt,Weekly,Poliestere,241
+PROD_0249,B007,Abiti,Seasonal,Viscosa,338
+PROD_0250,B004,Scarpe,Weekly,Nylon,1086
+PROD_0251,B006,Accessori,Seasonal,Lana,521
+PROD_0252,B001,Accessori,Weekly,Cotone Organico,590
+PROD_0253,B006,Maglieria,Seasonal,Poliestere,420
+PROD_0254,B002,Jeans,Seasonal,Poliestere,668
+PROD_0255,B002,Scarpe,Weekly,Viscosa,801
+PROD_0256,B001,Jeans,Weekly,Poliestere,633
+PROD_0257,B003,Maglieria,Seasonal,Viscosa,415
+PROD_0258,B001,T-shirt,Seasonal,Nylon,207
+PROD_0259,B006,Abiti,Seasonal,Nylon,414
+PROD_0260,B002,T-shirt,Weekly,Cotone Organico,166
+PROD_0261,B005,Abiti,Weekly,Cotone Convenzionale,392
+PROD_0262,B006,Maglieria,Weekly,Cotone Organico,499
+PROD_0263,B007,T-shirt,Weekly,Poliestere,189
+PROD_0264,B007,T-shirt,Seasonal,Cotone Organico,218
+PROD_0265,B003,Accessori,Weekly,Viscosa,561
+PROD_0266,B006,Abiti,Seasonal,Viscosa,355
+PROD_0267,B001,Scarpe,Weekly,Cotone Convenzionale,942
+PROD_0268,B002,Accessori,Weekly,Nylon,459
+PROD_0269,B001,Accessori,Weekly,Cotone Convenzionale,559
+PROD_0270,B007,Scarpe,Seasonal,Cotone Organico,724
+PROD_0271,B006,Scarpe,Seasonal,Viscosa,1056
+PROD_0272,B003,Scarpe,Weekly,Lana,942
+PROD_0273,B003,Accessori,Weekly,Cotone Organico,391
+PROD_0274,B007,Abiti,Weekly,Poliestere,414
+PROD_0275,B006,Jeans,Weekly,Cotone Organico,618
+PROD_0276,B005,Scarpe,Seasonal,Viscosa,786
+PROD_0277,B005,Scarpe,Weekly,Poliestere,975
+PROD_0278,B004,Scarpe,Seasonal,Lana,1136
+PROD_0279,B001,Scarpe,Weekly,Poliestere,890
+PROD_0280,B005,Jeans,Weekly,Poliestere,620
+PROD_0281,B003,T-shirt,Weekly,Poliestere,173
+PROD_0282,B005,Scarpe,Weekly,Poliestere,1077
+PROD_0283,B003,Maglieria,Weekly,Nylon,434
+PROD_0284,B006,T-shirt,Weekly,Poliestere,162
+PROD_0285,B001,Maglieria,Seasonal,Cotone Organico,428
+PROD_0286,B002,Abiti,Seasonal,Cotone Organico,508
+PROD_0287,B001,Accessori,Seasonal,Poliestere,480
+PROD_0288,B006,T-shirt,Weekly,Cotone Organico,232
+PROD_0289,B001,Accessori,Seasonal,Nylon,493
+PROD_0290,B005,Maglieria,Seasonal,Viscosa,444
+PROD_0291,B004,Jeans,Seasonal,Viscosa,735
+PROD_0292,B004,Jeans,Seasonal,Viscosa,653
+PROD_0293,B001,T-shirt,Seasonal,Cotone Organico,231
+PROD_0294,B007,Abiti,Weekly,Cotone Organico,385
+PROD_0295,B004,Maglieria,Weekly,Poliestere,301
+PROD_0296,B004,Jeans,Seasonal,Cotone Convenzionale,662
+PROD_0297,B001,Abiti,Weekly,Nylon,358
+PROD_0298,B006,Accessori,Weekly,Lana,594
+PROD_0299,B002,Jeans,Seasonal,Lana,626
+PROD_0300,B003,Abiti,Weekly,Poliestere,454
+PROD_0301,B006,Scarpe,Weekly,Viscosa,782
+PROD_0302,B004,Maglieria,Weekly,Cotone Organico,309
+PROD_0303,B003,Jeans,Weekly,Lana,611
+PROD_0304,B006,Jeans,Seasonal,Viscosa,628
+PROD_0305,B004,Maglieria,Weekly,Nylon,574
+PROD_0306,B001,Maglieria,Seasonal,Lana,487
+PROD_0307,B006,Jeans,Seasonal,Nylon,743
+PROD_0308,B005,Accessori,Weekly,Poliestere,418
+PROD_0309,B006,Accessori,Seasonal,Cotone Organico,457
+PROD_0310,B004,Maglieria,Seasonal,Nylon,587
+PROD_0311,B004,Maglieria,Seasonal,Cotone Organico,483
+PROD_0312,B002,Maglieria,Seasonal,Viscosa,362
+PROD_0313,B007,Scarpe,Weekly,Cotone Organico,850
+PROD_0314,B003,Jeans,Weekly,Cotone Convenzionale,784
+PROD_0315,B005,Abiti,Weekly,Cotone Convenzionale,585
+PROD_0316,B005,T-shirt,Weekly,Nylon,165
+PROD_0317,B006,Jeans,Weekly,Nylon,597
+PROD_0318,B002,Maglieria,Seasonal,Poliestere,404
+PROD_0319,B002,Accessori,Weekly,Viscosa,440
+PROD_0320,B001,T-shirt,Seasonal,Viscosa,185
+PROD_0321,B002,Maglieria,Weekly,Lana,517
+PROD_0322,B002,Abiti,Weekly,Lana,572
+PROD_0323,B006,Jeans,Weekly,Poliestere,675
+PROD_0324,B002,Jeans,Seasonal,Viscosa,564
+PROD_0325,B003,T-shirt,Seasonal,Cotone Organico,207
+PROD_0326,B004,T-shirt,Weekly,Lana,226
+PROD_0327,B004,T-shirt,Seasonal,Nylon,228
+PROD_0328,B006,Jeans,Weekly,Nylon,695
+PROD_0329,B001,Scarpe,Weekly,Poliestere,787
+PROD_0330,B006,Scarpe,Seasonal,Poliestere,955
+PROD_0331,B001,T-shirt,Weekly,Poliestere,188
+PROD_0332,B003,Scarpe,Seasonal,Cotone Convenzionale,1190
+PROD_0333,B001,Abiti,Weekly,Nylon,363
+PROD_0334,B007,Jeans,Seasonal,Nylon,734
+PROD_0335,B005,Abiti,Seasonal,Poliestere,573
+PROD_0336,B003,Accessori,Seasonal,Cotone Organico,550
+PROD_0337,B001,T-shirt,Weekly,Nylon,178
+PROD_0338,B005,Abiti,Weekly,Cotone Convenzionale,560
+PROD_0339,B003,T-shirt,Weekly,Cotone Convenzionale,177
+PROD_0340,B005,Accessori,Weekly,Poliestere,591
+PROD_0341,B007,Jeans,Weekly,Viscosa,797
+PROD_0342,B005,T-shirt,Weekly,Viscosa,207
+PROD_0343,B005,Abiti,Seasonal,Lana,594
+PROD_0344,B002,Accessori,Weekly,Viscosa,512
+PROD_0345,B005,T-shirt,Seasonal,Poliestere,179
+PROD_0346,B004,T-shirt,Weekly,Cotone Convenzionale,232
+PROD_0347,B006,Jeans,Weekly,Lana,774
+PROD_0348,B004,Maglieria,Weekly,Lana,584
+PROD_0349,B004,T-shirt,Weekly,Lana,243
+PROD_0350,B001,Abiti,Seasonal,Lana,508
+PROD_0351,B004,Jeans,Seasonal,Viscosa,592
+PROD_0352,B005,Maglieria,Seasonal,Cotone Organico,506
+PROD_0353,B005,Maglieria,Weekly,Cotone Convenzionale,396
+PROD_0354,B004,Jeans,Weekly,Nylon,540
+PROD_0355,B007,Accessori,Weekly,Viscosa,518
+PROD_0356,B005,Accessori,Seasonal,Cotone Organico,363
+PROD_0357,B004,Maglieria,Weekly,Cotone Organico,453
+PROD_0358,B006,Jeans,Seasonal,Lana,686
+PROD_0359,B001,T-shirt,Weekly,Cotone Organico,151
+PROD_0360,B005,Maglieria,Seasonal,Nylon,425
+PROD_0361,B002,Scarpe,Weekly,Nylon,1008
+PROD_0362,B002,Accessori,Seasonal,Poliestere,308
+PROD_0363,B003,Accessori,Weekly,Cotone Convenzionale,480
+PROD_0364,B003,Jeans,Weekly,Nylon,664
+PROD_0365,B004,T-shirt,Weekly,Poliestere,210
+PROD_0366,B001,Jeans,Seasonal,Cotone Organico,790
+PROD_0367,B007,Abiti,Weekly,Nylon,310
+PROD_0368,B007,Scarpe,Weekly,Cotone Organico,881
+PROD_0369,B004,Scarpe,Seasonal,Cotone Organico,822
+PROD_0370,B001,Maglieria,Weekly,Poliestere,569
+PROD_0371,B005,Jeans,Seasonal,Cotone Convenzionale,684
+PROD_0372,B001,T-shirt,Seasonal,Nylon,206
+PROD_0373,B005,Accessori,Seasonal,Poliestere,398
+PROD_0374,B006,Accessori,Weekly,Cotone Organico,329
+PROD_0375,B005,Maglieria,Seasonal,Viscosa,539
+PROD_0376,B006,Accessori,Weekly,Nylon,552
+PROD_0377,B002,Maglieria,Weekly,Poliestere,524
+PROD_0378,B001,Accessori,Weekly,Cotone Organico,364
+PROD_0379,B007,Abiti,Weekly,Viscosa,462
+PROD_0380,B003,Abiti,Seasonal,Nylon,573
+PROD_0381,B002,Scarpe,Weekly,Poliestere,1113
+PROD_0382,B006,Accessori,Seasonal,Viscosa,402
+PROD_0383,B003,Jeans,Weekly,Cotone Organico,711
+PROD_0384,B005,Scarpe,Weekly,Cotone Organico,784
+PROD_0385,B005,Maglieria,Seasonal,Nylon,351
+PROD_0386,B007,Scarpe,Seasonal,Cotone Organico,704
+PROD_0387,B005,Maglieria,Seasonal,Viscosa,455
+PROD_0388,B004,Abiti,Weekly,Nylon,373
+PROD_0389,B005,Maglieria,Seasonal,Cotone Organico,360
+PROD_0390,B005,Maglieria,Weekly,Lana,398
+PROD_0391,B006,Accessori,Weekly,Cotone Convenzionale,538
+PROD_0392,B006,Accessori,Weekly,Poliestere,496
+PROD_0393,B003,Maglieria,Weekly,Nylon,596
+PROD_0394,B002,Scarpe,Weekly,Nylon,709
+PROD_0395,B006,Jeans,Seasonal,Cotone Convenzionale,523
+PROD_0396,B007,Abiti,Seasonal,Cotone Convenzionale,394
+PROD_0397,B004,Accessori,Seasonal,Cotone Organico,584
+PROD_0398,B001,Maglieria,Seasonal,Nylon,376
+PROD_0399,B006,Jeans,Seasonal,Cotone Convenzionale,685
+PROD_0400,B007,Accessori,Seasonal,Poliestere,509
+PROD_0401,B007,T-shirt,Seasonal,Nylon,249
+PROD_0402,B007,Jeans,Weekly,Lana,696
+PROD_0403,B002,Abiti,Weekly,Lana,598
+PROD_0404,B005,T-shirt,Seasonal,Cotone Convenzionale,211
+PROD_0405,B002,Abiti,Seasonal,Nylon,557
+PROD_0406,B004,Jeans,Weekly,Cotone Organico,730
+PROD_0407,B006,T-shirt,Weekly,Nylon,224
+PROD_0408,B002,Maglieria,Weekly,Viscosa,401
+PROD_0409,B007,Maglieria,Weekly,Cotone Convenzionale,459
+PROD_0410,B004,Abiti,Seasonal,Lana,504
+PROD_0411,B003,Maglieria,Seasonal,Viscosa,330
+PROD_0412,B006,Jeans,Weekly,Poliestere,766
+PROD_0413,B002,Accessori,Weekly,Viscosa,574
+PROD_0414,B002,T-shirt,Seasonal,Poliestere,154
+PROD_0415,B006,Scarpe,Seasonal,Poliestere,1066
+PROD_0416,B003,Maglieria,Seasonal,Cotone Organico,442
+PROD_0417,B001,Scarpe,Weekly,Viscosa,1010
+PROD_0418,B007,Maglieria,Weekly,Nylon,570
+PROD_0419,B002,Abiti,Seasonal,Cotone Organico,359
+PROD_0420,B001,Accessori,Seasonal,Cotone Organico,557
+PROD_0421,B004,Accessori,Weekly,Nylon,498
+PROD_0422,B006,T-shirt,Weekly,Viscosa,241
+PROD_0423,B007,Abiti,Seasonal,Cotone Convenzionale,389
+PROD_0424,B007,Accessori,Seasonal,Lana,542
+PROD_0425,B002,Jeans,Seasonal,Viscosa,581
+PROD_0426,B005,Abiti,Weekly,Lana,483
+PROD_0427,B005,Accessori,Seasonal,Cotone Convenzionale,551
+PROD_0428,B006,Scarpe,Weekly,Poliestere,932
+PROD_0429,B001,Abiti,Weekly,Cotone Organico,559
+PROD_0430,B004,Abiti,Seasonal,Poliestere,490
+PROD_0431,B002,T-shirt,Weekly,Lana,243
+PROD_0432,B002,Scarpe,Seasonal,Cotone Convenzionale,981
+PROD_0433,B006,Accessori,Seasonal,Poliestere,344
+PROD_0434,B006,Accessori,Weekly,Cotone Convenzionale,480
+PROD_0435,B003,T-shirt,Weekly,Viscosa,198
+PROD_0436,B007,Maglieria,Weekly,Cotone Organico,398
+PROD_0437,B001,Maglieria,Seasonal,Cotone Organico,490
+PROD_0438,B002,Scarpe,Weekly,Viscosa,733
+PROD_0439,B002,Scarpe,Weekly,Cotone Organico,1112
+PROD_0440,B003,Scarpe,Weekly,Cotone Organico,1186
+PROD_0441,B001,Abiti,Weekly,Poliestere,374
+PROD_0442,B005,Scarpe,Seasonal,Nylon,785
+PROD_0443,B007,Maglieria,Weekly,Cotone Convenzionale,596
+PROD_0444,B002,Scarpe,Weekly,Cotone Organico,1093
+PROD_0445,B001,Jeans,Weekly,Cotone Convenzionale,738
+PROD_0446,B006,T-shirt,Weekly,Viscosa,150
+PROD_0447,B006,Abiti,Seasonal,Cotone Organico,565
+PROD_0448,B003,Accessori,Weekly,Nylon,336
+PROD_0449,B007,Accessori,Weekly,Cotone Organico,381
+PROD_0450,B004,Accessori,Seasonal,Poliestere,522
+PROD_0451,B006,T-shirt,Seasonal,Cotone Convenzionale,165
+PROD_0452,B006,Abiti,Seasonal,Poliestere,553
+PROD_0453,B007,Accessori,Seasonal,Lana,438
+PROD_0454,B004,Accessori,Weekly,Poliestere,597
+PROD_0455,B005,Scarpe,Weekly,Poliestere,1068
+PROD_0456,B006,Accessori,Seasonal,Cotone Organico,360
+PROD_0457,B004,Jeans,Weekly,Poliestere,586
+PROD_0458,B003,Maglieria,Weekly,Lana,415
+PROD_0459,B002,Accessori,Weekly,Cotone Organico,307
+PROD_0460,B003,Scarpe,Weekly,Nylon,1184
+PROD_0461,B002,Jeans,Weekly,Cotone Organico,669
+PROD_0462,B003,Maglieria,Weekly,Nylon,376
+PROD_0463,B004,Jeans,Seasonal,Poliestere,536
+PROD_0464,B007,T-shirt,Weekly,Nylon,223
+PROD_0465,B001,Jeans,Weekly,Cotone Organico,752
+PROD_0466,B006,Accessori,Weekly,Cotone Organico,432
+PROD_0467,B005,Abiti,Seasonal,Viscosa,433
+PROD_0468,B004,Jeans,Weekly,Poliestere,769
+PROD_0469,B002,Maglieria,Weekly,Viscosa,498
+PROD_0470,B003,Jeans,Weekly,Cotone Convenzionale,547
+PROD_0471,B006,Abiti,Weekly,Poliestere,343
+PROD_0472,B004,Abiti,Seasonal,Poliestere,572
+PROD_0473,B004,Jeans,Seasonal,Poliestere,573
+PROD_0474,B003,Accessori,Seasonal,Viscosa,484
+PROD_0475,B002,Jeans,Weekly,Poliestere,793
+PROD_0476,B002,Abiti,Weekly,Viscosa,504
+PROD_0477,B001,T-shirt,Seasonal,Viscosa,233
+PROD_0478,B005,Abiti,Seasonal,Nylon,311
+PROD_0479,B003,T-shirt,Weekly,Viscosa,212
+PROD_0480,B006,Scarpe,Seasonal,Cotone Convenzionale,771
+PROD_0481,B007,Scarpe,Weekly,Cotone Convenzionale,974
+PROD_0482,B007,Accessori,Weekly,Cotone Convenzionale,540
+PROD_0483,B003,Accessori,Weekly,Viscosa,337
+PROD_0484,B001,Jeans,Weekly,Poliestere,659
+PROD_0485,B006,Accessori,Weekly,Lana,424
+PROD_0486,B003,Jeans,Weekly,Lana,601
+PROD_0487,B006,Scarpe,Seasonal,Viscosa,986
+PROD_0488,B004,Scarpe,Weekly,Cotone Organico,806
+PROD_0489,B007,Accessori,Seasonal,Cotone Convenzionale,461
+PROD_0490,B001,Abiti,Seasonal,Cotone Convenzionale,328
+PROD_0491,B007,Jeans,Weekly,Cotone Convenzionale,710
+PROD_0492,B003,Accessori,Seasonal,Viscosa,565
+PROD_0493,B005,Abiti,Weekly,Cotone Convenzionale,444
+PROD_0494,B007,Accessori,Seasonal,Viscosa,474
+PROD_0495,B007,Abiti,Weekly,Viscosa,556
+PROD_0496,B001,Maglieria,Seasonal,Poliestere,448
+PROD_0497,B005,Scarpe,Weekly,Viscosa,757
+PROD_0498,B003,Maglieria,Seasonal,Lana,569
+PROD_0499,B006,Scarpe,Seasonal,Lana,1200
+PROD_0500,B002,Jeans,Weekly,Lana,541
+PROD_0501,B001,Jeans,Weekly,Cotone Convenzionale,729
+PROD_0502,B007,T-shirt,Seasonal,Cotone Organico,164
+PROD_0503,B005,Scarpe,Weekly,Cotone Organico,970
+PROD_0504,B002,Accessori,Weekly,Cotone Organico,331
+PROD_0505,B003,Scarpe,Weekly,Nylon,713
+PROD_0506,B006,Abiti,Seasonal,Cotone Convenzionale,379
+PROD_0507,B006,Scarpe,Seasonal,Nylon,1169
+PROD_0508,B006,Abiti,Weekly,Viscosa,312
+PROD_0509,B005,Jeans,Weekly,Viscosa,706
+PROD_0510,B004,T-shirt,Weekly,Lana,239
+PROD_0511,B005,T-shirt,Seasonal,Cotone Convenzionale,176
+PROD_0512,B002,Abiti,Weekly,Lana,317
+PROD_0513,B003,T-shirt,Weekly,Cotone Convenzionale,220
+PROD_0514,B007,Jeans,Seasonal,Viscosa,799
+PROD_0515,B005,Jeans,Weekly,Viscosa,631
+PROD_0516,B004,Maglieria,Weekly,Lana,555
+PROD_0517,B004,Scarpe,Seasonal,Lana,930
+PROD_0518,B001,Accessori,Weekly,Cotone Organico,516
+PROD_0519,B001,Scarpe,Seasonal,Cotone Organico,781
+PROD_0520,B003,Maglieria,Seasonal,Viscosa,562
+PROD_0521,B006,Scarpe,Weekly,Nylon,1125
+PROD_0522,B005,Scarpe,Seasonal,Cotone Convenzionale,764
+PROD_0523,B001,Maglieria,Weekly,Poliestere,317
+PROD_0524,B005,Abiti,Seasonal,Cotone Convenzionale,403
+PROD_0525,B005,Scarpe,Weekly,Poliestere,781
+PROD_0526,B007,Abiti,Seasonal,Lana,452
+PROD_0527,B001,Scarpe,Seasonal,Cotone Organico,847
+PROD_0528,B004,Jeans,Weekly,Lana,571
+PROD_0529,B002,Maglieria,Seasonal,Cotone Convenzionale,448
+PROD_0530,B005,T-shirt,Weekly,Viscosa,213
+PROD_0531,B007,Accessori,Seasonal,Viscosa,451
+PROD_0532,B002,Maglieria,Weekly,Nylon,414
+PROD_0533,B003,Jeans,Seasonal,Nylon,616
+PROD_0534,B006,Jeans,Weekly,Lana,687
+PROD_0535,B006,Scarpe,Weekly,Nylon,863
+PROD_0536,B007,T-shirt,Seasonal,Poliestere,151
+PROD_0537,B005,T-shirt,Seasonal,Lana,166
+PROD_0538,B001,Jeans,Seasonal,Cotone Organico,713
+PROD_0539,B007,Scarpe,Seasonal,Viscosa,766
+PROD_0540,B007,Maglieria,Weekly,Poliestere,578
+PROD_0541,B002,Accessori,Seasonal,Viscosa,337
+PROD_0542,B002,Abiti,Weekly,Viscosa,395
+PROD_0543,B004,Jeans,Seasonal,Viscosa,617
+PROD_0544,B002,Maglieria,Seasonal,Poliestere,342
+PROD_0545,B007,Accessori,Weekly,Cotone Convenzionale,360
+PROD_0546,B005,Maglieria,Weekly,Poliestere,588
+PROD_0547,B003,T-shirt,Seasonal,Cotone Organico,191
+PROD_0548,B002,Jeans,Weekly,Poliestere,665
+PROD_0549,B002,Accessori,Weekly,Viscosa,412
+PROD_0550,B005,T-shirt,Seasonal,Cotone Convenzionale,224
+PROD_0551,B006,Scarpe,Weekly,Cotone Organico,1003
+PROD_0552,B007,Abiti,Weekly,Cotone Convenzionale,430
+PROD_0553,B002,Scarpe,Seasonal,Cotone Organico,1009
+PROD_0554,B002,Scarpe,Weekly,Cotone Convenzionale,782
+PROD_0555,B002,Maglieria,Weekly,Viscosa,552
+PROD_0556,B003,T-shirt,Seasonal,Cotone Convenzionale,240
+PROD_0557,B005,T-shirt,Weekly,Cotone Organico,241
+PROD_0558,B004,T-shirt,Weekly,Lana,214
+PROD_0559,B002,Jeans,Weekly,Cotone Organico,533
+PROD_0560,B006,Scarpe,Weekly,Viscosa,1021
+PROD_0561,B006,Maglieria,Weekly,Cotone Organico,423
+PROD_0562,B003,T-shirt,Weekly,Lana,217
+PROD_0563,B005,Accessori,Seasonal,Nylon,577
+PROD_0564,B004,Abiti,Weekly,Nylon,585
+PROD_0565,B002,T-shirt,Seasonal,Viscosa,244
+PROD_0566,B003,Jeans,Seasonal,Nylon,579
+PROD_0567,B001,Jeans,Seasonal,Lana,565
+PROD_0568,B004,Jeans,Seasonal,Poliestere,552
+PROD_0569,B002,Jeans,Seasonal,Cotone Organico,701
+PROD_0570,B003,Abiti,Weekly,Nylon,490
+PROD_0571,B004,Scarpe,Seasonal,Cotone Convenzionale,983
+PROD_0572,B005,Abiti,Weekly,Cotone Organico,410
+PROD_0573,B004,Jeans,Seasonal,Poliestere,747
+PROD_0574,B005,Abiti,Seasonal,Viscosa,321
+PROD_0575,B003,Maglieria,Weekly,Poliestere,597
+PROD_0576,B002,Scarpe,Weekly,Nylon,714
+PROD_0577,B004,T-shirt,Weekly,Poliestere,163
+PROD_0578,B005,Maglieria,Seasonal,Lana,344
+PROD_0579,B003,Scarpe,Seasonal,Cotone Organico,757
+PROD_0580,B002,T-shirt,Weekly,Nylon,159
+PROD_0581,B007,T-shirt,Weekly,Poliestere,156
+PROD_0582,B006,Scarpe,Seasonal,Lana,1177
+PROD_0583,B004,Abiti,Seasonal,Viscosa,547
+PROD_0584,B006,Scarpe,Seasonal,Cotone Convenzionale,1001
+PROD_0585,B001,Jeans,Weekly,Cotone Organico,743
+PROD_0586,B005,Maglieria,Weekly,Viscosa,479
+PROD_0587,B002,Accessori,Weekly,Poliestere,475
+PROD_0588,B003,Jeans,Seasonal,Nylon,657
+PROD_0589,B001,T-shirt,Seasonal,Cotone Convenzionale,151
+PROD_0590,B006,T-shirt,Seasonal,Poliestere,220
+PROD_0591,B006,T-shirt,Seasonal,Poliestere,176
+PROD_0592,B007,Jeans,Weekly,Nylon,710
+PROD_0593,B004,Maglieria,Seasonal,Lana,363
+PROD_0594,B003,T-shirt,Seasonal,Cotone Convenzionale,152
+PROD_0595,B004,T-shirt,Seasonal,Viscosa,192
+PROD_0596,B004,Maglieria,Seasonal,Nylon,509
+PROD_0597,B001,T-shirt,Weekly,Viscosa,245
+PROD_0598,B006,Scarpe,Seasonal,Poliestere,797
+PROD_0599,B006,Maglieria,Seasonal,Viscosa,312
+PROD_0600,B003,Accessori,Weekly,Nylon,373
+PROD_0601,B001,Scarpe,Weekly,Nylon,717
+PROD_0602,B004,T-shirt,Weekly,Cotone Convenzionale,234
+PROD_0603,B004,Scarpe,Seasonal,Poliestere,886
+PROD_0604,B001,Accessori,Seasonal,Lana,349
+PROD_0605,B006,Maglieria,Seasonal,Cotone Convenzionale,303
+PROD_0606,B002,Scarpe,Seasonal,Cotone Convenzionale,904
+PROD_0607,B005,T-shirt,Seasonal,Lana,182
+PROD_0608,B004,Jeans,Seasonal,Cotone Organico,678
+PROD_0609,B003,Abiti,Weekly,Cotone Organico,500
+PROD_0610,B001,Jeans,Weekly,Poliestere,634
+PROD_0611,B006,Abiti,Weekly,Poliestere,556
+PROD_0612,B001,Accessori,Weekly,Lana,588
+PROD_0613,B002,Accessori,Weekly,Cotone Organico,485
+PROD_0614,B007,Accessori,Weekly,Viscosa,393
+PROD_0615,B002,Maglieria,Seasonal,Cotone Organico,315
+PROD_0616,B006,T-shirt,Seasonal,Cotone Organico,170
+PROD_0617,B002,Jeans,Seasonal,Poliestere,795
+PROD_0618,B004,Scarpe,Weekly,Nylon,1129
+PROD_0619,B001,Accessori,Seasonal,Cotone Convenzionale,538
+PROD_0620,B007,Maglieria,Seasonal,Cotone Organico,505
+PROD_0621,B004,Abiti,Seasonal,Cotone Organico,306
+PROD_0622,B002,Scarpe,Seasonal,Lana,985
+PROD_0623,B003,Accessori,Seasonal,Nylon,465
+PROD_0624,B005,Maglieria,Seasonal,Nylon,332
+PROD_0625,B003,Abiti,Seasonal,Poliestere,445
+PROD_0626,B007,T-shirt,Weekly,Nylon,167
+PROD_0627,B006,Scarpe,Weekly,Nylon,893
+PROD_0628,B007,Scarpe,Seasonal,Viscosa,966
+PROD_0629,B001,Jeans,Weekly,Poliestere,713
+PROD_0630,B007,Maglieria,Weekly,Lana,544
+PROD_0631,B003,Maglieria,Seasonal,Poliestere,590
+PROD_0632,B003,Abiti,Seasonal,Poliestere,371
+PROD_0633,B004,T-shirt,Weekly,Nylon,152
+PROD_0634,B006,Abiti,Weekly,Cotone Organico,436
+PROD_0635,B003,Abiti,Seasonal,Poliestere,428
+PROD_0636,B006,Accessori,Seasonal,Cotone Organico,496
+PROD_0637,B003,Maglieria,Weekly,Cotone Convenzionale,592
+PROD_0638,B003,Scarpe,Seasonal,Cotone Organico,947
+PROD_0639,B005,T-shirt,Seasonal,Viscosa,174
+PROD_0640,B001,Jeans,Seasonal,Nylon,676
+PROD_0641,B003,T-shirt,Seasonal,Cotone Convenzionale,220
+PROD_0642,B005,Jeans,Seasonal,Cotone Organico,539
+PROD_0643,B004,Maglieria,Weekly,Cotone Organico,452
+PROD_0644,B001,Abiti,Weekly,Cotone Organico,488
+PROD_0645,B005,Jeans,Seasonal,Lana,735
+PROD_0646,B002,T-shirt,Weekly,Viscosa,218
+PROD_0647,B002,Accessori,Seasonal,Cotone Organico,565
+PROD_0648,B004,Jeans,Seasonal,Nylon,546
+PROD_0649,B006,Abiti,Seasonal,Viscosa,345
+PROD_0650,B004,Accessori,Weekly,Cotone Organico,363
+PROD_0651,B005,Jeans,Weekly,Poliestere,747
+PROD_0652,B001,Jeans,Weekly,Nylon,657
+PROD_0653,B004,Accessori,Weekly,Poliestere,502
+PROD_0654,B005,Accessori,Weekly,Lana,542
+PROD_0655,B001,Abiti,Weekly,Cotone Convenzionale,368
+PROD_0656,B004,Abiti,Weekly,Poliestere,420
+PROD_0657,B006,Maglieria,Weekly,Poliestere,590
+PROD_0658,B004,Accessori,Weekly,Cotone Organico,439
+PROD_0659,B006,Accessori,Weekly,Cotone Organico,466
+PROD_0660,B006,T-shirt,Weekly,Cotone Convenzionale,198
+PROD_0661,B002,Maglieria,Weekly,Viscosa,553
+PROD_0662,B002,Maglieria,Weekly,Nylon,370
+PROD_0663,B001,Accessori,Seasonal,Cotone Convenzionale,408
+PROD_0664,B001,Jeans,Seasonal,Cotone Organico,556
+PROD_0665,B006,T-shirt,Seasonal,Cotone Convenzionale,158
+PROD_0666,B005,Maglieria,Seasonal,Nylon,386
+PROD_0667,B004,Maglieria,Seasonal,Poliestere,458
+PROD_0668,B001,Maglieria,Weekly,Cotone Organico,377
+PROD_0669,B007,Maglieria,Weekly,Cotone Organico,517
+PROD_0670,B002,Accessori,Seasonal,Poliestere,349
+PROD_0671,B001,Scarpe,Seasonal,Nylon,921
+PROD_0672,B005,Abiti,Weekly,Viscosa,493
+PROD_0673,B002,Scarpe,Weekly,Cotone Convenzionale,1035
+PROD_0674,B007,T-shirt,Seasonal,Viscosa,177
+PROD_0675,B003,T-shirt,Weekly,Poliestere,225
+PROD_0676,B007,Jeans,Seasonal,Cotone Convenzionale,631
+PROD_0677,B001,Accessori,Weekly,Cotone Convenzionale,527
+PROD_0678,B003,Maglieria,Seasonal,Poliestere,363
+PROD_0679,B003,Abiti,Weekly,Lana,433
+PROD_0680,B001,Maglieria,Weekly,Cotone Organico,425
+PROD_0681,B006,T-shirt,Seasonal,Poliestere,170
+PROD_0682,B004,Accessori,Seasonal,Viscosa,600
+PROD_0683,B003,Accessori,Seasonal,Poliestere,415
+PROD_0684,B007,Accessori,Weekly,Poliestere,367
+PROD_0685,B004,Accessori,Weekly,Lana,523
+PROD_0686,B006,T-shirt,Weekly,Viscosa,232
+PROD_0687,B007,T-shirt,Seasonal,Nylon,238
+PROD_0688,B004,Jeans,Weekly,Lana,637
+PROD_0689,B003,Scarpe,Seasonal,Lana,1041
+PROD_0690,B006,Abiti,Weekly,Cotone Organico,481
+PROD_0691,B002,Abiti,Seasonal,Nylon,433
+PROD_0692,B006,Accessori,Seasonal,Cotone Convenzionale,521
+PROD_0693,B005,Abiti,Seasonal,Cotone Convenzionale,393
+PROD_0694,B007,Maglieria,Seasonal,Poliestere,340
+PROD_0695,B004,Accessori,Seasonal,Cotone Convenzionale,552
+PROD_0696,B006,Jeans,Weekly,Nylon,522
+PROD_0697,B004,Jeans,Seasonal,Viscosa,659
+PROD_0698,B001,Jeans,Seasonal,Nylon,752
+PROD_0699,B005,Accessori,Weekly,Lana,490
+PROD_0700,B005,Abiti,Seasonal,Cotone Convenzionale,433
+PROD_0701,B002,Jeans,Weekly,Viscosa,729
+PROD_0702,B007,T-shirt,Weekly,Cotone Organico,211
+PROD_0703,B006,Jeans,Seasonal,Cotone Convenzionale,716
+PROD_0704,B007,Jeans,Seasonal,Cotone Organico,741
+PROD_0705,B001,Maglieria,Seasonal,Viscosa,354
+PROD_0706,B005,Scarpe,Seasonal,Cotone Convenzionale,1168
+PROD_0707,B005,T-shirt,Seasonal,Cotone Convenzionale,201
+PROD_0708,B001,Accessori,Weekly,Viscosa,416
+PROD_0709,B001,T-shirt,Weekly,Lana,199
+PROD_0710,B004,Jeans,Seasonal,Lana,610
+PROD_0711,B001,Jeans,Weekly,Cotone Organico,791
+PROD_0712,B002,Accessori,Weekly,Lana,527
+PROD_0713,B007,Scarpe,Weekly,Lana,1019
+PROD_0714,B006,Accessori,Seasonal,Cotone Convenzionale,301
+PROD_0715,B006,Maglieria,Weekly,Lana,430
+PROD_0716,B005,T-shirt,Seasonal,Lana,165
+PROD_0717,B001,Jeans,Seasonal,Cotone Organico,784
+PROD_0718,B007,Jeans,Seasonal,Lana,523
+PROD_0719,B006,Maglieria,Seasonal,Poliestere,359
+PROD_0720,B002,Maglieria,Weekly,Poliestere,480
+PROD_0721,B003,T-shirt,Weekly,Poliestere,226
+PROD_0722,B006,T-shirt,Seasonal,Viscosa,157
+PROD_0723,B006,Scarpe,Seasonal,Cotone Organico,911
+PROD_0724,B001,Abiti,Weekly,Cotone Convenzionale,587
+PROD_0725,B001,Scarpe,Weekly,Poliestere,1131
+PROD_0726,B001,Accessori,Seasonal,Poliestere,399
+PROD_0727,B005,T-shirt,Seasonal,Viscosa,210
+PROD_0728,B004,Jeans,Weekly,Viscosa,789
+PROD_0729,B004,Accessori,Seasonal,Cotone Organico,470
+PROD_0730,B005,T-shirt,Seasonal,Viscosa,211
+PROD_0731,B007,Scarpe,Weekly,Lana,1068
+PROD_0732,B007,T-shirt,Weekly,Cotone Organico,208
+PROD_0733,B007,T-shirt,Seasonal,Cotone Organico,246
+PROD_0734,B003,Maglieria,Weekly,Cotone Organico,544
+PROD_0735,B006,T-shirt,Seasonal,Poliestere,173
+PROD_0736,B005,T-shirt,Seasonal,Viscosa,226
+PROD_0737,B002,T-shirt,Seasonal,Viscosa,205
+PROD_0738,B001,Scarpe,Seasonal,Cotone Organico,882
+PROD_0739,B001,Scarpe,Seasonal,Lana,1169
+PROD_0740,B005,T-shirt,Weekly,Poliestere,217
+PROD_0741,B003,Accessori,Seasonal,Cotone Convenzionale,464
+PROD_0742,B003,T-shirt,Seasonal,Viscosa,228
+PROD_0743,B003,Accessori,Weekly,Viscosa,327
+PROD_0744,B002,Scarpe,Seasonal,Cotone Organico,722
+PROD_0745,B005,Abiti,Weekly,Nylon,452
+PROD_0746,B004,Scarpe,Weekly,Cotone Organico,1165
+PROD_0747,B005,Maglieria,Weekly,Lana,383
+PROD_0748,B002,Maglieria,Weekly,Lana,460
+PROD_0749,B007,Scarpe,Seasonal,Poliestere,968
+PROD_0750,B005,Abiti,Weekly,Cotone Organico,561
+PROD_0751,B003,Scarpe,Weekly,Cotone Convenzionale,1125
+PROD_0752,B003,Jeans,Seasonal,Nylon,560
+PROD_0753,B001,Maglieria,Weekly,Poliestere,548
+PROD_0754,B002,T-shirt,Seasonal,Viscosa,231
+PROD_0755,B002,Maglieria,Weekly,Poliestere,434
+PROD_0756,B007,Abiti,Seasonal,Lana,342
+PROD_0757,B007,T-shirt,Seasonal,Cotone Organico,243
+PROD_0758,B001,Scarpe,Weekly,Viscosa,1052
+PROD_0759,B002,Accessori,Seasonal,Viscosa,443
+PROD_0760,B002,Accessori,Weekly,Viscosa,394
+PROD_0761,B006,Accessori,Weekly,Poliestere,303
+PROD_0762,B002,Scarpe,Weekly,Nylon,1026
+PROD_0763,B006,Maglieria,Weekly,Cotone Organico,524
+PROD_0764,B004,Abiti,Seasonal,Lana,583
+PROD_0765,B004,Jeans,Weekly,Nylon,669
+PROD_0766,B001,Accessori,Weekly,Lana,373
+PROD_0767,B005,Maglieria,Seasonal,Cotone Organico,500
+PROD_0768,B002,Maglieria,Weekly,Lana,488
+PROD_0769,B004,Scarpe,Seasonal,Poliestere,940
+PROD_0770,B007,Maglieria,Seasonal,Nylon,360
+PROD_0771,B007,Scarpe,Weekly,Cotone Organico,969
+PROD_0772,B002,Maglieria,Seasonal,Lana,338
+PROD_0773,B007,Abiti,Weekly,Poliestere,414
+PROD_0774,B006,Accessori,Weekly,Cotone Convenzionale,516
+PROD_0775,B006,T-shirt,Weekly,Cotone Convenzionale,151
+PROD_0776,B001,Scarpe,Weekly,Viscosa,835
+PROD_0777,B003,Abiti,Seasonal,Viscosa,356
+PROD_0778,B002,Jeans,Seasonal,Cotone Convenzionale,625
+PROD_0779,B004,Scarpe,Seasonal,Nylon,833
+PROD_0780,B003,Accessori,Weekly,Cotone Organico,310
+PROD_0781,B003,Jeans,Seasonal,Poliestere,543
+PROD_0782,B001,Accessori,Weekly,Cotone Organico,523
+PROD_0783,B001,Accessori,Seasonal,Lana,319
+PROD_0784,B004,Abiti,Weekly,Viscosa,320
+PROD_0785,B005,Scarpe,Weekly,Lana,991
+PROD_0786,B007,Abiti,Weekly,Poliestere,438
+PROD_0787,B007,Scarpe,Weekly,Lana,966
+PROD_0788,B006,Maglieria,Seasonal,Cotone Convenzionale,344
+PROD_0789,B005,Accessori,Weekly,Lana,562
+PROD_0790,B007,Jeans,Seasonal,Lana,662
+PROD_0791,B006,Scarpe,Weekly,Cotone Organico,869
+PROD_0792,B006,Accessori,Weekly,Poliestere,448
+PROD_0793,B001,Abiti,Seasonal,Cotone Convenzionale,491
+PROD_0794,B007,Abiti,Seasonal,Poliestere,391
+PROD_0795,B001,Scarpe,Weekly,Cotone Convenzionale,1092
+PROD_0796,B002,Abiti,Weekly,Poliestere,317
+PROD_0797,B006,T-shirt,Seasonal,Lana,192
+PROD_0798,B003,Maglieria,Seasonal,Cotone Convenzionale,568
+PROD_0799,B004,Abiti,Weekly,Nylon,559
+PROD_0800,B002,T-shirt,Seasonal,Lana,224
+PROD_0801,B005,Scarpe,Seasonal,Lana,1166
+PROD_0802,B003,Accessori,Weekly,Cotone Convenzionale,386
+PROD_0803,B006,T-shirt,Seasonal,Lana,244
+PROD_0804,B005,Maglieria,Weekly,Cotone Organico,317
+PROD_0805,B006,Jeans,Weekly,Lana,547
+PROD_0806,B003,T-shirt,Weekly,Lana,246
+PROD_0807,B003,Maglieria,Weekly,Lana,497
+PROD_0808,B005,Accessori,Weekly,Poliestere,421
+PROD_0809,B002,Scarpe,Seasonal,Nylon,829
+PROD_0810,B001,Abiti,Seasonal,Cotone Convenzionale,402
+PROD_0811,B006,T-shirt,Weekly,Poliestere,167
+PROD_0812,B001,Scarpe,Weekly,Lana,1050
+PROD_0813,B002,T-shirt,Seasonal,Lana,188
+PROD_0814,B005,Abiti,Weekly,Viscosa,380
+PROD_0815,B006,Jeans,Weekly,Lana,610
+PROD_0816,B002,Accessori,Seasonal,Viscosa,374
+PROD_0817,B004,Abiti,Weekly,Viscosa,580
+PROD_0818,B004,Scarpe,Weekly,Poliestere,1088
+PROD_0819,B002,Accessori,Weekly,Cotone Organico,330
+PROD_0820,B007,Scarpe,Weekly,Viscosa,965
+PROD_0821,B006,Abiti,Seasonal,Nylon,324
+PROD_0822,B004,Scarpe,Seasonal,Poliestere,1182
+PROD_0823,B003,Jeans,Weekly,Lana,591
+PROD_0824,B002,Abiti,Seasonal,Cotone Convenzionale,460
+PROD_0825,B006,Scarpe,Weekly,Lana,859
+PROD_0826,B005,Abiti,Seasonal,Lana,418
+PROD_0827,B007,Accessori,Seasonal,Viscosa,395
+PROD_0828,B001,T-shirt,Weekly,Lana,197
+PROD_0829,B001,Accessori,Seasonal,Lana,407
+PROD_0830,B004,Maglieria,Seasonal,Cotone Organico,319
+PROD_0831,B007,Abiti,Weekly,Nylon,349
+PROD_0832,B004,Maglieria,Weekly,Nylon,547
+PROD_0833,B006,Jeans,Seasonal,Cotone Convenzionale,663
+PROD_0834,B002,Scarpe,Seasonal,Cotone Convenzionale,1180
+PROD_0835,B002,Jeans,Seasonal,Poliestere,623
+PROD_0836,B004,Jeans,Seasonal,Cotone Organico,567
+PROD_0837,B002,Abiti,Seasonal,Viscosa,532
+PROD_0838,B007,Scarpe,Weekly,Cotone Convenzionale,999
+PROD_0839,B004,Jeans,Seasonal,Poliestere,782
+PROD_0840,B007,T-shirt,Weekly,Viscosa,225
+PROD_0841,B002,Accessori,Seasonal,Lana,496
+PROD_0842,B007,Abiti,Seasonal,Lana,526
+PROD_0843,B002,Maglieria,Weekly,Cotone Organico,572
+PROD_0844,B005,Jeans,Seasonal,Nylon,538
+PROD_0845,B007,Scarpe,Weekly,Viscosa,1168
+PROD_0846,B006,Scarpe,Seasonal,Lana,745
+PROD_0847,B002,T-shirt,Weekly,Poliestere,222
+PROD_0848,B001,Abiti,Weekly,Lana,560
+PROD_0849,B006,Jeans,Seasonal,Cotone Convenzionale,729
+PROD_0850,B006,Maglieria,Seasonal,Viscosa,442
+PROD_0851,B001,T-shirt,Weekly,Nylon,224
+PROD_0852,B007,Scarpe,Weekly,Nylon,715
+PROD_0853,B006,Maglieria,Seasonal,Poliestere,354
+PROD_0854,B003,T-shirt,Weekly,Nylon,196
+PROD_0855,B003,Maglieria,Weekly,Nylon,499
+PROD_0856,B007,Scarpe,Seasonal,Nylon,1190
+PROD_0857,B003,T-shirt,Seasonal,Nylon,182
+PROD_0858,B006,Abiti,Weekly,Cotone Organico,469
+PROD_0859,B004,T-shirt,Seasonal,Cotone Convenzionale,200
+PROD_0860,B005,T-shirt,Weekly,Cotone Organico,226
+PROD_0861,B006,Abiti,Weekly,Poliestere,422
+PROD_0862,B006,Jeans,Weekly,Nylon,555
+PROD_0863,B006,T-shirt,Seasonal,Lana,249
+PROD_0864,B001,Scarpe,Weekly,Poliestere,785
+PROD_0865,B006,Scarpe,Weekly,Poliestere,763
+PROD_0866,B006,Abiti,Seasonal,Viscosa,382
+PROD_0867,B004,Jeans,Weekly,Nylon,504
+PROD_0868,B007,Abiti,Seasonal,Viscosa,400
+PROD_0869,B005,T-shirt,Seasonal,Lana,190
+PROD_0870,B005,T-shirt,Seasonal,Poliestere,205
+PROD_0871,B003,T-shirt,Seasonal,Cotone Convenzionale,190
+PROD_0872,B004,Jeans,Seasonal,Viscosa,551
+PROD_0873,B002,T-shirt,Weekly,Cotone Organico,174
+PROD_0874,B006,Scarpe,Seasonal,Cotone Convenzionale,1065
+PROD_0875,B003,Jeans,Weekly,Lana,553
+PROD_0876,B007,Accessori,Seasonal,Lana,431
+PROD_0877,B001,Maglieria,Weekly,Nylon,352
+PROD_0878,B001,Maglieria,Weekly,Cotone Organico,523
+PROD_0879,B007,Scarpe,Weekly,Viscosa,951
+PROD_0880,B007,Scarpe,Weekly,Cotone Organico,1161
+PROD_0881,B007,Accessori,Weekly,Lana,515
+PROD_0882,B004,T-shirt,Seasonal,Cotone Organico,155
+PROD_0883,B004,T-shirt,Weekly,Viscosa,245
+PROD_0884,B007,Accessori,Weekly,Cotone Convenzionale,444
+PROD_0885,B007,Abiti,Seasonal,Cotone Organico,455
+PROD_0886,B003,Scarpe,Weekly,Cotone Organico,946
+PROD_0887,B005,Scarpe,Weekly,Lana,894
+PROD_0888,B004,Accessori,Weekly,Nylon,486
+PROD_0889,B004,Abiti,Seasonal,Nylon,509
+PROD_0890,B004,Abiti,Seasonal,Cotone Organico,350
+PROD_0891,B004,T-shirt,Seasonal,Cotone Convenzionale,243
+PROD_0892,B003,Maglieria,Weekly,Nylon,523
+PROD_0893,B003,Accessori,Seasonal,Cotone Convenzionale,344
+PROD_0894,B004,Accessori,Seasonal,Cotone Organico,401
+PROD_0895,B002,Jeans,Weekly,Viscosa,799
+PROD_0896,B003,Abiti,Seasonal,Lana,331
+PROD_0897,B002,T-shirt,Weekly,Viscosa,206
+PROD_0898,B001,Maglieria,Weekly,Cotone Organico,496
+PROD_0899,B001,Jeans,Weekly,Cotone Convenzionale,519
+PROD_0900,B007,Abiti,Weekly,Viscosa,509
+PROD_0901,B002,T-shirt,Seasonal,Cotone Organico,214
+PROD_0902,B003,Maglieria,Seasonal,Viscosa,365
+PROD_0903,B003,T-shirt,Weekly,Cotone Organico,199
+PROD_0904,B007,Abiti,Seasonal,Viscosa,534
+PROD_0905,B003,Abiti,Seasonal,Poliestere,372
+PROD_0906,B001,Maglieria,Seasonal,Cotone Organico,401
+PROD_0907,B006,Maglieria,Seasonal,Cotone Organico,422
+PROD_0908,B005,Scarpe,Seasonal,Cotone Convenzionale,844
+PROD_0909,B004,Maglieria,Seasonal,Lana,423
+PROD_0910,B007,Abiti,Seasonal,Cotone Organico,404
+PROD_0911,B001,Abiti,Weekly,Cotone Convenzionale,413
+PROD_0912,B006,Abiti,Weekly,Cotone Convenzionale,374
+PROD_0913,B003,Accessori,Weekly,Lana,439
+PROD_0914,B001,T-shirt,Seasonal,Viscosa,207
+PROD_0915,B003,Accessori,Weekly,Cotone Organico,379
+PROD_0916,B003,Accessori,Weekly,Viscosa,526
+PROD_0917,B001,Scarpe,Weekly,Viscosa,808
+PROD_0918,B007,T-shirt,Seasonal,Lana,183
+PROD_0919,B005,Jeans,Seasonal,Viscosa,572
+PROD_0920,B005,Jeans,Seasonal,Poliestere,638
+PROD_0921,B001,Scarpe,Seasonal,Nylon,1011
+PROD_0922,B003,Abiti,Weekly,Cotone Convenzionale,423
+PROD_0923,B007,Abiti,Seasonal,Nylon,469
+PROD_0924,B005,Accessori,Seasonal,Lana,519
+PROD_0925,B001,Maglieria,Weekly,Lana,390
+PROD_0926,B001,T-shirt,Seasonal,Cotone Organico,177
+PROD_0927,B005,Accessori,Seasonal,Lana,585
+PROD_0928,B005,Scarpe,Weekly,Nylon,956
+PROD_0929,B003,Abiti,Seasonal,Nylon,398
+PROD_0930,B005,Accessori,Weekly,Lana,350
+PROD_0931,B003,Jeans,Weekly,Nylon,596
+PROD_0932,B001,Maglieria,Weekly,Nylon,567
+PROD_0933,B001,Abiti,Weekly,Cotone Organico,489
+PROD_0934,B006,Abiti,Seasonal,Cotone Organico,349
+PROD_0935,B002,Accessori,Weekly,Lana,442
+PROD_0936,B003,Abiti,Seasonal,Nylon,329
+PROD_0937,B003,Accessori,Seasonal,Cotone Convenzionale,313
+PROD_0938,B002,Abiti,Weekly,Viscosa,357
+PROD_0939,B007,Accessori,Seasonal,Viscosa,536
+PROD_0940,B004,Accessori,Seasonal,Cotone Organico,487
+PROD_0941,B007,Scarpe,Seasonal,Cotone Organico,762
+PROD_0942,B004,Accessori,Weekly,Viscosa,429
+PROD_0943,B005,Scarpe,Seasonal,Cotone Organico,986
+PROD_0944,B007,Accessori,Seasonal,Cotone Organico,547
+PROD_0945,B004,Scarpe,Weekly,Nylon,1088
+PROD_0946,B005,T-shirt,Weekly,Poliestere,163
+PROD_0947,B002,Maglieria,Seasonal,Cotone Convenzionale,331
+PROD_0948,B004,Scarpe,Seasonal,Cotone Convenzionale,1079
+PROD_0949,B003,Maglieria,Seasonal,Viscosa,432
+PROD_0950,B002,Abiti,Seasonal,Poliestere,518
+PROD_0951,B004,Accessori,Seasonal,Lana,386
+PROD_0952,B003,T-shirt,Seasonal,Viscosa,151
+PROD_0953,B007,Maglieria,Weekly,Nylon,356
+PROD_0954,B006,Jeans,Weekly,Viscosa,723
+PROD_0955,B002,Abiti,Weekly,Cotone Convenzionale,568
+PROD_0956,B006,T-shirt,Seasonal,Poliestere,217
+PROD_0957,B004,Accessori,Seasonal,Nylon,464
+PROD_0958,B007,Maglieria,Seasonal,Cotone Convenzionale,320
+PROD_0959,B003,Abiti,Seasonal,Lana,388
+PROD_0960,B002,T-shirt,Seasonal,Poliestere,167
+PROD_0961,B005,Scarpe,Seasonal,Cotone Organico,1180
+PROD_0962,B007,T-shirt,Weekly,Lana,214
+PROD_0963,B002,T-shirt,Seasonal,Lana,170
+PROD_0964,B004,Scarpe,Seasonal,Cotone Convenzionale,1028
+PROD_0965,B005,Jeans,Weekly,Cotone Convenzionale,649
+PROD_0966,B004,T-shirt,Seasonal,Nylon,157
+PROD_0967,B005,Maglieria,Seasonal,Poliestere,510
+PROD_0968,B002,Maglieria,Weekly,Cotone Convenzionale,472
+PROD_0969,B002,Jeans,Seasonal,Lana,647
+PROD_0970,B007,Accessori,Weekly,Cotone Convenzionale,585
+PROD_0971,B007,Scarpe,Weekly,Viscosa,993
+PROD_0972,B006,Accessori,Weekly,Cotone Organico,489
+PROD_0973,B003,Maglieria,Seasonal,Cotone Convenzionale,383
+PROD_0974,B007,Maglieria,Weekly,Cotone Convenzionale,321
+PROD_0975,B004,Abiti,Seasonal,Lana,521
+PROD_0976,B003,Maglieria,Seasonal,Lana,559
+PROD_0977,B003,Scarpe,Seasonal,Lana,764
+PROD_0978,B002,Abiti,Weekly,Lana,452
+PROD_0979,B005,Abiti,Weekly,Cotone Organico,524
+PROD_0980,B005,Accessori,Seasonal,Cotone Convenzionale,371
+PROD_0981,B001,Accessori,Weekly,Viscosa,359
+PROD_0982,B005,Maglieria,Seasonal,Viscosa,368
+PROD_0983,B005,T-shirt,Seasonal,Cotone Organico,207
+PROD_0984,B002,Scarpe,Weekly,Poliestere,998
+PROD_0985,B007,Jeans,Seasonal,Cotone Convenzionale,765
+PROD_0986,B001,Accessori,Seasonal,Poliestere,385
+PROD_0987,B005,T-shirt,Seasonal,Cotone Convenzionale,159
+PROD_0988,B004,Accessori,Weekly,Lana,340
+PROD_0989,B003,Scarpe,Weekly,Cotone Organico,1136
+PROD_0990,B006,Jeans,Weekly,Cotone Organico,522
+PROD_0991,B003,Abiti,Weekly,Cotone Organico,436
+PROD_0992,B003,Abiti,Weekly,Cotone Convenzionale,487
+PROD_0993,B002,Abiti,Weekly,Cotone Organico,320
+PROD_0994,B005,Scarpe,Seasonal,Nylon,930
+PROD_0995,B001,Accessori,Seasonal,Viscosa,525
+PROD_0996,B005,Jeans,Seasonal,Cotone Convenzionale,647
+PROD_0997,B005,Scarpe,Weekly,Poliestere,1014
+PROD_0998,B002,Maglieria,Weekly,Nylon,344
+PROD_0999,B001,Accessori,Seasonal,Lana,533

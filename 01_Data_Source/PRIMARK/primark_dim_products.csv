@@ -1,0 +1,1001 @@
+product_id,brand_id,category,is_multipack,items_per_pack,main_material,pack_weight_grams
+PRM_PRD_0000,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,201
+PRM_PRD_0001,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),675
+PRM_PRD_0002,PRM01,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,177
+PRM_PRD_0003,PRM01,Fast Footwear,False,1,Acrilico Basic,628
+PRM_PRD_0004,PRM03,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,581
+PRM_PRD_0005,PRM04,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,210
+PRM_PRD_0006,PRM03,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,364
+PRM_PRD_0007,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,635
+PRM_PRD_0008,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),520
+PRM_PRD_0009,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,908
+PRM_PRD_0010,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,304
+PRM_PRD_0011,PRM01,Denim,False,1,Poliestere Economico,718
+PRM_PRD_0012,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),556
+PRM_PRD_0013,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,227
+PRM_PRD_0014,PRM01,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),162
+PRM_PRD_0015,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,153
+PRM_PRD_0016,PRM02,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,511
+PRM_PRD_0017,PRM03,Denim,False,1,Acrilico Basic,868
+PRM_PRD_0018,PRM01,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,470
+PRM_PRD_0019,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,576
+PRM_PRD_0020,PRM02,Fast Footwear,False,1,Misto Viscosa,698
+PRM_PRD_0021,PRM02,Denim,False,1,Misto Viscosa,621
+PRM_PRD_0022,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,448
+PRM_PRD_0023,PRM02,Fast Footwear,False,1,Cotone Sostenibile (PSCP),410
+PRM_PRD_0024,PRM04,Denim,False,1,Misto Viscosa,736
+PRM_PRD_0025,PRM01,Licensed Graphic Tees,False,1,Poliestere Economico,197
+PRM_PRD_0026,PRM01,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),470
+PRM_PRD_0027,PRM05,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),166
+PRM_PRD_0028,PRM02,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,162
+PRM_PRD_0029,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,226
+PRM_PRD_0030,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),422
+PRM_PRD_0031,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,419
+PRM_PRD_0032,PRM04,Licensed Graphic Tees,False,1,Poliestere Economico,236
+PRM_PRD_0033,PRM05,Denim,False,1,Acrilico Basic,948
+PRM_PRD_0034,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,390
+PRM_PRD_0035,PRM02,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),270
+PRM_PRD_0036,PRM02,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,195
+PRM_PRD_0037,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,771
+PRM_PRD_0038,PRM02,Licensed Graphic Tees,False,1,Misto Viscosa,222
+PRM_PRD_0039,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,475
+PRM_PRD_0040,PRM04,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,538
+PRM_PRD_0041,PRM04,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,475
+PRM_PRD_0042,PRM05,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,434
+PRM_PRD_0043,PRM02,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,260
+PRM_PRD_0044,PRM05,Denim,False,1,Poliestere Economico,835
+PRM_PRD_0045,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,203
+PRM_PRD_0046,PRM01,Pajamas & Loungewear,False,1,Poliestere Economico,584
+PRM_PRD_0047,PRM03,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,672
+PRM_PRD_0048,PRM02,Denim,False,1,Misto Viscosa,650
+PRM_PRD_0049,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),530
+PRM_PRD_0050,PRM05,Fast Footwear,False,1,Cotone Sostenibile (PSCP),507
+PRM_PRD_0051,PRM03,Denim,False,1,Misto Viscosa,631
+PRM_PRD_0052,PRM04,Denim,False,1,Poliestere Economico,864
+PRM_PRD_0053,PRM03,Fast Footwear,False,1,Acrilico Basic,536
+PRM_PRD_0054,PRM05,Licensed Graphic Tees,False,1,Acrilico Basic,236
+PRM_PRD_0055,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),180
+PRM_PRD_0056,PRM04,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),195
+PRM_PRD_0057,PRM02,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,222
+PRM_PRD_0058,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),476
+PRM_PRD_0059,PRM05,Denim,False,1,Poliestere Economico,669
+PRM_PRD_0060,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),710
+PRM_PRD_0061,PRM01,Pajamas & Loungewear,False,1,Poliestere Economico,447
+PRM_PRD_0062,PRM01,Pajamas & Loungewear,False,1,Poliestere Economico,361
+PRM_PRD_0063,PRM02,Denim,False,1,Cotone Sostenibile (PSCP),740
+PRM_PRD_0064,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),927
+PRM_PRD_0065,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),648
+PRM_PRD_0066,PRM02,Fast Footwear,False,1,Poliestere Economico,404
+PRM_PRD_0067,PRM01,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),159
+PRM_PRD_0068,PRM02,Fast Footwear,False,1,Poliestere Economico,738
+PRM_PRD_0069,PRM01,Fast Footwear,False,1,Poliestere Economico,522
+PRM_PRD_0070,PRM03,Fast Footwear,False,1,Misto Viscosa,748
+PRM_PRD_0071,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,307
+PRM_PRD_0072,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,226
+PRM_PRD_0073,PRM02,Denim,False,1,Acrilico Basic,862
+PRM_PRD_0074,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),640
+PRM_PRD_0075,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),337
+PRM_PRD_0076,PRM04,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),247
+PRM_PRD_0077,PRM04,Pajamas & Loungewear,False,1,Acrilico Basic,307
+PRM_PRD_0078,PRM01,Pajamas & Loungewear,False,1,Acrilico Basic,392
+PRM_PRD_0079,PRM02,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,250
+PRM_PRD_0080,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,168
+PRM_PRD_0081,PRM02,Denim,False,1,Misto Viscosa,809
+PRM_PRD_0082,PRM04,Fast Footwear,False,1,Cotone Sostenibile (PSCP),669
+PRM_PRD_0083,PRM05,Fast Footwear,False,1,Misto Viscosa,468
+PRM_PRD_0084,PRM01,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,420
+PRM_PRD_0085,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,186
+PRM_PRD_0086,PRM03,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,355
+PRM_PRD_0087,PRM02,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,195
+PRM_PRD_0088,PRM04,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,742
+PRM_PRD_0089,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),505
+PRM_PRD_0090,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,248
+PRM_PRD_0091,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,231
+PRM_PRD_0092,PRM02,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),165
+PRM_PRD_0093,PRM05,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,300
+PRM_PRD_0094,PRM03,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),644
+PRM_PRD_0095,PRM02,Pajamas & Loungewear,False,1,Misto Viscosa,354
+PRM_PRD_0096,PRM02,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,665
+PRM_PRD_0097,PRM04,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,427
+PRM_PRD_0098,PRM01,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,320
+PRM_PRD_0099,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),330
+PRM_PRD_0100,PRM03,Denim,False,1,Acrilico Basic,917
+PRM_PRD_0101,PRM01,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),700
+PRM_PRD_0102,PRM03,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),399
+PRM_PRD_0103,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),525
+PRM_PRD_0104,PRM05,Fast Footwear,False,1,Poliestere Economico,573
+PRM_PRD_0105,PRM03,Licensed Graphic Tees,False,1,Poliestere Economico,205
+PRM_PRD_0106,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,370
+PRM_PRD_0107,PRM01,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,150
+PRM_PRD_0108,PRM04,Denim,False,1,Misto Viscosa,645
+PRM_PRD_0109,PRM04,Denim,False,1,Acrilico Basic,886
+PRM_PRD_0110,PRM04,Denim,False,1,Misto Viscosa,764
+PRM_PRD_0111,PRM01,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,280
+PRM_PRD_0112,PRM02,Fast Footwear,False,1,Misto Viscosa,602
+PRM_PRD_0113,PRM01,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),249
+PRM_PRD_0114,PRM01,Denim,False,1,Cotone Convenzionale Basso Costo,607
+PRM_PRD_0115,PRM05,Denim,False,1,Cotone Convenzionale Basso Costo,903
+PRM_PRD_0116,PRM04,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,567
+PRM_PRD_0117,PRM01,Pajamas & Loungewear,False,1,Acrilico Basic,448
+PRM_PRD_0118,PRM02,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,595
+PRM_PRD_0119,PRM05,Denim,False,1,Cotone Convenzionale Basso Costo,860
+PRM_PRD_0120,PRM02,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,655
+PRM_PRD_0121,PRM04,Fast Footwear,False,1,Poliestere Economico,789
+PRM_PRD_0122,PRM03,Denim,False,1,Misto Viscosa,858
+PRM_PRD_0123,PRM01,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),672
+PRM_PRD_0124,PRM04,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,189
+PRM_PRD_0125,PRM02,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,340
+PRM_PRD_0126,PRM01,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),156
+PRM_PRD_0127,PRM04,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,183
+PRM_PRD_0128,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),608
+PRM_PRD_0129,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,240
+PRM_PRD_0130,PRM01,Denim,False,1,Poliestere Economico,817
+PRM_PRD_0131,PRM02,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),234
+PRM_PRD_0132,PRM02,Denim,False,1,Misto Viscosa,694
+PRM_PRD_0133,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),449
+PRM_PRD_0134,PRM02,Fast Footwear,False,1,Poliestere Economico,500
+PRM_PRD_0135,PRM05,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,798
+PRM_PRD_0136,PRM03,Fast Footwear,False,1,Poliestere Economico,538
+PRM_PRD_0137,PRM01,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,483
+PRM_PRD_0138,PRM04,Fast Footwear,False,1,Poliestere Economico,697
+PRM_PRD_0139,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),784
+PRM_PRD_0140,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),858
+PRM_PRD_0141,PRM01,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,165
+PRM_PRD_0142,PRM03,Fast Footwear,False,1,Acrilico Basic,494
+PRM_PRD_0143,PRM02,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,280
+PRM_PRD_0144,PRM03,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,469
+PRM_PRD_0145,PRM01,Denim,False,1,Cotone Convenzionale Basso Costo,652
+PRM_PRD_0146,PRM04,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),340
+PRM_PRD_0147,PRM02,Denim,False,1,Misto Viscosa,833
+PRM_PRD_0148,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,237
+PRM_PRD_0149,PRM02,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,544
+PRM_PRD_0150,PRM04,Fast Footwear,False,1,Poliestere Economico,665
+PRM_PRD_0151,PRM02,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,350
+PRM_PRD_0152,PRM03,Denim,False,1,Poliestere Economico,787
+PRM_PRD_0153,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),717
+PRM_PRD_0154,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,155
+PRM_PRD_0155,PRM01,Fast Footwear,False,1,Misto Viscosa,464
+PRM_PRD_0156,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,154
+PRM_PRD_0157,PRM01,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),255
+PRM_PRD_0158,PRM01,Fast Footwear,False,1,Misto Viscosa,437
+PRM_PRD_0159,PRM04,Fast Footwear,False,1,Poliestere Economico,790
+PRM_PRD_0160,PRM02,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,243
+PRM_PRD_0161,PRM05,Denim,False,1,Cotone Sostenibile (PSCP),925
+PRM_PRD_0162,PRM04,Fast Footwear,False,1,Misto Viscosa,503
+PRM_PRD_0163,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,220
+PRM_PRD_0164,PRM02,Fast Footwear,False,1,Cotone Sostenibile (PSCP),736
+PRM_PRD_0165,PRM03,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),237
+PRM_PRD_0166,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),573
+PRM_PRD_0167,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,241
+PRM_PRD_0168,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),746
+PRM_PRD_0169,PRM02,Fast Footwear,False,1,Misto Viscosa,662
+PRM_PRD_0170,PRM03,Fast Footwear,False,1,Acrilico Basic,784
+PRM_PRD_0171,PRM02,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,422
+PRM_PRD_0172,PRM04,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,330
+PRM_PRD_0173,PRM05,Fast Footwear,False,1,Acrilico Basic,594
+PRM_PRD_0174,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,184
+PRM_PRD_0175,PRM04,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),264
+PRM_PRD_0176,PRM01,Fast Footwear,False,1,Poliestere Economico,641
+PRM_PRD_0177,PRM04,Pajamas & Loungewear,False,1,Acrilico Basic,656
+PRM_PRD_0178,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),710
+PRM_PRD_0179,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),473
+PRM_PRD_0180,PRM01,Denim,False,1,Cotone Convenzionale Basso Costo,921
+PRM_PRD_0181,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),637
+PRM_PRD_0182,PRM05,Denim,False,1,Cotone Convenzionale Basso Costo,727
+PRM_PRD_0183,PRM04,Fast Footwear,False,1,Acrilico Basic,442
+PRM_PRD_0184,PRM02,Multipack Basics (Socks/Undies),True,5,Cotone Convenzionale Basso Costo,325
+PRM_PRD_0185,PRM03,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),255
+PRM_PRD_0186,PRM01,Pajamas & Loungewear,False,1,Misto Viscosa,331
+PRM_PRD_0187,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,644
+PRM_PRD_0188,PRM02,Denim,False,1,Acrilico Basic,714
+PRM_PRD_0189,PRM02,Fast Footwear,False,1,Poliestere Economico,776
+PRM_PRD_0190,PRM03,Denim,False,1,Acrilico Basic,761
+PRM_PRD_0191,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,923
+PRM_PRD_0192,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,195
+PRM_PRD_0193,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,173
+PRM_PRD_0194,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,184
+PRM_PRD_0195,PRM04,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),171
+PRM_PRD_0196,PRM01,Pajamas & Loungewear,False,1,Acrilico Basic,387
+PRM_PRD_0197,PRM04,Denim,False,1,Acrilico Basic,768
+PRM_PRD_0198,PRM01,Licensed Graphic Tees,False,1,Acrilico Basic,244
+PRM_PRD_0199,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),466
+PRM_PRD_0200,PRM04,Fast Footwear,False,1,Cotone Sostenibile (PSCP),525
+PRM_PRD_0201,PRM04,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,413
+PRM_PRD_0202,PRM01,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),215
+PRM_PRD_0203,PRM04,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,315
+PRM_PRD_0204,PRM02,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,445
+PRM_PRD_0205,PRM05,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,345
+PRM_PRD_0206,PRM05,Denim,False,1,Misto Viscosa,824
+PRM_PRD_0207,PRM03,Fast Footwear,False,1,Acrilico Basic,418
+PRM_PRD_0208,PRM04,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,279
+PRM_PRD_0209,PRM02,Pajamas & Loungewear,False,1,Misto Viscosa,608
+PRM_PRD_0210,PRM05,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,474
+PRM_PRD_0211,PRM03,Fast Footwear,False,1,Poliestere Economico,737
+PRM_PRD_0212,PRM05,Denim,False,1,Cotone Sostenibile (PSCP),728
+PRM_PRD_0213,PRM05,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),490
+PRM_PRD_0214,PRM03,Denim,False,1,Poliestere Economico,668
+PRM_PRD_0215,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),235
+PRM_PRD_0216,PRM01,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,243
+PRM_PRD_0217,PRM02,Fast Footwear,False,1,Cotone Sostenibile (PSCP),658
+PRM_PRD_0218,PRM03,Licensed Graphic Tees,False,1,Acrilico Basic,181
+PRM_PRD_0219,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,874
+PRM_PRD_0220,PRM05,Licensed Graphic Tees,False,1,Acrilico Basic,215
+PRM_PRD_0221,PRM05,Fast Footwear,False,1,Acrilico Basic,472
+PRM_PRD_0222,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,211
+PRM_PRD_0223,PRM01,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,218
+PRM_PRD_0224,PRM01,Denim,False,1,Misto Viscosa,622
+PRM_PRD_0225,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,161
+PRM_PRD_0226,PRM05,Fast Footwear,False,1,Misto Viscosa,425
+PRM_PRD_0227,PRM02,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,297
+PRM_PRD_0228,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,159
+PRM_PRD_0229,PRM04,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),210
+PRM_PRD_0230,PRM05,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,234
+PRM_PRD_0231,PRM02,Fast Footwear,False,1,Misto Viscosa,525
+PRM_PRD_0232,PRM01,Fast Footwear,False,1,Poliestere Economico,663
+PRM_PRD_0233,PRM05,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,623
+PRM_PRD_0234,PRM01,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),151
+PRM_PRD_0235,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,508
+PRM_PRD_0236,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),477
+PRM_PRD_0237,PRM05,Licensed Graphic Tees,False,1,Acrilico Basic,177
+PRM_PRD_0238,PRM04,Licensed Graphic Tees,False,1,Poliestere Economico,250
+PRM_PRD_0239,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,915
+PRM_PRD_0240,PRM01,Fast Footwear,False,1,Misto Viscosa,403
+PRM_PRD_0241,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,352
+PRM_PRD_0242,PRM05,Denim,False,1,Poliestere Economico,678
+PRM_PRD_0243,PRM04,Fast Footwear,False,1,Poliestere Economico,633
+PRM_PRD_0244,PRM02,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),637
+PRM_PRD_0245,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,240
+PRM_PRD_0246,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,835
+PRM_PRD_0247,PRM03,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,427
+PRM_PRD_0248,PRM02,Denim,False,1,Cotone Sostenibile (PSCP),659
+PRM_PRD_0249,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,349
+PRM_PRD_0250,PRM05,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,355
+PRM_PRD_0251,PRM04,Licensed Graphic Tees,False,1,Poliestere Economico,194
+PRM_PRD_0252,PRM05,Fast Footwear,False,1,Acrilico Basic,527
+PRM_PRD_0253,PRM01,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,700
+PRM_PRD_0254,PRM04,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,270
+PRM_PRD_0255,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,300
+PRM_PRD_0256,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,215
+PRM_PRD_0257,PRM05,Fast Footwear,False,1,Misto Viscosa,704
+PRM_PRD_0258,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),316
+PRM_PRD_0259,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,247
+PRM_PRD_0260,PRM03,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,204
+PRM_PRD_0261,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),845
+PRM_PRD_0262,PRM04,Licensed Graphic Tees,False,1,Poliestere Economico,217
+PRM_PRD_0263,PRM01,Licensed Graphic Tees,False,1,Poliestere Economico,226
+PRM_PRD_0264,PRM03,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,700
+PRM_PRD_0265,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,509
+PRM_PRD_0266,PRM03,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,540
+PRM_PRD_0267,PRM03,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,631
+PRM_PRD_0268,PRM04,Denim,False,1,Acrilico Basic,794
+PRM_PRD_0269,PRM05,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),185
+PRM_PRD_0270,PRM03,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,637
+PRM_PRD_0271,PRM01,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,390
+PRM_PRD_0272,PRM01,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,217
+PRM_PRD_0273,PRM02,Fast Footwear,False,1,Cotone Sostenibile (PSCP),443
+PRM_PRD_0274,PRM02,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,497
+PRM_PRD_0275,PRM05,Denim,False,1,Cotone Convenzionale Basso Costo,920
+PRM_PRD_0276,PRM05,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),249
+PRM_PRD_0277,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,198
+PRM_PRD_0278,PRM05,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),207
+PRM_PRD_0279,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,669
+PRM_PRD_0280,PRM02,Pajamas & Loungewear,False,1,Misto Viscosa,518
+PRM_PRD_0281,PRM05,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,455
+PRM_PRD_0282,PRM02,Denim,False,1,Acrilico Basic,661
+PRM_PRD_0283,PRM03,Licensed Graphic Tees,False,1,Acrilico Basic,215
+PRM_PRD_0284,PRM03,Denim,False,1,Misto Viscosa,726
+PRM_PRD_0285,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,664
+PRM_PRD_0286,PRM03,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,165
+PRM_PRD_0287,PRM01,Denim,False,1,Poliestere Economico,723
+PRM_PRD_0288,PRM03,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,532
+PRM_PRD_0289,PRM03,Denim,False,1,Poliestere Economico,645
+PRM_PRD_0290,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,393
+PRM_PRD_0291,PRM04,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,667
+PRM_PRD_0292,PRM03,Licensed Graphic Tees,False,1,Poliestere Economico,195
+PRM_PRD_0293,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,545
+PRM_PRD_0294,PRM02,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,228
+PRM_PRD_0295,PRM05,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),260
+PRM_PRD_0296,PRM03,Denim,False,1,Poliestere Economico,901
+PRM_PRD_0297,PRM03,Denim,False,1,Misto Viscosa,922
+PRM_PRD_0298,PRM05,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,165
+PRM_PRD_0299,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,556
+PRM_PRD_0300,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,390
+PRM_PRD_0301,PRM01,Licensed Graphic Tees,False,1,Misto Viscosa,247
+PRM_PRD_0302,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,841
+PRM_PRD_0303,PRM02,Denim,False,1,Misto Viscosa,944
+PRM_PRD_0304,PRM04,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),171
+PRM_PRD_0305,PRM01,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,390
+PRM_PRD_0306,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,225
+PRM_PRD_0307,PRM01,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),539
+PRM_PRD_0308,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),449
+PRM_PRD_0309,PRM01,Denim,False,1,Cotone Convenzionale Basso Costo,861
+PRM_PRD_0310,PRM02,Licensed Graphic Tees,False,1,Acrilico Basic,230
+PRM_PRD_0311,PRM03,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,307
+PRM_PRD_0312,PRM03,Denim,False,1,Acrilico Basic,688
+PRM_PRD_0313,PRM02,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,350
+PRM_PRD_0314,PRM01,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,448
+PRM_PRD_0315,PRM02,Fast Footwear,False,1,Poliestere Economico,694
+PRM_PRD_0316,PRM03,Fast Footwear,False,1,Misto Viscosa,756
+PRM_PRD_0317,PRM05,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,186
+PRM_PRD_0318,PRM04,Fast Footwear,False,1,Acrilico Basic,464
+PRM_PRD_0319,PRM04,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,500
+PRM_PRD_0320,PRM04,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,165
+PRM_PRD_0321,PRM04,Denim,False,1,Acrilico Basic,853
+PRM_PRD_0322,PRM02,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,159
+PRM_PRD_0323,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,152
+PRM_PRD_0324,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,358
+PRM_PRD_0325,PRM01,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,455
+PRM_PRD_0326,PRM01,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,213
+PRM_PRD_0327,PRM05,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),167
+PRM_PRD_0328,PRM05,Licensed Graphic Tees,False,1,Misto Viscosa,236
+PRM_PRD_0329,PRM04,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,165
+PRM_PRD_0330,PRM03,Licensed Graphic Tees,False,1,Poliestere Economico,233
+PRM_PRD_0331,PRM01,Pajamas & Loungewear,False,1,Misto Viscosa,594
+PRM_PRD_0332,PRM02,Fast Footwear,False,1,Acrilico Basic,604
+PRM_PRD_0333,PRM04,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,665
+PRM_PRD_0334,PRM04,Fast Footwear,False,1,Cotone Sostenibile (PSCP),453
+PRM_PRD_0335,PRM02,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,300
+PRM_PRD_0336,PRM03,Denim,False,1,Cotone Sostenibile (PSCP),661
+PRM_PRD_0337,PRM03,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,415
+PRM_PRD_0338,PRM01,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,395
+PRM_PRD_0339,PRM05,Denim,False,1,Cotone Convenzionale Basso Costo,609
+PRM_PRD_0340,PRM03,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),700
+PRM_PRD_0341,PRM01,Licensed Graphic Tees,False,1,Acrilico Basic,240
+PRM_PRD_0342,PRM01,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,153
+PRM_PRD_0343,PRM01,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,504
+PRM_PRD_0344,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,605
+PRM_PRD_0345,PRM04,Denim,False,1,Acrilico Basic,881
+PRM_PRD_0346,PRM04,Fast Footwear,False,1,Cotone Sostenibile (PSCP),427
+PRM_PRD_0347,PRM04,Licensed Graphic Tees,False,1,Poliestere Economico,194
+PRM_PRD_0348,PRM01,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,693
+PRM_PRD_0349,PRM03,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,588
+PRM_PRD_0350,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,217
+PRM_PRD_0351,PRM04,Fast Footwear,False,1,Poliestere Economico,415
+PRM_PRD_0352,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,755
+PRM_PRD_0353,PRM01,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,468
+PRM_PRD_0354,PRM03,Denim,False,1,Poliestere Economico,649
+PRM_PRD_0355,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,163
+PRM_PRD_0356,PRM04,Fast Footwear,False,1,Acrilico Basic,540
+PRM_PRD_0357,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),628
+PRM_PRD_0358,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,884
+PRM_PRD_0359,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,691
+PRM_PRD_0360,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,695
+PRM_PRD_0361,PRM01,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,483
+PRM_PRD_0362,PRM01,Denim,False,1,Poliestere Economico,691
+PRM_PRD_0363,PRM04,Fast Footwear,False,1,Poliestere Economico,652
+PRM_PRD_0364,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),790
+PRM_PRD_0365,PRM03,Licensed Graphic Tees,False,1,Acrilico Basic,175
+PRM_PRD_0366,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,211
+PRM_PRD_0367,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,236
+PRM_PRD_0368,PRM05,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,498
+PRM_PRD_0369,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,244
+PRM_PRD_0370,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),517
+PRM_PRD_0371,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,154
+PRM_PRD_0372,PRM04,Pajamas & Loungewear,False,1,Acrilico Basic,402
+PRM_PRD_0373,PRM03,Denim,False,1,Misto Viscosa,722
+PRM_PRD_0374,PRM01,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),216
+PRM_PRD_0375,PRM04,Fast Footwear,False,1,Poliestere Economico,588
+PRM_PRD_0376,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),232
+PRM_PRD_0377,PRM05,Denim,False,1,Poliestere Economico,710
+PRM_PRD_0378,PRM05,Licensed Graphic Tees,False,1,Misto Viscosa,186
+PRM_PRD_0379,PRM02,Fast Footwear,False,1,Acrilico Basic,531
+PRM_PRD_0380,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,610
+PRM_PRD_0381,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),644
+PRM_PRD_0382,PRM01,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,644
+PRM_PRD_0383,PRM01,Pajamas & Loungewear,False,1,Acrilico Basic,414
+PRM_PRD_0384,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),691
+PRM_PRD_0385,PRM05,Licensed Graphic Tees,False,1,Misto Viscosa,190
+PRM_PRD_0386,PRM04,Licensed Graphic Tees,False,1,Poliestere Economico,201
+PRM_PRD_0387,PRM03,Fast Footwear,False,1,Poliestere Economico,552
+PRM_PRD_0388,PRM04,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),410
+PRM_PRD_0389,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,168
+PRM_PRD_0390,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),214
+PRM_PRD_0391,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),613
+PRM_PRD_0392,PRM03,Denim,False,1,Poliestere Economico,943
+PRM_PRD_0393,PRM05,Denim,False,1,Acrilico Basic,617
+PRM_PRD_0394,PRM01,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),153
+PRM_PRD_0395,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,903
+PRM_PRD_0396,PRM04,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,627
+PRM_PRD_0397,PRM05,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,237
+PRM_PRD_0398,PRM01,Fast Footwear,False,1,Acrilico Basic,570
+PRM_PRD_0399,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,350
+PRM_PRD_0400,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),640
+PRM_PRD_0401,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),674
+PRM_PRD_0402,PRM04,Fast Footwear,False,1,Acrilico Basic,735
+PRM_PRD_0403,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,164
+PRM_PRD_0404,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,245
+PRM_PRD_0405,PRM05,Denim,False,1,Acrilico Basic,913
+PRM_PRD_0406,PRM04,Denim,False,1,Poliestere Economico,669
+PRM_PRD_0407,PRM01,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,246
+PRM_PRD_0408,PRM01,Pajamas & Loungewear,False,1,Acrilico Basic,396
+PRM_PRD_0409,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,204
+PRM_PRD_0410,PRM03,Pajamas & Loungewear,False,1,Acrilico Basic,639
+PRM_PRD_0411,PRM02,Denim,False,1,Misto Viscosa,740
+PRM_PRD_0412,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),412
+PRM_PRD_0413,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),763
+PRM_PRD_0414,PRM02,Denim,False,1,Acrilico Basic,874
+PRM_PRD_0415,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,742
+PRM_PRD_0416,PRM05,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,611
+PRM_PRD_0417,PRM05,Fast Footwear,False,1,Acrilico Basic,794
+PRM_PRD_0418,PRM04,Denim,False,1,Misto Viscosa,871
+PRM_PRD_0419,PRM04,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,637
+PRM_PRD_0420,PRM01,Denim,False,1,Misto Viscosa,847
+PRM_PRD_0421,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,155
+PRM_PRD_0422,PRM05,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,285
+PRM_PRD_0423,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),215
+PRM_PRD_0424,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,535
+PRM_PRD_0425,PRM05,Fast Footwear,False,1,Acrilico Basic,615
+PRM_PRD_0426,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,560
+PRM_PRD_0427,PRM01,Fast Footwear,False,1,Acrilico Basic,423
+PRM_PRD_0428,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,544
+PRM_PRD_0429,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,236
+PRM_PRD_0430,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,161
+PRM_PRD_0431,PRM02,Licensed Graphic Tees,False,1,Misto Viscosa,193
+PRM_PRD_0432,PRM05,Denim,False,1,Cotone Convenzionale Basso Costo,858
+PRM_PRD_0433,PRM05,Fast Footwear,False,1,Poliestere Economico,602
+PRM_PRD_0434,PRM04,Fast Footwear,False,1,Acrilico Basic,634
+PRM_PRD_0435,PRM05,Licensed Graphic Tees,False,1,Acrilico Basic,214
+PRM_PRD_0436,PRM02,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,693
+PRM_PRD_0437,PRM05,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,485
+PRM_PRD_0438,PRM05,Denim,False,1,Misto Viscosa,628
+PRM_PRD_0439,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,676
+PRM_PRD_0440,PRM02,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,258
+PRM_PRD_0441,PRM02,Denim,False,1,Cotone Sostenibile (PSCP),656
+PRM_PRD_0442,PRM04,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,646
+PRM_PRD_0443,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,201
+PRM_PRD_0444,PRM02,Fast Footwear,False,1,Poliestere Economico,640
+PRM_PRD_0445,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,214
+PRM_PRD_0446,PRM04,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,234
+PRM_PRD_0447,PRM01,Denim,False,1,Acrilico Basic,665
+PRM_PRD_0448,PRM03,Pajamas & Loungewear,False,1,Acrilico Basic,574
+PRM_PRD_0449,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,179
+PRM_PRD_0450,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),626
+PRM_PRD_0451,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,623
+PRM_PRD_0452,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,837
+PRM_PRD_0453,PRM03,Denim,False,1,Misto Viscosa,885
+PRM_PRD_0454,PRM03,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,159
+PRM_PRD_0455,PRM05,Denim,False,1,Acrilico Basic,722
+PRM_PRD_0456,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,155
+PRM_PRD_0457,PRM01,Pajamas & Loungewear,False,1,Poliestere Economico,646
+PRM_PRD_0458,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),630
+PRM_PRD_0459,PRM05,Denim,False,1,Misto Viscosa,731
+PRM_PRD_0460,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,673
+PRM_PRD_0461,PRM03,Pajamas & Loungewear,False,1,Misto Viscosa,547
+PRM_PRD_0462,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,625
+PRM_PRD_0463,PRM05,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,495
+PRM_PRD_0464,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),806
+PRM_PRD_0465,PRM03,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,250
+PRM_PRD_0466,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,201
+PRM_PRD_0467,PRM04,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),275
+PRM_PRD_0468,PRM01,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,162
+PRM_PRD_0469,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,818
+PRM_PRD_0470,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,244
+PRM_PRD_0471,PRM04,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),350
+PRM_PRD_0472,PRM02,Denim,False,1,Misto Viscosa,905
+PRM_PRD_0473,PRM05,Fast Footwear,False,1,Acrilico Basic,796
+PRM_PRD_0474,PRM01,Licensed Graphic Tees,False,1,Poliestere Economico,186
+PRM_PRD_0475,PRM04,Fast Footwear,False,1,Poliestere Economico,456
+PRM_PRD_0476,PRM02,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),476
+PRM_PRD_0477,PRM04,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,246
+PRM_PRD_0478,PRM03,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,490
+PRM_PRD_0479,PRM03,Fast Footwear,False,1,Acrilico Basic,671
+PRM_PRD_0480,PRM03,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,621
+PRM_PRD_0481,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,464
+PRM_PRD_0482,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,656
+PRM_PRD_0483,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,599
+PRM_PRD_0484,PRM02,Fast Footwear,False,1,Poliestere Economico,413
+PRM_PRD_0485,PRM03,Denim,False,1,Acrilico Basic,859
+PRM_PRD_0486,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,623
+PRM_PRD_0487,PRM03,Multipack Basics (Socks/Undies),True,7,Cotone Sostenibile (PSCP),371
+PRM_PRD_0488,PRM05,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,679
+PRM_PRD_0489,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),645
+PRM_PRD_0490,PRM01,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,219
+PRM_PRD_0491,PRM04,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),660
+PRM_PRD_0492,PRM02,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,685
+PRM_PRD_0493,PRM02,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,156
+PRM_PRD_0494,PRM01,Denim,False,1,Misto Viscosa,879
+PRM_PRD_0495,PRM01,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,190
+PRM_PRD_0496,PRM05,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,264
+PRM_PRD_0497,PRM03,Denim,False,1,Misto Viscosa,741
+PRM_PRD_0498,PRM02,Licensed Graphic Tees,False,1,Misto Viscosa,171
+PRM_PRD_0499,PRM04,Fast Footwear,False,1,Acrilico Basic,738
+PRM_PRD_0500,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,545
+PRM_PRD_0501,PRM01,Denim,False,1,Poliestere Economico,600
+PRM_PRD_0502,PRM04,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,469
+PRM_PRD_0503,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,664
+PRM_PRD_0504,PRM03,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,189
+PRM_PRD_0505,PRM01,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,490
+PRM_PRD_0506,PRM03,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),242
+PRM_PRD_0507,PRM03,Denim,False,1,Cotone Sostenibile (PSCP),618
+PRM_PRD_0508,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,346
+PRM_PRD_0509,PRM01,Fast Footwear,False,1,Poliestere Economico,508
+PRM_PRD_0510,PRM03,Licensed Graphic Tees,False,1,Poliestere Economico,243
+PRM_PRD_0511,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,170
+PRM_PRD_0512,PRM04,Denim,False,1,Poliestere Economico,634
+PRM_PRD_0513,PRM03,Denim,False,1,Poliestere Economico,629
+PRM_PRD_0514,PRM03,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,290
+PRM_PRD_0515,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,418
+PRM_PRD_0516,PRM02,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,207
+PRM_PRD_0517,PRM04,Denim,False,1,Misto Viscosa,866
+PRM_PRD_0518,PRM04,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,297
+PRM_PRD_0519,PRM05,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),250
+PRM_PRD_0520,PRM04,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,623
+PRM_PRD_0521,PRM01,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),197
+PRM_PRD_0522,PRM04,Denim,False,1,Acrilico Basic,634
+PRM_PRD_0523,PRM01,Fast Footwear,False,1,Misto Viscosa,744
+PRM_PRD_0524,PRM02,Pajamas & Loungewear,False,1,Acrilico Basic,342
+PRM_PRD_0525,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,818
+PRM_PRD_0526,PRM03,Fast Footwear,False,1,Acrilico Basic,663
+PRM_PRD_0527,PRM01,Fast Footwear,False,1,Poliestere Economico,554
+PRM_PRD_0528,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,202
+PRM_PRD_0529,PRM05,Licensed Graphic Tees,False,1,Acrilico Basic,165
+PRM_PRD_0530,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),531
+PRM_PRD_0531,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,222
+PRM_PRD_0532,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,233
+PRM_PRD_0533,PRM01,Denim,False,1,Misto Viscosa,829
+PRM_PRD_0534,PRM01,Fast Footwear,False,1,Misto Viscosa,553
+PRM_PRD_0535,PRM03,Pajamas & Loungewear,False,1,Misto Viscosa,408
+PRM_PRD_0536,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,484
+PRM_PRD_0537,PRM01,Fast Footwear,False,1,Poliestere Economico,775
+PRM_PRD_0538,PRM03,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),455
+PRM_PRD_0539,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,244
+PRM_PRD_0540,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,613
+PRM_PRD_0541,PRM03,Fast Footwear,False,1,Misto Viscosa,564
+PRM_PRD_0542,PRM01,Fast Footwear,False,1,Acrilico Basic,691
+PRM_PRD_0543,PRM04,Fast Footwear,False,1,Cotone Sostenibile (PSCP),531
+PRM_PRD_0544,PRM05,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),168
+PRM_PRD_0545,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,418
+PRM_PRD_0546,PRM05,Denim,False,1,Cotone Convenzionale Basso Costo,903
+PRM_PRD_0547,PRM03,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,485
+PRM_PRD_0548,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,195
+PRM_PRD_0549,PRM03,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,574
+PRM_PRD_0550,PRM04,Licensed Graphic Tees,False,1,Poliestere Economico,242
+PRM_PRD_0551,PRM03,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),240
+PRM_PRD_0552,PRM01,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),233
+PRM_PRD_0553,PRM03,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),241
+PRM_PRD_0554,PRM04,Fast Footwear,False,1,Cotone Sostenibile (PSCP),480
+PRM_PRD_0555,PRM04,Fast Footwear,False,1,Poliestere Economico,611
+PRM_PRD_0556,PRM01,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,267
+PRM_PRD_0557,PRM03,Denim,False,1,Acrilico Basic,657
+PRM_PRD_0558,PRM03,Pajamas & Loungewear,False,1,Acrilico Basic,673
+PRM_PRD_0559,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),578
+PRM_PRD_0560,PRM03,Denim,False,1,Misto Viscosa,839
+PRM_PRD_0561,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),627
+PRM_PRD_0562,PRM01,Licensed Graphic Tees,False,1,Misto Viscosa,205
+PRM_PRD_0563,PRM02,Denim,False,1,Misto Viscosa,945
+PRM_PRD_0564,PRM05,Fast Footwear,False,1,Cotone Sostenibile (PSCP),422
+PRM_PRD_0565,PRM02,Fast Footwear,False,1,Poliestere Economico,529
+PRM_PRD_0566,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,626
+PRM_PRD_0567,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,189
+PRM_PRD_0568,PRM05,Licensed Graphic Tees,False,1,Misto Viscosa,173
+PRM_PRD_0569,PRM05,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,644
+PRM_PRD_0570,PRM01,Denim,False,1,Acrilico Basic,874
+PRM_PRD_0571,PRM01,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,150
+PRM_PRD_0572,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,620
+PRM_PRD_0573,PRM03,Fast Footwear,False,1,Misto Viscosa,723
+PRM_PRD_0574,PRM03,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,406
+PRM_PRD_0575,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),643
+PRM_PRD_0576,PRM03,Denim,False,1,Acrilico Basic,634
+PRM_PRD_0577,PRM04,Denim,False,1,Poliestere Economico,901
+PRM_PRD_0578,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,437
+PRM_PRD_0579,PRM02,Pajamas & Loungewear,False,1,Acrilico Basic,543
+PRM_PRD_0580,PRM04,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,511
+PRM_PRD_0581,PRM05,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),350
+PRM_PRD_0582,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),448
+PRM_PRD_0583,PRM01,Licensed Graphic Tees,False,1,Acrilico Basic,174
+PRM_PRD_0584,PRM03,Fast Footwear,False,1,Acrilico Basic,465
+PRM_PRD_0585,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,754
+PRM_PRD_0586,PRM05,Licensed Graphic Tees,False,1,Acrilico Basic,215
+PRM_PRD_0587,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),723
+PRM_PRD_0588,PRM03,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,480
+PRM_PRD_0589,PRM03,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,222
+PRM_PRD_0590,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,198
+PRM_PRD_0591,PRM04,Denim,False,1,Misto Viscosa,860
+PRM_PRD_0592,PRM03,Fast Footwear,False,1,Misto Viscosa,601
+PRM_PRD_0593,PRM05,Denim,False,1,Cotone Convenzionale Basso Costo,628
+PRM_PRD_0594,PRM04,Fast Footwear,False,1,Misto Viscosa,443
+PRM_PRD_0595,PRM04,Fast Footwear,False,1,Poliestere Economico,464
+PRM_PRD_0596,PRM03,Denim,False,1,Poliestere Economico,747
+PRM_PRD_0597,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,307
+PRM_PRD_0598,PRM01,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),487
+PRM_PRD_0599,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,226
+PRM_PRD_0600,PRM02,Licensed Graphic Tees,False,1,Acrilico Basic,214
+PRM_PRD_0601,PRM05,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,630
+PRM_PRD_0602,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),564
+PRM_PRD_0603,PRM01,Fast Footwear,False,1,Poliestere Economico,656
+PRM_PRD_0604,PRM05,Denim,False,1,Misto Viscosa,751
+PRM_PRD_0605,PRM02,Fast Footwear,False,1,Misto Viscosa,532
+PRM_PRD_0606,PRM02,Denim,False,1,Acrilico Basic,866
+PRM_PRD_0607,PRM03,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,225
+PRM_PRD_0608,PRM01,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,261
+PRM_PRD_0609,PRM04,Fast Footwear,False,1,Acrilico Basic,651
+PRM_PRD_0610,PRM04,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,560
+PRM_PRD_0611,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,185
+PRM_PRD_0612,PRM05,Fast Footwear,False,1,Misto Viscosa,745
+PRM_PRD_0613,PRM05,Fast Footwear,False,1,Misto Viscosa,766
+PRM_PRD_0614,PRM02,Fast Footwear,False,1,Poliestere Economico,668
+PRM_PRD_0615,PRM05,Denim,False,1,Poliestere Economico,932
+PRM_PRD_0616,PRM03,Licensed Graphic Tees,False,1,Poliestere Economico,228
+PRM_PRD_0617,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,858
+PRM_PRD_0618,PRM01,Fast Footwear,False,1,Misto Viscosa,770
+PRM_PRD_0619,PRM03,Denim,False,1,Cotone Sostenibile (PSCP),802
+PRM_PRD_0620,PRM02,Pajamas & Loungewear,False,1,Acrilico Basic,331
+PRM_PRD_0621,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,385
+PRM_PRD_0622,PRM01,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,231
+PRM_PRD_0623,PRM02,Denim,False,1,Poliestere Economico,831
+PRM_PRD_0624,PRM01,Fast Footwear,False,1,Acrilico Basic,502
+PRM_PRD_0625,PRM05,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,504
+PRM_PRD_0626,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,658
+PRM_PRD_0627,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,631
+PRM_PRD_0628,PRM01,Fast Footwear,False,1,Misto Viscosa,488
+PRM_PRD_0629,PRM04,Denim,False,1,Poliestere Economico,896
+PRM_PRD_0630,PRM01,Denim,False,1,Misto Viscosa,822
+PRM_PRD_0631,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,950
+PRM_PRD_0632,PRM04,Fast Footwear,False,1,Misto Viscosa,579
+PRM_PRD_0633,PRM05,Denim,False,1,Misto Viscosa,627
+PRM_PRD_0634,PRM04,Fast Footwear,False,1,Poliestere Economico,624
+PRM_PRD_0635,PRM05,Denim,False,1,Acrilico Basic,710
+PRM_PRD_0636,PRM03,Fast Footwear,False,1,Acrilico Basic,591
+PRM_PRD_0637,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,734
+PRM_PRD_0638,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,619
+PRM_PRD_0639,PRM05,Denim,False,1,Poliestere Economico,649
+PRM_PRD_0640,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,885
+PRM_PRD_0641,PRM02,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,207
+PRM_PRD_0642,PRM01,Licensed Graphic Tees,False,1,Acrilico Basic,158
+PRM_PRD_0643,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,706
+PRM_PRD_0644,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,226
+PRM_PRD_0645,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),309
+PRM_PRD_0646,PRM02,Licensed Graphic Tees,False,1,Misto Viscosa,168
+PRM_PRD_0647,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),449
+PRM_PRD_0648,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,613
+PRM_PRD_0649,PRM01,Pajamas & Loungewear,False,1,Acrilico Basic,633
+PRM_PRD_0650,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,424
+PRM_PRD_0651,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,163
+PRM_PRD_0652,PRM05,Denim,False,1,Misto Viscosa,868
+PRM_PRD_0653,PRM04,Pajamas & Loungewear,False,1,Acrilico Basic,350
+PRM_PRD_0654,PRM03,Fast Footwear,False,1,Acrilico Basic,765
+PRM_PRD_0655,PRM02,Licensed Graphic Tees,False,1,Misto Viscosa,230
+PRM_PRD_0656,PRM02,Denim,False,1,Acrilico Basic,798
+PRM_PRD_0657,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,171
+PRM_PRD_0658,PRM01,Licensed Graphic Tees,False,1,Acrilico Basic,182
+PRM_PRD_0659,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,238
+PRM_PRD_0660,PRM05,Multipack Basics (Socks/Undies),True,5,Poliestere Economico,455
+PRM_PRD_0661,PRM03,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,219
+PRM_PRD_0662,PRM05,Multipack Basics (Socks/Undies),True,5,Cotone Convenzionale Basso Costo,425
+PRM_PRD_0663,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,489
+PRM_PRD_0664,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,562
+PRM_PRD_0665,PRM05,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),234
+PRM_PRD_0666,PRM01,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),238
+PRM_PRD_0667,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,470
+PRM_PRD_0668,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,456
+PRM_PRD_0669,PRM01,Licensed Graphic Tees,False,1,Acrilico Basic,150
+PRM_PRD_0670,PRM04,Multipack Basics (Socks/Undies),True,5,Cotone Convenzionale Basso Costo,310
+PRM_PRD_0671,PRM05,Denim,False,1,Poliestere Economico,900
+PRM_PRD_0672,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),411
+PRM_PRD_0673,PRM02,Licensed Graphic Tees,False,1,Misto Viscosa,167
+PRM_PRD_0674,PRM04,Multipack Basics (Socks/Undies),True,5,Cotone Convenzionale Basso Costo,435
+PRM_PRD_0675,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,242
+PRM_PRD_0676,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,500
+PRM_PRD_0677,PRM05,Denim,False,1,Misto Viscosa,926
+PRM_PRD_0678,PRM03,Denim,False,1,Acrilico Basic,785
+PRM_PRD_0679,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,210
+PRM_PRD_0680,PRM04,Denim,False,1,Acrilico Basic,718
+PRM_PRD_0681,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),594
+PRM_PRD_0682,PRM02,Fast Footwear,False,1,Misto Viscosa,628
+PRM_PRD_0683,PRM01,Fast Footwear,False,1,Misto Viscosa,705
+PRM_PRD_0684,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,242
+PRM_PRD_0685,PRM05,Licensed Graphic Tees,False,1,Misto Viscosa,213
+PRM_PRD_0686,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,660
+PRM_PRD_0687,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,661
+PRM_PRD_0688,PRM02,Denim,False,1,Cotone Convenzionale Basso Costo,946
+PRM_PRD_0689,PRM02,Denim,False,1,Acrilico Basic,722
+PRM_PRD_0690,PRM01,Fast Footwear,False,1,Cotone Sostenibile (PSCP),670
+PRM_PRD_0691,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,410
+PRM_PRD_0692,PRM04,Multipack Basics (Socks/Undies),True,5,Cotone Convenzionale Basso Costo,400
+PRM_PRD_0693,PRM05,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,625
+PRM_PRD_0694,PRM03,Denim,False,1,Misto Viscosa,818
+PRM_PRD_0695,PRM02,Denim,False,1,Acrilico Basic,919
+PRM_PRD_0696,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,381
+PRM_PRD_0697,PRM05,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,483
+PRM_PRD_0698,PRM04,Fast Footwear,False,1,Misto Viscosa,706
+PRM_PRD_0699,PRM02,Denim,False,1,Cotone Sostenibile (PSCP),636
+PRM_PRD_0700,PRM05,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,364
+PRM_PRD_0701,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),577
+PRM_PRD_0702,PRM03,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,546
+PRM_PRD_0703,PRM02,Fast Footwear,False,1,Misto Viscosa,487
+PRM_PRD_0704,PRM02,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,663
+PRM_PRD_0705,PRM04,Denim,False,1,Misto Viscosa,713
+PRM_PRD_0706,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,213
+PRM_PRD_0707,PRM02,Fast Footwear,False,1,Misto Viscosa,571
+PRM_PRD_0708,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,471
+PRM_PRD_0709,PRM05,Fast Footwear,False,1,Misto Viscosa,795
+PRM_PRD_0710,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,176
+PRM_PRD_0711,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,583
+PRM_PRD_0712,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,155
+PRM_PRD_0713,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),611
+PRM_PRD_0714,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),354
+PRM_PRD_0715,PRM03,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,577
+PRM_PRD_0716,PRM02,Pajamas & Loungewear,False,1,Acrilico Basic,575
+PRM_PRD_0717,PRM01,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,365
+PRM_PRD_0718,PRM03,Fast Footwear,False,1,Misto Viscosa,653
+PRM_PRD_0719,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),218
+PRM_PRD_0720,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,556
+PRM_PRD_0721,PRM04,Fast Footwear,False,1,Misto Viscosa,585
+PRM_PRD_0722,PRM04,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),157
+PRM_PRD_0723,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,162
+PRM_PRD_0724,PRM03,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,665
+PRM_PRD_0725,PRM04,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,627
+PRM_PRD_0726,PRM02,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,704
+PRM_PRD_0727,PRM05,Licensed Graphic Tees,False,1,Misto Viscosa,215
+PRM_PRD_0728,PRM04,Multipack Basics (Socks/Undies),True,3,Cotone Convenzionale Basso Costo,150
+PRM_PRD_0729,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,164
+PRM_PRD_0730,PRM04,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,481
+PRM_PRD_0731,PRM04,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),164
+PRM_PRD_0732,PRM03,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,519
+PRM_PRD_0733,PRM01,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,629
+PRM_PRD_0734,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,412
+PRM_PRD_0735,PRM02,Denim,False,1,Poliestere Economico,621
+PRM_PRD_0736,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),631
+PRM_PRD_0737,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,244
+PRM_PRD_0738,PRM02,Pajamas & Loungewear,False,1,Acrilico Basic,434
+PRM_PRD_0739,PRM05,Licensed Graphic Tees,False,1,Acrilico Basic,190
+PRM_PRD_0740,PRM01,Licensed Graphic Tees,False,1,Misto Viscosa,224
+PRM_PRD_0741,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),948
+PRM_PRD_0742,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),406
+PRM_PRD_0743,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,178
+PRM_PRD_0744,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,876
+PRM_PRD_0745,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,192
+PRM_PRD_0746,PRM01,Pajamas & Loungewear,False,1,Misto Viscosa,448
+PRM_PRD_0747,PRM01,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,630
+PRM_PRD_0748,PRM05,Fast Footwear,False,1,Cotone Sostenibile (PSCP),663
+PRM_PRD_0749,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,858
+PRM_PRD_0750,PRM02,Denim,False,1,Misto Viscosa,905
+PRM_PRD_0751,PRM05,Fast Footwear,False,1,Misto Viscosa,402
+PRM_PRD_0752,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,520
+PRM_PRD_0753,PRM03,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,532
+PRM_PRD_0754,PRM03,Fast Footwear,False,1,Poliestere Economico,627
+PRM_PRD_0755,PRM03,Pajamas & Loungewear,False,1,Misto Viscosa,650
+PRM_PRD_0756,PRM03,Fast Footwear,False,1,Misto Viscosa,531
+PRM_PRD_0757,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),813
+PRM_PRD_0758,PRM05,Licensed Graphic Tees,False,1,Misto Viscosa,185
+PRM_PRD_0759,PRM01,Pajamas & Loungewear,False,1,Misto Viscosa,417
+PRM_PRD_0760,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,183
+PRM_PRD_0761,PRM04,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,495
+PRM_PRD_0762,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,345
+PRM_PRD_0763,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,479
+PRM_PRD_0764,PRM02,Pajamas & Loungewear,False,1,Misto Viscosa,472
+PRM_PRD_0765,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,150
+PRM_PRD_0766,PRM04,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,213
+PRM_PRD_0767,PRM01,Licensed Graphic Tees,False,1,Poliestere Economico,249
+PRM_PRD_0768,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),516
+PRM_PRD_0769,PRM02,Licensed Graphic Tees,False,1,Acrilico Basic,199
+PRM_PRD_0770,PRM01,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,215
+PRM_PRD_0771,PRM01,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,581
+PRM_PRD_0772,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,439
+PRM_PRD_0773,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,479
+PRM_PRD_0774,PRM02,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,441
+PRM_PRD_0775,PRM04,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,395
+PRM_PRD_0776,PRM04,Denim,False,1,Poliestere Economico,604
+PRM_PRD_0777,PRM04,Denim,False,1,Cotone Sostenibile (PSCP),737
+PRM_PRD_0778,PRM04,Fast Footwear,False,1,Poliestere Economico,529
+PRM_PRD_0779,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,740
+PRM_PRD_0780,PRM05,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),249
+PRM_PRD_0781,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),226
+PRM_PRD_0782,PRM04,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),245
+PRM_PRD_0783,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,406
+PRM_PRD_0784,PRM01,Licensed Graphic Tees,False,1,Misto Viscosa,192
+PRM_PRD_0785,PRM04,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),187
+PRM_PRD_0786,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,680
+PRM_PRD_0787,PRM01,Licensed Graphic Tees,False,1,Misto Viscosa,209
+PRM_PRD_0788,PRM02,Fast Footwear,False,1,Misto Viscosa,411
+PRM_PRD_0789,PRM05,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,694
+PRM_PRD_0790,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),492
+PRM_PRD_0791,PRM01,Licensed Graphic Tees,False,1,Acrilico Basic,153
+PRM_PRD_0792,PRM04,Fast Footwear,False,1,Misto Viscosa,679
+PRM_PRD_0793,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),596
+PRM_PRD_0794,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,672
+PRM_PRD_0795,PRM02,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,195
+PRM_PRD_0796,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,240
+PRM_PRD_0797,PRM05,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,469
+PRM_PRD_0798,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,646
+PRM_PRD_0799,PRM04,Denim,False,1,Poliestere Economico,662
+PRM_PRD_0800,PRM04,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,264
+PRM_PRD_0801,PRM04,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,490
+PRM_PRD_0802,PRM02,Licensed Graphic Tees,False,1,Poliestere Economico,190
+PRM_PRD_0803,PRM03,Denim,False,1,Misto Viscosa,900
+PRM_PRD_0804,PRM03,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,452
+PRM_PRD_0805,PRM01,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,707
+PRM_PRD_0806,PRM01,Fast Footwear,False,1,Poliestere Economico,771
+PRM_PRD_0807,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),168
+PRM_PRD_0808,PRM01,Fast Footwear,False,1,Misto Viscosa,543
+PRM_PRD_0809,PRM03,Denim,False,1,Cotone Sostenibile (PSCP),851
+PRM_PRD_0810,PRM05,Denim,False,1,Acrilico Basic,912
+PRM_PRD_0811,PRM04,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,574
+PRM_PRD_0812,PRM02,Fast Footwear,False,1,Cotone Sostenibile (PSCP),493
+PRM_PRD_0813,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,451
+PRM_PRD_0814,PRM05,Denim,False,1,Cotone Sostenibile (PSCP),699
+PRM_PRD_0815,PRM01,Licensed Graphic Tees,False,1,Poliestere Economico,249
+PRM_PRD_0816,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,526
+PRM_PRD_0817,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,338
+PRM_PRD_0818,PRM01,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,501
+PRM_PRD_0819,PRM03,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,368
+PRM_PRD_0820,PRM04,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,276
+PRM_PRD_0821,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,919
+PRM_PRD_0822,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,567
+PRM_PRD_0823,PRM02,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),315
+PRM_PRD_0824,PRM03,Pajamas & Loungewear,False,1,Misto Viscosa,406
+PRM_PRD_0825,PRM02,Denim,False,1,Cotone Sostenibile (PSCP),910
+PRM_PRD_0826,PRM02,Licensed Graphic Tees,False,1,Acrilico Basic,184
+PRM_PRD_0827,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),448
+PRM_PRD_0828,PRM05,Denim,False,1,Acrilico Basic,922
+PRM_PRD_0829,PRM01,Pajamas & Loungewear,False,1,Misto Viscosa,539
+PRM_PRD_0830,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,165
+PRM_PRD_0831,PRM02,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,480
+PRM_PRD_0832,PRM03,Pajamas & Loungewear,False,1,Misto Viscosa,682
+PRM_PRD_0833,PRM01,Licensed Graphic Tees,False,1,Poliestere Economico,243
+PRM_PRD_0834,PRM01,Pajamas & Loungewear,False,1,Acrilico Basic,394
+PRM_PRD_0835,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,556
+PRM_PRD_0836,PRM01,Denim,False,1,Poliestere Economico,856
+PRM_PRD_0837,PRM04,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,602
+PRM_PRD_0838,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,505
+PRM_PRD_0839,PRM02,Pajamas & Loungewear,False,1,Acrilico Basic,537
+PRM_PRD_0840,PRM03,Pajamas & Loungewear,False,1,Acrilico Basic,536
+PRM_PRD_0841,PRM02,Multipack Basics (Socks/Undies),True,7,Misto Viscosa,518
+PRM_PRD_0842,PRM02,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,371
+PRM_PRD_0843,PRM02,Fast Footwear,False,1,Acrilico Basic,614
+PRM_PRD_0844,PRM02,Denim,False,1,Misto Viscosa,811
+PRM_PRD_0845,PRM03,Denim,False,1,Misto Viscosa,844
+PRM_PRD_0846,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,195
+PRM_PRD_0847,PRM02,Fast Footwear,False,1,Acrilico Basic,579
+PRM_PRD_0848,PRM02,Denim,False,1,Cotone Sostenibile (PSCP),949
+PRM_PRD_0849,PRM02,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),238
+PRM_PRD_0850,PRM04,Denim,False,1,Poliestere Economico,896
+PRM_PRD_0851,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),590
+PRM_PRD_0852,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,621
+PRM_PRD_0853,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,727
+PRM_PRD_0854,PRM01,Pajamas & Loungewear,False,1,Misto Viscosa,418
+PRM_PRD_0855,PRM02,Fast Footwear,False,1,Cotone Sostenibile (PSCP),777
+PRM_PRD_0856,PRM02,Fast Footwear,False,1,Misto Viscosa,435
+PRM_PRD_0857,PRM05,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,175
+PRM_PRD_0858,PRM02,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,400
+PRM_PRD_0859,PRM02,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,315
+PRM_PRD_0860,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,174
+PRM_PRD_0861,PRM04,Fast Footwear,False,1,Acrilico Basic,756
+PRM_PRD_0862,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,466
+PRM_PRD_0863,PRM01,Multipack Basics (Socks/Undies),True,5,Cotone Convenzionale Basso Costo,255
+PRM_PRD_0864,PRM01,Denim,False,1,Acrilico Basic,702
+PRM_PRD_0865,PRM01,Pajamas & Loungewear,False,1,Poliestere Economico,439
+PRM_PRD_0866,PRM02,Pajamas & Loungewear,False,1,Misto Viscosa,462
+PRM_PRD_0867,PRM01,Denim,False,1,Cotone Sostenibile (PSCP),667
+PRM_PRD_0868,PRM01,Denim,False,1,Poliestere Economico,653
+PRM_PRD_0869,PRM04,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,590
+PRM_PRD_0870,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,215
+PRM_PRD_0871,PRM03,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),465
+PRM_PRD_0872,PRM04,Denim,False,1,Acrilico Basic,927
+PRM_PRD_0873,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,245
+PRM_PRD_0874,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,250
+PRM_PRD_0875,PRM02,Fast Footwear,False,1,Acrilico Basic,570
+PRM_PRD_0876,PRM03,Denim,False,1,Cotone Sostenibile (PSCP),895
+PRM_PRD_0877,PRM05,Denim,False,1,Cotone Sostenibile (PSCP),864
+PRM_PRD_0878,PRM03,Licensed Graphic Tees,False,1,Poliestere Economico,228
+PRM_PRD_0879,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,397
+PRM_PRD_0880,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),525
+PRM_PRD_0881,PRM01,Licensed Graphic Tees,False,1,Poliestere Economico,230
+PRM_PRD_0882,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),476
+PRM_PRD_0883,PRM03,Denim,False,1,Poliestere Economico,928
+PRM_PRD_0884,PRM01,Licensed Graphic Tees,False,1,Poliestere Economico,187
+PRM_PRD_0885,PRM04,Licensed Graphic Tees,False,1,Poliestere Economico,151
+PRM_PRD_0886,PRM05,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,481
+PRM_PRD_0887,PRM03,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),285
+PRM_PRD_0888,PRM02,Fast Footwear,False,1,Misto Viscosa,689
+PRM_PRD_0889,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,522
+PRM_PRD_0890,PRM02,Licensed Graphic Tees,False,1,Misto Viscosa,249
+PRM_PRD_0891,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,444
+PRM_PRD_0892,PRM04,Fast Footwear,False,1,Misto Viscosa,448
+PRM_PRD_0893,PRM05,Fast Footwear,False,1,Acrilico Basic,489
+PRM_PRD_0894,PRM01,Licensed Graphic Tees,False,1,Acrilico Basic,163
+PRM_PRD_0895,PRM03,Fast Footwear,False,1,Poliestere Economico,628
+PRM_PRD_0896,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,453
+PRM_PRD_0897,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,752
+PRM_PRD_0898,PRM02,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,557
+PRM_PRD_0899,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,210
+PRM_PRD_0900,PRM03,Licensed Graphic Tees,False,1,Poliestere Economico,197
+PRM_PRD_0901,PRM03,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,437
+PRM_PRD_0902,PRM01,Fast Footwear,False,1,Acrilico Basic,721
+PRM_PRD_0903,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),654
+PRM_PRD_0904,PRM02,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,587
+PRM_PRD_0905,PRM05,Multipack Basics (Socks/Undies),True,5,Cotone Convenzionale Basso Costo,345
+PRM_PRD_0906,PRM04,Multipack Basics (Socks/Undies),True,7,Cotone Convenzionale Basso Costo,595
+PRM_PRD_0907,PRM03,Denim,False,1,Acrilico Basic,727
+PRM_PRD_0908,PRM05,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),680
+PRM_PRD_0909,PRM01,Pajamas & Loungewear,False,1,Poliestere Economico,554
+PRM_PRD_0910,PRM02,Licensed Graphic Tees,False,1,Acrilico Basic,236
+PRM_PRD_0911,PRM05,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),186
+PRM_PRD_0912,PRM03,Denim,False,1,Misto Viscosa,678
+PRM_PRD_0913,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,207
+PRM_PRD_0914,PRM03,Fast Footwear,False,1,Acrilico Basic,786
+PRM_PRD_0915,PRM02,Pajamas & Loungewear,False,1,Acrilico Basic,322
+PRM_PRD_0916,PRM01,Pajamas & Loungewear,False,1,Acrilico Basic,543
+PRM_PRD_0917,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,553
+PRM_PRD_0918,PRM03,Licensed Graphic Tees,False,1,Acrilico Basic,221
+PRM_PRD_0919,PRM05,Pajamas & Loungewear,False,1,Acrilico Basic,621
+PRM_PRD_0920,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,893
+PRM_PRD_0921,PRM05,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),156
+PRM_PRD_0922,PRM03,Multipack Basics (Socks/Undies),True,5,Misto Viscosa,405
+PRM_PRD_0923,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,247
+PRM_PRD_0924,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,217
+PRM_PRD_0925,PRM02,Licensed Graphic Tees,False,1,Acrilico Basic,164
+PRM_PRD_0926,PRM03,Pajamas & Loungewear,False,1,Poliestere Economico,531
+PRM_PRD_0927,PRM04,Denim,False,1,Cotone Convenzionale Basso Costo,916
+PRM_PRD_0928,PRM03,Denim,False,1,Misto Viscosa,925
+PRM_PRD_0929,PRM02,Pajamas & Loungewear,False,1,Poliestere Economico,621
+PRM_PRD_0930,PRM02,Denim,False,1,Acrilico Basic,774
+PRM_PRD_0931,PRM03,Fast Footwear,False,1,Misto Viscosa,675
+PRM_PRD_0932,PRM05,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),196
+PRM_PRD_0933,PRM04,Denim,False,1,Poliestere Economico,843
+PRM_PRD_0934,PRM04,Fast Footwear,False,1,Acrilico Basic,573
+PRM_PRD_0935,PRM01,Fast Footwear,False,1,Poliestere Economico,597
+PRM_PRD_0936,PRM02,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),275
+PRM_PRD_0937,PRM01,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,599
+PRM_PRD_0938,PRM02,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,511
+PRM_PRD_0939,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,234
+PRM_PRD_0940,PRM04,Multipack Basics (Socks/Undies),True,3,Poliestere Economico,183
+PRM_PRD_0941,PRM05,Licensed Graphic Tees,False,1,Poliestere Economico,219
+PRM_PRD_0942,PRM03,Fast Footwear,False,1,Cotone Sostenibile (PSCP),627
+PRM_PRD_0943,PRM04,Denim,False,1,Acrilico Basic,679
+PRM_PRD_0944,PRM05,Licensed Graphic Tees,False,1,Acrilico Basic,152
+PRM_PRD_0945,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,595
+PRM_PRD_0946,PRM05,Multipack Basics (Socks/Undies),True,5,Cotone Sostenibile (PSCP),415
+PRM_PRD_0947,PRM04,Licensed Graphic Tees,False,1,Acrilico Basic,243
+PRM_PRD_0948,PRM02,Denim,False,1,Acrilico Basic,876
+PRM_PRD_0949,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,792
+PRM_PRD_0950,PRM01,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,574
+PRM_PRD_0951,PRM01,Denim,False,1,Poliestere Economico,808
+PRM_PRD_0952,PRM03,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),383
+PRM_PRD_0953,PRM05,Denim,False,1,Cotone Sostenibile (PSCP),865
+PRM_PRD_0954,PRM03,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,528
+PRM_PRD_0955,PRM03,Denim,False,1,Cotone Convenzionale Basso Costo,904
+PRM_PRD_0956,PRM03,Pajamas & Loungewear,False,1,Misto Viscosa,338
+PRM_PRD_0957,PRM05,Denim,False,1,Poliestere Economico,728
+PRM_PRD_0958,PRM01,Pajamas & Loungewear,False,1,Misto Viscosa,314
+PRM_PRD_0959,PRM04,Pajamas & Loungewear,False,1,Misto Viscosa,424
+PRM_PRD_0960,PRM05,Fast Footwear,False,1,Cotone Sostenibile (PSCP),616
+PRM_PRD_0961,PRM03,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,204
+PRM_PRD_0962,PRM02,Multipack Basics (Socks/Undies),True,7,Acrilico Basic,371
+PRM_PRD_0963,PRM04,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),164
+PRM_PRD_0964,PRM02,Denim,False,1,Misto Viscosa,754
+PRM_PRD_0965,PRM01,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),222
+PRM_PRD_0966,PRM05,Licensed Graphic Tees,False,1,Cotone Sostenibile (PSCP),158
+PRM_PRD_0967,PRM03,Multipack Basics (Socks/Undies),True,3,Misto Viscosa,237
+PRM_PRD_0968,PRM01,Licensed Graphic Tees,False,1,Misto Viscosa,173
+PRM_PRD_0969,PRM04,Licensed Graphic Tees,False,1,Misto Viscosa,188
+PRM_PRD_0970,PRM03,Fast Footwear,False,1,Poliestere Economico,528
+PRM_PRD_0971,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,488
+PRM_PRD_0972,PRM03,Multipack Basics (Socks/Undies),True,5,Acrilico Basic,490
+PRM_PRD_0973,PRM03,Multipack Basics (Socks/Undies),True,3,Acrilico Basic,285
+PRM_PRD_0974,PRM05,Multipack Basics (Socks/Undies),True,3,Cotone Sostenibile (PSCP),231
+PRM_PRD_0975,PRM02,Licensed Graphic Tees,False,1,Misto Viscosa,154
+PRM_PRD_0976,PRM03,Licensed Graphic Tees,False,1,Misto Viscosa,212
+PRM_PRD_0977,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),561
+PRM_PRD_0978,PRM02,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,626
+PRM_PRD_0979,PRM02,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),696
+PRM_PRD_0980,PRM03,Licensed Graphic Tees,False,1,Acrilico Basic,175
+PRM_PRD_0981,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,156
+PRM_PRD_0982,PRM04,Denim,False,1,Misto Viscosa,628
+PRM_PRD_0983,PRM01,Fast Footwear,False,1,Misto Viscosa,612
+PRM_PRD_0984,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,156
+PRM_PRD_0985,PRM01,Pajamas & Loungewear,False,1,Poliestere Economico,621
+PRM_PRD_0986,PRM05,Pajamas & Loungewear,False,1,Poliestere Economico,695
+PRM_PRD_0987,PRM05,Pajamas & Loungewear,False,1,Misto Viscosa,681
+PRM_PRD_0988,PRM04,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,176
+PRM_PRD_0989,PRM04,Pajamas & Loungewear,False,1,Cotone Convenzionale Basso Costo,620
+PRM_PRD_0990,PRM05,Multipack Basics (Socks/Undies),True,7,Poliestere Economico,406
+PRM_PRD_0991,PRM02,Licensed Graphic Tees,False,1,Cotone Convenzionale Basso Costo,242
+PRM_PRD_0992,PRM05,Fast Footwear,False,1,Misto Viscosa,769
+PRM_PRD_0993,PRM05,Fast Footwear,False,1,Cotone Sostenibile (PSCP),644
+PRM_PRD_0994,PRM02,Fast Footwear,False,1,Poliestere Economico,766
+PRM_PRD_0995,PRM01,Pajamas & Loungewear,False,1,Cotone Sostenibile (PSCP),517
+PRM_PRD_0996,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,547
+PRM_PRD_0997,PRM02,Fast Footwear,False,1,Cotone Sostenibile (PSCP),474
+PRM_PRD_0998,PRM04,Pajamas & Loungewear,False,1,Poliestere Economico,325
+PRM_PRD_0999,PRM03,Fast Footwear,False,1,Cotone Convenzionale Basso Costo,573

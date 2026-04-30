@@ -1,0 +1,1001 @@
+product_id,brand_id,category,collection_cycle,main_material,weight_grams
+SKU_000000,SHN04,Leggings,Daily_Real_Time,Nylon,198
+SKU_000001,SHN06,Leggings,Daily_Real_Time,Cotone Misto,174
+SKU_000002,SHN07,Leggings,Daily_Real_Time,Poliestere Vergine,188
+SKU_000003,SHN05,Swimwear,Daily_Real_Time,Poliestere Vergine,115
+SKU_000004,SHN07,Swimwear,Daily_Real_Time,Nylon,120
+SKU_000005,SHN01,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),186
+SKU_000006,SHN01,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),125
+SKU_000007,SHN02,Tops & Corsets,Daily_Real_Time,Nylon,133
+SKU_000008,SHN07,Tops & Corsets,Daily_Real_Time,Acrilico,118
+SKU_000009,SHN02,Shoes,Daily_Real_Time,Nylon,310
+SKU_000010,SHN01,Shoes,Daily_Real_Time,Nylon,600
+SKU_000011,SHN02,Shoes,Daily_Real_Time,Poliestere Vergine,328
+SKU_000012,SHN05,Tops & Corsets,Daily_Real_Time,Cotone Misto,104
+SKU_000013,SHN03,Tops & Corsets,Daily_Real_Time,Cotone Misto,187
+SKU_000014,SHN02,Mini Dresses,Daily_Real_Time,Nylon,187
+SKU_000015,SHN07,Leggings,Daily_Real_Time,Cotone Misto,123
+SKU_000016,SHN06,Leggings,Daily_Real_Time,Acrilico,193
+SKU_000017,SHN05,Accessories,Daily_Real_Time,Cotone Misto,48
+SKU_000018,SHN07,Swimwear,Daily_Real_Time,Poliestere Vergine,144
+SKU_000019,SHN01,Accessories,Daily_Real_Time,Nylon,59
+SKU_000020,SHN03,Leggings,Daily_Real_Time,Acrilico,128
+SKU_000021,SHN02,Accessories,Daily_Real_Time,Acrilico,87
+SKU_000022,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),584
+SKU_000023,SHN01,Swimwear,Daily_Real_Time,PU (Ecopelle),139
+SKU_000024,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,197
+SKU_000025,SHN01,Shoes,Daily_Real_Time,PU (Ecopelle),547
+SKU_000026,SHN01,Swimwear,Daily_Real_Time,Poliestere Vergine,104
+SKU_000027,SHN01,Mini Dresses,Daily_Real_Time,Acrilico,243
+SKU_000028,SHN07,Shoes,Daily_Real_Time,Nylon,473
+SKU_000029,SHN05,Mini Dresses,Daily_Real_Time,Spandex (Elastan),208
+SKU_000030,SHN06,Leggings,Daily_Real_Time,Poliestere Vergine,167
+SKU_000031,SHN06,Swimwear,Daily_Real_Time,Cotone Misto,150
+SKU_000032,SHN07,Mini Dresses,Daily_Real_Time,PU (Ecopelle),169
+SKU_000033,SHN02,Mini Dresses,Daily_Real_Time,Cotone Misto,193
+SKU_000034,SHN03,Shoes,Daily_Real_Time,Poliestere Vergine,461
+SKU_000035,SHN02,Swimwear,Daily_Real_Time,Spandex (Elastan),102
+SKU_000036,SHN07,Accessories,Daily_Real_Time,Spandex (Elastan),73
+SKU_000037,SHN04,Swimwear,Daily_Real_Time,Spandex (Elastan),128
+SKU_000038,SHN05,Mini Dresses,Daily_Real_Time,Spandex (Elastan),191
+SKU_000039,SHN05,Leggings,Daily_Real_Time,Spandex (Elastan),126
+SKU_000040,SHN01,Accessories,Daily_Real_Time,PU (Ecopelle),52
+SKU_000041,SHN04,Swimwear,Daily_Real_Time,Acrilico,90
+SKU_000042,SHN03,Tops & Corsets,Daily_Real_Time,Acrilico,185
+SKU_000043,SHN06,Accessories,Daily_Real_Time,Acrilico,47
+SKU_000044,SHN01,Accessories,Daily_Real_Time,Cotone Misto,61
+SKU_000045,SHN07,Swimwear,Daily_Real_Time,Cotone Misto,130
+SKU_000046,SHN03,Tops & Corsets,Daily_Real_Time,Acrilico,191
+SKU_000047,SHN01,Accessories,Daily_Real_Time,Poliestere Vergine,28
+SKU_000048,SHN05,Leggings,Daily_Real_Time,Cotone Misto,197
+SKU_000049,SHN07,Mini Dresses,Daily_Real_Time,Poliestere Vergine,174
+SKU_000050,SHN01,Leggings,Daily_Real_Time,Nylon,125
+SKU_000051,SHN05,Tops & Corsets,Daily_Real_Time,Nylon,117
+SKU_000052,SHN03,Mini Dresses,Daily_Real_Time,Cotone Misto,208
+SKU_000053,SHN01,Accessories,Daily_Real_Time,Nylon,95
+SKU_000054,SHN02,Swimwear,Daily_Real_Time,Cotone Misto,113
+SKU_000055,SHN04,Swimwear,Daily_Real_Time,Spandex (Elastan),125
+SKU_000056,SHN01,Swimwear,Daily_Real_Time,Nylon,106
+SKU_000057,SHN02,Shoes,Daily_Real_Time,PU (Ecopelle),428
+SKU_000058,SHN06,Mini Dresses,Daily_Real_Time,Cotone Misto,250
+SKU_000059,SHN06,Mini Dresses,Daily_Real_Time,Acrilico,181
+SKU_000060,SHN07,Swimwear,Daily_Real_Time,Spandex (Elastan),131
+SKU_000061,SHN03,Accessories,Daily_Real_Time,Poliestere Vergine,60
+SKU_000062,SHN01,Swimwear,Daily_Real_Time,Nylon,99
+SKU_000063,SHN04,Leggings,Daily_Real_Time,Acrilico,175
+SKU_000064,SHN02,Accessories,Daily_Real_Time,PU (Ecopelle),60
+SKU_000065,SHN07,Leggings,Daily_Real_Time,Acrilico,146
+SKU_000066,SHN02,Swimwear,Daily_Real_Time,PU (Ecopelle),146
+SKU_000067,SHN02,Leggings,Daily_Real_Time,Acrilico,122
+SKU_000068,SHN07,Leggings,Daily_Real_Time,Cotone Misto,137
+SKU_000069,SHN01,Accessories,Daily_Real_Time,Cotone Misto,94
+SKU_000070,SHN07,Tops & Corsets,Daily_Real_Time,Cotone Misto,106
+SKU_000071,SHN07,Leggings,Daily_Real_Time,Nylon,126
+SKU_000072,SHN07,Swimwear,Daily_Real_Time,Spandex (Elastan),132
+SKU_000073,SHN07,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,172
+SKU_000074,SHN01,Tops & Corsets,Daily_Real_Time,Acrilico,154
+SKU_000075,SHN06,Accessories,Daily_Real_Time,PU (Ecopelle),42
+SKU_000076,SHN04,Swimwear,Daily_Real_Time,Cotone Misto,82
+SKU_000077,SHN04,Mini Dresses,Daily_Real_Time,Cotone Misto,249
+SKU_000078,SHN06,Swimwear,Daily_Real_Time,Acrilico,131
+SKU_000079,SHN02,Accessories,Daily_Real_Time,Cotone Misto,90
+SKU_000080,SHN01,Swimwear,Daily_Real_Time,Nylon,132
+SKU_000081,SHN01,Accessories,Daily_Real_Time,Nylon,37
+SKU_000082,SHN03,Swimwear,Daily_Real_Time,Spandex (Elastan),141
+SKU_000083,SHN05,Leggings,Daily_Real_Time,Cotone Misto,155
+SKU_000084,SHN07,Swimwear,Daily_Real_Time,Cotone Misto,107
+SKU_000085,SHN05,Leggings,Daily_Real_Time,Cotone Misto,115
+SKU_000086,SHN05,Shoes,Daily_Real_Time,Poliestere Vergine,315
+SKU_000087,SHN01,Leggings,Daily_Real_Time,Cotone Misto,138
+SKU_000088,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),547
+SKU_000089,SHN02,Leggings,Daily_Real_Time,Nylon,142
+SKU_000090,SHN04,Shoes,Daily_Real_Time,Poliestere Vergine,434
+SKU_000091,SHN01,Mini Dresses,Daily_Real_Time,Acrilico,250
+SKU_000092,SHN06,Mini Dresses,Daily_Real_Time,Acrilico,231
+SKU_000093,SHN03,Swimwear,Daily_Real_Time,PU (Ecopelle),129
+SKU_000094,SHN06,Shoes,Daily_Real_Time,Nylon,445
+SKU_000095,SHN05,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),126
+SKU_000096,SHN02,Tops & Corsets,Daily_Real_Time,Cotone Misto,101
+SKU_000097,SHN03,Accessories,Daily_Real_Time,Cotone Misto,62
+SKU_000098,SHN04,Shoes,Daily_Real_Time,Spandex (Elastan),474
+SKU_000099,SHN04,Mini Dresses,Daily_Real_Time,Nylon,199
+SKU_000100,SHN07,Leggings,Daily_Real_Time,Poliestere Vergine,107
+SKU_000101,SHN01,Leggings,Daily_Real_Time,Cotone Misto,144
+SKU_000102,SHN06,Leggings,Daily_Real_Time,Spandex (Elastan),177
+SKU_000103,SHN01,Shoes,Daily_Real_Time,PU (Ecopelle),375
+SKU_000104,SHN02,Shoes,Daily_Real_Time,Poliestere Vergine,394
+SKU_000105,SHN03,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),183
+SKU_000106,SHN01,Mini Dresses,Daily_Real_Time,PU (Ecopelle),180
+SKU_000107,SHN05,Leggings,Daily_Real_Time,Nylon,100
+SKU_000108,SHN03,Shoes,Daily_Real_Time,Acrilico,424
+SKU_000109,SHN02,Mini Dresses,Daily_Real_Time,Acrilico,221
+SKU_000110,SHN01,Mini Dresses,Daily_Real_Time,Spandex (Elastan),204
+SKU_000111,SHN02,Shoes,Daily_Real_Time,Spandex (Elastan),524
+SKU_000112,SHN05,Shoes,Daily_Real_Time,Spandex (Elastan),307
+SKU_000113,SHN04,Swimwear,Daily_Real_Time,Acrilico,83
+SKU_000114,SHN06,Swimwear,Daily_Real_Time,PU (Ecopelle),136
+SKU_000115,SHN04,Leggings,Daily_Real_Time,Poliestere Vergine,113
+SKU_000116,SHN02,Accessories,Daily_Real_Time,Nylon,52
+SKU_000117,SHN04,Shoes,Daily_Real_Time,Spandex (Elastan),335
+SKU_000118,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),320
+SKU_000119,SHN07,Swimwear,Daily_Real_Time,PU (Ecopelle),119
+SKU_000120,SHN07,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,145
+SKU_000121,SHN07,Tops & Corsets,Daily_Real_Time,Acrilico,167
+SKU_000122,SHN07,Swimwear,Daily_Real_Time,Poliestere Vergine,144
+SKU_000123,SHN01,Leggings,Daily_Real_Time,Acrilico,176
+SKU_000124,SHN04,Mini Dresses,Daily_Real_Time,Poliestere Vergine,173
+SKU_000125,SHN02,Mini Dresses,Daily_Real_Time,Cotone Misto,206
+SKU_000126,SHN07,Mini Dresses,Daily_Real_Time,Spandex (Elastan),215
+SKU_000127,SHN02,Tops & Corsets,Daily_Real_Time,Acrilico,158
+SKU_000128,SHN01,Shoes,Daily_Real_Time,Spandex (Elastan),476
+SKU_000129,SHN01,Shoes,Daily_Real_Time,Nylon,460
+SKU_000130,SHN07,Leggings,Daily_Real_Time,PU (Ecopelle),198
+SKU_000131,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,192
+SKU_000132,SHN04,Swimwear,Daily_Real_Time,Acrilico,92
+SKU_000133,SHN06,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),194
+SKU_000134,SHN02,Shoes,Daily_Real_Time,Poliestere Vergine,585
+SKU_000135,SHN07,Swimwear,Daily_Real_Time,Acrilico,94
+SKU_000136,SHN03,Leggings,Daily_Real_Time,Cotone Misto,137
+SKU_000137,SHN06,Shoes,Daily_Real_Time,Spandex (Elastan),387
+SKU_000138,SHN02,Shoes,Daily_Real_Time,Cotone Misto,307
+SKU_000139,SHN03,Mini Dresses,Daily_Real_Time,Cotone Misto,153
+SKU_000140,SHN02,Swimwear,Daily_Real_Time,Acrilico,133
+SKU_000141,SHN05,Tops & Corsets,Daily_Real_Time,Nylon,142
+SKU_000142,SHN05,Swimwear,Daily_Real_Time,PU (Ecopelle),101
+SKU_000143,SHN01,Swimwear,Daily_Real_Time,Acrilico,109
+SKU_000144,SHN03,Accessories,Daily_Real_Time,Acrilico,58
+SKU_000145,SHN06,Mini Dresses,Daily_Real_Time,Nylon,245
+SKU_000146,SHN07,Accessories,Daily_Real_Time,Spandex (Elastan),78
+SKU_000147,SHN04,Tops & Corsets,Daily_Real_Time,Acrilico,186
+SKU_000148,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),570
+SKU_000149,SHN06,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),182
+SKU_000150,SHN04,Swimwear,Daily_Real_Time,Acrilico,123
+SKU_000151,SHN02,Accessories,Daily_Real_Time,Nylon,31
+SKU_000152,SHN06,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),120
+SKU_000153,SHN05,Swimwear,Daily_Real_Time,Spandex (Elastan),101
+SKU_000154,SHN07,Shoes,Daily_Real_Time,Cotone Misto,357
+SKU_000155,SHN01,Swimwear,Daily_Real_Time,Cotone Misto,85
+SKU_000156,SHN07,Leggings,Daily_Real_Time,Acrilico,128
+SKU_000157,SHN07,Accessories,Daily_Real_Time,Spandex (Elastan),24
+SKU_000158,SHN01,Shoes,Daily_Real_Time,Poliestere Vergine,477
+SKU_000159,SHN04,Accessories,Daily_Real_Time,PU (Ecopelle),39
+SKU_000160,SHN02,Mini Dresses,Daily_Real_Time,Nylon,221
+SKU_000161,SHN07,Mini Dresses,Daily_Real_Time,Spandex (Elastan),168
+SKU_000162,SHN05,Shoes,Daily_Real_Time,Nylon,311
+SKU_000163,SHN05,Accessories,Daily_Real_Time,Poliestere Vergine,61
+SKU_000164,SHN07,Swimwear,Daily_Real_Time,PU (Ecopelle),119
+SKU_000165,SHN07,Shoes,Daily_Real_Time,PU (Ecopelle),428
+SKU_000166,SHN07,Swimwear,Daily_Real_Time,Acrilico,143
+SKU_000167,SHN02,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,103
+SKU_000168,SHN07,Leggings,Daily_Real_Time,Acrilico,115
+SKU_000169,SHN05,Mini Dresses,Daily_Real_Time,Nylon,205
+SKU_000170,SHN05,Swimwear,Daily_Real_Time,Spandex (Elastan),103
+SKU_000171,SHN06,Shoes,Daily_Real_Time,Spandex (Elastan),541
+SKU_000172,SHN06,Swimwear,Daily_Real_Time,Poliestere Vergine,102
+SKU_000173,SHN02,Mini Dresses,Daily_Real_Time,Spandex (Elastan),180
+SKU_000174,SHN01,Swimwear,Daily_Real_Time,Spandex (Elastan),123
+SKU_000175,SHN03,Leggings,Daily_Real_Time,Spandex (Elastan),197
+SKU_000176,SHN06,Accessories,Daily_Real_Time,Poliestere Vergine,48
+SKU_000177,SHN05,Leggings,Daily_Real_Time,Spandex (Elastan),172
+SKU_000178,SHN02,Accessories,Daily_Real_Time,Acrilico,30
+SKU_000179,SHN06,Swimwear,Daily_Real_Time,Acrilico,92
+SKU_000180,SHN07,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,102
+SKU_000181,SHN03,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,153
+SKU_000182,SHN05,Mini Dresses,Daily_Real_Time,Cotone Misto,243
+SKU_000183,SHN03,Leggings,Daily_Real_Time,Nylon,102
+SKU_000184,SHN04,Swimwear,Daily_Real_Time,PU (Ecopelle),143
+SKU_000185,SHN04,Swimwear,Daily_Real_Time,Spandex (Elastan),146
+SKU_000186,SHN06,Leggings,Daily_Real_Time,Acrilico,172
+SKU_000187,SHN04,Leggings,Daily_Real_Time,Cotone Misto,175
+SKU_000188,SHN05,Tops & Corsets,Daily_Real_Time,Cotone Misto,158
+SKU_000189,SHN04,Mini Dresses,Daily_Real_Time,Cotone Misto,163
+SKU_000190,SHN02,Leggings,Daily_Real_Time,Cotone Misto,105
+SKU_000191,SHN02,Leggings,Daily_Real_Time,PU (Ecopelle),189
+SKU_000192,SHN05,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),120
+SKU_000193,SHN04,Leggings,Daily_Real_Time,Acrilico,130
+SKU_000194,SHN05,Swimwear,Daily_Real_Time,Nylon,141
+SKU_000195,SHN07,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),132
+SKU_000196,SHN02,Mini Dresses,Daily_Real_Time,Poliestere Vergine,154
+SKU_000197,SHN04,Mini Dresses,Daily_Real_Time,Nylon,211
+SKU_000198,SHN07,Leggings,Daily_Real_Time,Cotone Misto,109
+SKU_000199,SHN07,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),153
+SKU_000200,SHN06,Accessories,Daily_Real_Time,PU (Ecopelle),92
+SKU_000201,SHN02,Accessories,Daily_Real_Time,Cotone Misto,65
+SKU_000202,SHN06,Shoes,Daily_Real_Time,PU (Ecopelle),420
+SKU_000203,SHN01,Swimwear,Daily_Real_Time,Cotone Misto,111
+SKU_000204,SHN05,Shoes,Daily_Real_Time,Acrilico,490
+SKU_000205,SHN02,Leggings,Daily_Real_Time,PU (Ecopelle),136
+SKU_000206,SHN07,Swimwear,Daily_Real_Time,Nylon,105
+SKU_000207,SHN05,Mini Dresses,Daily_Real_Time,Nylon,187
+SKU_000208,SHN04,Swimwear,Daily_Real_Time,Acrilico,137
+SKU_000209,SHN07,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),183
+SKU_000210,SHN01,Tops & Corsets,Daily_Real_Time,Nylon,103
+SKU_000211,SHN03,Shoes,Daily_Real_Time,Nylon,330
+SKU_000212,SHN01,Shoes,Daily_Real_Time,Acrilico,396
+SKU_000213,SHN03,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,140
+SKU_000214,SHN02,Tops & Corsets,Daily_Real_Time,Nylon,100
+SKU_000215,SHN05,Tops & Corsets,Daily_Real_Time,Nylon,143
+SKU_000216,SHN03,Tops & Corsets,Daily_Real_Time,Acrilico,189
+SKU_000217,SHN02,Accessories,Daily_Real_Time,Poliestere Vergine,94
+SKU_000218,SHN02,Accessories,Daily_Real_Time,PU (Ecopelle),54
+SKU_000219,SHN06,Mini Dresses,Daily_Real_Time,PU (Ecopelle),239
+SKU_000220,SHN01,Shoes,Daily_Real_Time,Cotone Misto,529
+SKU_000221,SHN04,Tops & Corsets,Daily_Real_Time,Cotone Misto,169
+SKU_000222,SHN05,Mini Dresses,Daily_Real_Time,Acrilico,190
+SKU_000223,SHN07,Shoes,Daily_Real_Time,Acrilico,370
+SKU_000224,SHN02,Swimwear,Daily_Real_Time,PU (Ecopelle),107
+SKU_000225,SHN03,Swimwear,Daily_Real_Time,Poliestere Vergine,119
+SKU_000226,SHN01,Accessories,Daily_Real_Time,Poliestere Vergine,76
+SKU_000227,SHN06,Swimwear,Daily_Real_Time,Cotone Misto,109
+SKU_000228,SHN07,Mini Dresses,Daily_Real_Time,Cotone Misto,164
+SKU_000229,SHN04,Swimwear,Daily_Real_Time,Nylon,117
+SKU_000230,SHN03,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),175
+SKU_000231,SHN01,Mini Dresses,Daily_Real_Time,PU (Ecopelle),168
+SKU_000232,SHN05,Swimwear,Daily_Real_Time,Poliestere Vergine,148
+SKU_000233,SHN06,Shoes,Daily_Real_Time,Nylon,578
+SKU_000234,SHN03,Mini Dresses,Daily_Real_Time,PU (Ecopelle),210
+SKU_000235,SHN01,Leggings,Daily_Real_Time,PU (Ecopelle),121
+SKU_000236,SHN01,Accessories,Daily_Real_Time,Spandex (Elastan),69
+SKU_000237,SHN05,Shoes,Daily_Real_Time,Acrilico,579
+SKU_000238,SHN04,Shoes,Daily_Real_Time,Spandex (Elastan),555
+SKU_000239,SHN04,Accessories,Daily_Real_Time,Cotone Misto,82
+SKU_000240,SHN05,Leggings,Daily_Real_Time,Acrilico,106
+SKU_000241,SHN04,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),197
+SKU_000242,SHN04,Accessories,Daily_Real_Time,Spandex (Elastan),51
+SKU_000243,SHN03,Swimwear,Daily_Real_Time,Poliestere Vergine,100
+SKU_000244,SHN03,Leggings,Daily_Real_Time,Cotone Misto,147
+SKU_000245,SHN01,Accessories,Daily_Real_Time,Nylon,38
+SKU_000246,SHN04,Shoes,Daily_Real_Time,Cotone Misto,521
+SKU_000247,SHN02,Tops & Corsets,Daily_Real_Time,Nylon,121
+SKU_000248,SHN05,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),166
+SKU_000249,SHN03,Shoes,Daily_Real_Time,Poliestere Vergine,517
+SKU_000250,SHN04,Mini Dresses,Daily_Real_Time,PU (Ecopelle),234
+SKU_000251,SHN01,Swimwear,Daily_Real_Time,Nylon,85
+SKU_000252,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),311
+SKU_000253,SHN02,Mini Dresses,Daily_Real_Time,Cotone Misto,215
+SKU_000254,SHN07,Tops & Corsets,Daily_Real_Time,Nylon,168
+SKU_000255,SHN05,Swimwear,Daily_Real_Time,Poliestere Vergine,120
+SKU_000256,SHN01,Accessories,Daily_Real_Time,Acrilico,36
+SKU_000257,SHN07,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),186
+SKU_000258,SHN02,Shoes,Daily_Real_Time,Poliestere Vergine,531
+SKU_000259,SHN02,Shoes,Daily_Real_Time,PU (Ecopelle),498
+SKU_000260,SHN03,Leggings,Daily_Real_Time,Acrilico,131
+SKU_000261,SHN06,Leggings,Daily_Real_Time,Acrilico,172
+SKU_000262,SHN06,Shoes,Daily_Real_Time,Cotone Misto,504
+SKU_000263,SHN05,Accessories,Daily_Real_Time,Cotone Misto,85
+SKU_000264,SHN06,Accessories,Daily_Real_Time,Cotone Misto,63
+SKU_000265,SHN07,Accessories,Daily_Real_Time,Acrilico,85
+SKU_000266,SHN05,Swimwear,Daily_Real_Time,PU (Ecopelle),92
+SKU_000267,SHN01,Mini Dresses,Daily_Real_Time,Poliestere Vergine,162
+SKU_000268,SHN06,Shoes,Daily_Real_Time,Cotone Misto,468
+SKU_000269,SHN02,Shoes,Daily_Real_Time,Cotone Misto,433
+SKU_000270,SHN01,Mini Dresses,Daily_Real_Time,Cotone Misto,151
+SKU_000271,SHN04,Mini Dresses,Daily_Real_Time,Nylon,227
+SKU_000272,SHN03,Leggings,Daily_Real_Time,Poliestere Vergine,166
+SKU_000273,SHN05,Mini Dresses,Daily_Real_Time,Nylon,235
+SKU_000274,SHN04,Leggings,Daily_Real_Time,Spandex (Elastan),145
+SKU_000275,SHN05,Accessories,Daily_Real_Time,Cotone Misto,60
+SKU_000276,SHN07,Swimwear,Daily_Real_Time,Poliestere Vergine,103
+SKU_000277,SHN02,Mini Dresses,Daily_Real_Time,Nylon,163
+SKU_000278,SHN03,Swimwear,Daily_Real_Time,Poliestere Vergine,117
+SKU_000279,SHN03,Mini Dresses,Daily_Real_Time,PU (Ecopelle),243
+SKU_000280,SHN07,Accessories,Daily_Real_Time,PU (Ecopelle),46
+SKU_000281,SHN03,Shoes,Daily_Real_Time,Spandex (Elastan),527
+SKU_000282,SHN02,Leggings,Daily_Real_Time,Spandex (Elastan),149
+SKU_000283,SHN04,Accessories,Daily_Real_Time,PU (Ecopelle),54
+SKU_000284,SHN01,Mini Dresses,Daily_Real_Time,PU (Ecopelle),246
+SKU_000285,SHN03,Accessories,Daily_Real_Time,PU (Ecopelle),48
+SKU_000286,SHN01,Leggings,Daily_Real_Time,Nylon,148
+SKU_000287,SHN07,Accessories,Daily_Real_Time,Acrilico,59
+SKU_000288,SHN03,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),121
+SKU_000289,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,104
+SKU_000290,SHN07,Leggings,Daily_Real_Time,Cotone Misto,119
+SKU_000291,SHN02,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),146
+SKU_000292,SHN05,Tops & Corsets,Daily_Real_Time,Cotone Misto,142
+SKU_000293,SHN05,Mini Dresses,Daily_Real_Time,Cotone Misto,207
+SKU_000294,SHN01,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),177
+SKU_000295,SHN03,Swimwear,Daily_Real_Time,Nylon,127
+SKU_000296,SHN03,Leggings,Daily_Real_Time,Cotone Misto,122
+SKU_000297,SHN04,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,169
+SKU_000298,SHN03,Swimwear,Daily_Real_Time,Spandex (Elastan),87
+SKU_000299,SHN05,Accessories,Daily_Real_Time,Cotone Misto,35
+SKU_000300,SHN03,Accessories,Daily_Real_Time,Poliestere Vergine,44
+SKU_000301,SHN02,Tops & Corsets,Daily_Real_Time,Acrilico,196
+SKU_000302,SHN06,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,197
+SKU_000303,SHN07,Mini Dresses,Daily_Real_Time,PU (Ecopelle),226
+SKU_000304,SHN06,Accessories,Daily_Real_Time,Spandex (Elastan),36
+SKU_000305,SHN02,Leggings,Daily_Real_Time,Spandex (Elastan),160
+SKU_000306,SHN05,Tops & Corsets,Daily_Real_Time,Cotone Misto,186
+SKU_000307,SHN07,Swimwear,Daily_Real_Time,Poliestere Vergine,119
+SKU_000308,SHN01,Leggings,Daily_Real_Time,Cotone Misto,168
+SKU_000309,SHN03,Shoes,Daily_Real_Time,Poliestere Vergine,491
+SKU_000310,SHN03,Mini Dresses,Daily_Real_Time,Acrilico,214
+SKU_000311,SHN07,Mini Dresses,Daily_Real_Time,Spandex (Elastan),179
+SKU_000312,SHN03,Tops & Corsets,Daily_Real_Time,Nylon,135
+SKU_000313,SHN05,Swimwear,Daily_Real_Time,Spandex (Elastan),87
+SKU_000314,SHN01,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,124
+SKU_000315,SHN02,Mini Dresses,Daily_Real_Time,Spandex (Elastan),250
+SKU_000316,SHN05,Mini Dresses,Daily_Real_Time,PU (Ecopelle),172
+SKU_000317,SHN07,Mini Dresses,Daily_Real_Time,PU (Ecopelle),234
+SKU_000318,SHN01,Leggings,Daily_Real_Time,Poliestere Vergine,140
+SKU_000319,SHN04,Leggings,Daily_Real_Time,Cotone Misto,138
+SKU_000320,SHN07,Mini Dresses,Daily_Real_Time,PU (Ecopelle),234
+SKU_000321,SHN01,Leggings,Daily_Real_Time,Acrilico,127
+SKU_000322,SHN01,Mini Dresses,Daily_Real_Time,Acrilico,165
+SKU_000323,SHN03,Tops & Corsets,Daily_Real_Time,Cotone Misto,191
+SKU_000324,SHN05,Accessories,Daily_Real_Time,Spandex (Elastan),34
+SKU_000325,SHN02,Leggings,Daily_Real_Time,PU (Ecopelle),139
+SKU_000326,SHN03,Swimwear,Daily_Real_Time,Acrilico,123
+SKU_000327,SHN06,Accessories,Daily_Real_Time,Cotone Misto,100
+SKU_000328,SHN03,Shoes,Daily_Real_Time,Nylon,474
+SKU_000329,SHN07,Shoes,Daily_Real_Time,Spandex (Elastan),487
+SKU_000330,SHN04,Swimwear,Daily_Real_Time,Nylon,142
+SKU_000331,SHN06,Shoes,Daily_Real_Time,Acrilico,348
+SKU_000332,SHN06,Swimwear,Daily_Real_Time,Cotone Misto,150
+SKU_000333,SHN07,Tops & Corsets,Daily_Real_Time,Cotone Misto,165
+SKU_000334,SHN05,Tops & Corsets,Daily_Real_Time,Nylon,146
+SKU_000335,SHN01,Shoes,Daily_Real_Time,PU (Ecopelle),488
+SKU_000336,SHN03,Mini Dresses,Daily_Real_Time,PU (Ecopelle),151
+SKU_000337,SHN02,Shoes,Daily_Real_Time,Spandex (Elastan),421
+SKU_000338,SHN03,Mini Dresses,Daily_Real_Time,Cotone Misto,151
+SKU_000339,SHN05,Accessories,Daily_Real_Time,Spandex (Elastan),88
+SKU_000340,SHN01,Swimwear,Daily_Real_Time,Nylon,146
+SKU_000341,SHN01,Swimwear,Daily_Real_Time,Nylon,84
+SKU_000342,SHN06,Leggings,Daily_Real_Time,PU (Ecopelle),113
+SKU_000343,SHN01,Leggings,Daily_Real_Time,Spandex (Elastan),165
+SKU_000344,SHN05,Accessories,Daily_Real_Time,Spandex (Elastan),80
+SKU_000345,SHN06,Mini Dresses,Daily_Real_Time,Cotone Misto,151
+SKU_000346,SHN07,Tops & Corsets,Daily_Real_Time,Acrilico,147
+SKU_000347,SHN03,Tops & Corsets,Daily_Real_Time,Cotone Misto,187
+SKU_000348,SHN07,Leggings,Daily_Real_Time,Poliestere Vergine,121
+SKU_000349,SHN03,Leggings,Daily_Real_Time,Nylon,173
+SKU_000350,SHN03,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),165
+SKU_000351,SHN02,Shoes,Daily_Real_Time,Poliestere Vergine,527
+SKU_000352,SHN03,Shoes,Daily_Real_Time,Cotone Misto,489
+SKU_000353,SHN02,Swimwear,Daily_Real_Time,Spandex (Elastan),81
+SKU_000354,SHN07,Swimwear,Daily_Real_Time,Acrilico,107
+SKU_000355,SHN02,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,156
+SKU_000356,SHN04,Mini Dresses,Daily_Real_Time,Nylon,164
+SKU_000357,SHN06,Accessories,Daily_Real_Time,Spandex (Elastan),93
+SKU_000358,SHN06,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),142
+SKU_000359,SHN01,Accessories,Daily_Real_Time,Cotone Misto,74
+SKU_000360,SHN05,Swimwear,Daily_Real_Time,PU (Ecopelle),112
+SKU_000361,SHN07,Mini Dresses,Daily_Real_Time,PU (Ecopelle),210
+SKU_000362,SHN06,Mini Dresses,Daily_Real_Time,Acrilico,239
+SKU_000363,SHN01,Shoes,Daily_Real_Time,Cotone Misto,489
+SKU_000364,SHN02,Leggings,Daily_Real_Time,PU (Ecopelle),113
+SKU_000365,SHN04,Mini Dresses,Daily_Real_Time,Cotone Misto,187
+SKU_000366,SHN05,Swimwear,Daily_Real_Time,Acrilico,112
+SKU_000367,SHN05,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),118
+SKU_000368,SHN07,Mini Dresses,Daily_Real_Time,Spandex (Elastan),169
+SKU_000369,SHN06,Leggings,Daily_Real_Time,Nylon,101
+SKU_000370,SHN05,Accessories,Daily_Real_Time,Spandex (Elastan),78
+SKU_000371,SHN02,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),149
+SKU_000372,SHN06,Swimwear,Daily_Real_Time,Nylon,91
+SKU_000373,SHN06,Leggings,Daily_Real_Time,Cotone Misto,152
+SKU_000374,SHN02,Mini Dresses,Daily_Real_Time,PU (Ecopelle),163
+SKU_000375,SHN07,Accessories,Daily_Real_Time,PU (Ecopelle),29
+SKU_000376,SHN03,Swimwear,Daily_Real_Time,Spandex (Elastan),80
+SKU_000377,SHN01,Shoes,Daily_Real_Time,PU (Ecopelle),353
+SKU_000378,SHN07,Shoes,Daily_Real_Time,PU (Ecopelle),504
+SKU_000379,SHN05,Accessories,Daily_Real_Time,Nylon,41
+SKU_000380,SHN07,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),137
+SKU_000381,SHN07,Shoes,Daily_Real_Time,Cotone Misto,401
+SKU_000382,SHN07,Shoes,Daily_Real_Time,Cotone Misto,463
+SKU_000383,SHN01,Leggings,Daily_Real_Time,Acrilico,176
+SKU_000384,SHN05,Mini Dresses,Daily_Real_Time,Spandex (Elastan),203
+SKU_000385,SHN05,Tops & Corsets,Daily_Real_Time,Nylon,152
+SKU_000386,SHN02,Swimwear,Daily_Real_Time,Poliestere Vergine,128
+SKU_000387,SHN05,Swimwear,Daily_Real_Time,Spandex (Elastan),128
+SKU_000388,SHN02,Swimwear,Daily_Real_Time,Poliestere Vergine,112
+SKU_000389,SHN06,Accessories,Daily_Real_Time,Nylon,45
+SKU_000390,SHN07,Mini Dresses,Daily_Real_Time,Cotone Misto,250
+SKU_000391,SHN04,Shoes,Daily_Real_Time,Acrilico,477
+SKU_000392,SHN06,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),153
+SKU_000393,SHN07,Accessories,Daily_Real_Time,Spandex (Elastan),35
+SKU_000394,SHN06,Accessories,Daily_Real_Time,Nylon,85
+SKU_000395,SHN07,Accessories,Daily_Real_Time,Poliestere Vergine,64
+SKU_000396,SHN02,Mini Dresses,Daily_Real_Time,Poliestere Vergine,233
+SKU_000397,SHN01,Accessories,Daily_Real_Time,PU (Ecopelle),70
+SKU_000398,SHN06,Shoes,Daily_Real_Time,Acrilico,405
+SKU_000399,SHN06,Leggings,Daily_Real_Time,Acrilico,139
+SKU_000400,SHN02,Swimwear,Daily_Real_Time,Cotone Misto,139
+SKU_000401,SHN06,Shoes,Daily_Real_Time,Poliestere Vergine,498
+SKU_000402,SHN02,Tops & Corsets,Daily_Real_Time,Cotone Misto,183
+SKU_000403,SHN04,Leggings,Daily_Real_Time,Spandex (Elastan),198
+SKU_000404,SHN04,Shoes,Daily_Real_Time,Nylon,367
+SKU_000405,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,109
+SKU_000406,SHN05,Leggings,Daily_Real_Time,Acrilico,120
+SKU_000407,SHN04,Mini Dresses,Daily_Real_Time,PU (Ecopelle),245
+SKU_000408,SHN04,Tops & Corsets,Daily_Real_Time,Cotone Misto,159
+SKU_000409,SHN01,Mini Dresses,Daily_Real_Time,Cotone Misto,205
+SKU_000410,SHN03,Accessories,Daily_Real_Time,Nylon,52
+SKU_000411,SHN01,Mini Dresses,Daily_Real_Time,Acrilico,224
+SKU_000412,SHN02,Accessories,Daily_Real_Time,Acrilico,68
+SKU_000413,SHN07,Mini Dresses,Daily_Real_Time,Spandex (Elastan),204
+SKU_000414,SHN04,Leggings,Daily_Real_Time,Cotone Misto,199
+SKU_000415,SHN06,Mini Dresses,Daily_Real_Time,Poliestere Vergine,233
+SKU_000416,SHN06,Accessories,Daily_Real_Time,Poliestere Vergine,32
+SKU_000417,SHN03,Swimwear,Daily_Real_Time,Nylon,91
+SKU_000418,SHN05,Leggings,Daily_Real_Time,Cotone Misto,105
+SKU_000419,SHN02,Leggings,Daily_Real_Time,Nylon,110
+SKU_000420,SHN03,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),185
+SKU_000421,SHN03,Tops & Corsets,Daily_Real_Time,Nylon,108
+SKU_000422,SHN05,Leggings,Daily_Real_Time,Poliestere Vergine,156
+SKU_000423,SHN06,Accessories,Daily_Real_Time,Spandex (Elastan),94
+SKU_000424,SHN06,Tops & Corsets,Daily_Real_Time,Acrilico,117
+SKU_000425,SHN03,Mini Dresses,Daily_Real_Time,Poliestere Vergine,224
+SKU_000426,SHN01,Mini Dresses,Daily_Real_Time,Acrilico,197
+SKU_000427,SHN04,Leggings,Daily_Real_Time,Spandex (Elastan),137
+SKU_000428,SHN06,Tops & Corsets,Daily_Real_Time,Cotone Misto,130
+SKU_000429,SHN07,Accessories,Daily_Real_Time,Poliestere Vergine,26
+SKU_000430,SHN07,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),150
+SKU_000431,SHN05,Accessories,Daily_Real_Time,PU (Ecopelle),80
+SKU_000432,SHN04,Accessories,Daily_Real_Time,Spandex (Elastan),62
+SKU_000433,SHN01,Shoes,Daily_Real_Time,Poliestere Vergine,363
+SKU_000434,SHN07,Accessories,Daily_Real_Time,Cotone Misto,39
+SKU_000435,SHN02,Swimwear,Daily_Real_Time,Cotone Misto,110
+SKU_000436,SHN06,Accessories,Daily_Real_Time,PU (Ecopelle),55
+SKU_000437,SHN06,Shoes,Daily_Real_Time,Cotone Misto,466
+SKU_000438,SHN01,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),136
+SKU_000439,SHN04,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,109
+SKU_000440,SHN04,Swimwear,Daily_Real_Time,Nylon,122
+SKU_000441,SHN04,Leggings,Daily_Real_Time,Nylon,136
+SKU_000442,SHN02,Tops & Corsets,Daily_Real_Time,Acrilico,106
+SKU_000443,SHN01,Leggings,Daily_Real_Time,Cotone Misto,110
+SKU_000444,SHN01,Accessories,Daily_Real_Time,Acrilico,37
+SKU_000445,SHN04,Mini Dresses,Daily_Real_Time,Poliestere Vergine,180
+SKU_000446,SHN02,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,112
+SKU_000447,SHN03,Tops & Corsets,Daily_Real_Time,Cotone Misto,137
+SKU_000448,SHN07,Swimwear,Daily_Real_Time,Nylon,85
+SKU_000449,SHN04,Tops & Corsets,Daily_Real_Time,Cotone Misto,162
+SKU_000450,SHN05,Shoes,Daily_Real_Time,Spandex (Elastan),421
+SKU_000451,SHN02,Accessories,Daily_Real_Time,Acrilico,51
+SKU_000452,SHN02,Mini Dresses,Daily_Real_Time,Cotone Misto,198
+SKU_000453,SHN07,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),113
+SKU_000454,SHN03,Shoes,Daily_Real_Time,Nylon,339
+SKU_000455,SHN06,Leggings,Daily_Real_Time,Poliestere Vergine,188
+SKU_000456,SHN03,Accessories,Daily_Real_Time,Poliestere Vergine,58
+SKU_000457,SHN03,Mini Dresses,Daily_Real_Time,Spandex (Elastan),152
+SKU_000458,SHN02,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),112
+SKU_000459,SHN07,Shoes,Daily_Real_Time,Spandex (Elastan),541
+SKU_000460,SHN06,Tops & Corsets,Daily_Real_Time,Acrilico,147
+SKU_000461,SHN04,Swimwear,Daily_Real_Time,Poliestere Vergine,142
+SKU_000462,SHN01,Mini Dresses,Daily_Real_Time,Nylon,175
+SKU_000463,SHN02,Leggings,Daily_Real_Time,Nylon,139
+SKU_000464,SHN05,Mini Dresses,Daily_Real_Time,PU (Ecopelle),213
+SKU_000465,SHN07,Leggings,Daily_Real_Time,Nylon,149
+SKU_000466,SHN06,Leggings,Daily_Real_Time,Acrilico,113
+SKU_000467,SHN03,Shoes,Daily_Real_Time,PU (Ecopelle),359
+SKU_000468,SHN06,Shoes,Daily_Real_Time,Cotone Misto,430
+SKU_000469,SHN04,Swimwear,Daily_Real_Time,Acrilico,149
+SKU_000470,SHN04,Leggings,Daily_Real_Time,Cotone Misto,150
+SKU_000471,SHN05,Mini Dresses,Daily_Real_Time,Acrilico,230
+SKU_000472,SHN02,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),168
+SKU_000473,SHN06,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,143
+SKU_000474,SHN02,Tops & Corsets,Daily_Real_Time,Nylon,100
+SKU_000475,SHN04,Accessories,Daily_Real_Time,Acrilico,63
+SKU_000476,SHN05,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),146
+SKU_000477,SHN02,Shoes,Daily_Real_Time,Cotone Misto,557
+SKU_000478,SHN07,Shoes,Daily_Real_Time,PU (Ecopelle),435
+SKU_000479,SHN05,Accessories,Daily_Real_Time,Spandex (Elastan),78
+SKU_000480,SHN05,Leggings,Daily_Real_Time,Poliestere Vergine,166
+SKU_000481,SHN07,Tops & Corsets,Daily_Real_Time,Cotone Misto,132
+SKU_000482,SHN02,Shoes,Daily_Real_Time,Nylon,398
+SKU_000483,SHN06,Leggings,Daily_Real_Time,Poliestere Vergine,102
+SKU_000484,SHN02,Shoes,Daily_Real_Time,PU (Ecopelle),382
+SKU_000485,SHN03,Accessories,Daily_Real_Time,PU (Ecopelle),75
+SKU_000486,SHN01,Mini Dresses,Daily_Real_Time,PU (Ecopelle),215
+SKU_000487,SHN06,Tops & Corsets,Daily_Real_Time,Nylon,112
+SKU_000488,SHN05,Swimwear,Daily_Real_Time,PU (Ecopelle),88
+SKU_000489,SHN06,Tops & Corsets,Daily_Real_Time,Nylon,184
+SKU_000490,SHN02,Shoes,Daily_Real_Time,Poliestere Vergine,368
+SKU_000491,SHN06,Shoes,Daily_Real_Time,Poliestere Vergine,353
+SKU_000492,SHN05,Mini Dresses,Daily_Real_Time,PU (Ecopelle),158
+SKU_000493,SHN02,Shoes,Daily_Real_Time,Poliestere Vergine,366
+SKU_000494,SHN05,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),143
+SKU_000495,SHN03,Mini Dresses,Daily_Real_Time,Poliestere Vergine,238
+SKU_000496,SHN04,Swimwear,Daily_Real_Time,Acrilico,111
+SKU_000497,SHN02,Accessories,Daily_Real_Time,Spandex (Elastan),98
+SKU_000498,SHN05,Shoes,Daily_Real_Time,Nylon,362
+SKU_000499,SHN05,Accessories,Daily_Real_Time,PU (Ecopelle),27
+SKU_000500,SHN07,Swimwear,Daily_Real_Time,Spandex (Elastan),85
+SKU_000501,SHN04,Accessories,Daily_Real_Time,Poliestere Vergine,59
+SKU_000502,SHN01,Swimwear,Daily_Real_Time,Acrilico,134
+SKU_000503,SHN01,Swimwear,Daily_Real_Time,Nylon,91
+SKU_000504,SHN05,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),190
+SKU_000505,SHN01,Accessories,Daily_Real_Time,Cotone Misto,91
+SKU_000506,SHN05,Leggings,Daily_Real_Time,Acrilico,159
+SKU_000507,SHN05,Mini Dresses,Daily_Real_Time,Cotone Misto,244
+SKU_000508,SHN03,Shoes,Daily_Real_Time,Cotone Misto,436
+SKU_000509,SHN01,Accessories,Daily_Real_Time,Spandex (Elastan),56
+SKU_000510,SHN03,Mini Dresses,Daily_Real_Time,Cotone Misto,224
+SKU_000511,SHN02,Shoes,Daily_Real_Time,Nylon,558
+SKU_000512,SHN02,Accessories,Daily_Real_Time,Poliestere Vergine,99
+SKU_000513,SHN01,Accessories,Daily_Real_Time,Poliestere Vergine,66
+SKU_000514,SHN05,Accessories,Daily_Real_Time,Cotone Misto,40
+SKU_000515,SHN06,Leggings,Daily_Real_Time,Acrilico,171
+SKU_000516,SHN05,Shoes,Daily_Real_Time,Cotone Misto,347
+SKU_000517,SHN06,Swimwear,Daily_Real_Time,PU (Ecopelle),116
+SKU_000518,SHN05,Mini Dresses,Daily_Real_Time,PU (Ecopelle),244
+SKU_000519,SHN04,Accessories,Daily_Real_Time,Spandex (Elastan),84
+SKU_000520,SHN07,Shoes,Daily_Real_Time,Spandex (Elastan),336
+SKU_000521,SHN07,Shoes,Daily_Real_Time,PU (Ecopelle),481
+SKU_000522,SHN03,Tops & Corsets,Daily_Real_Time,Nylon,109
+SKU_000523,SHN02,Accessories,Daily_Real_Time,Cotone Misto,40
+SKU_000524,SHN04,Leggings,Daily_Real_Time,Nylon,121
+SKU_000525,SHN03,Swimwear,Daily_Real_Time,Cotone Misto,130
+SKU_000526,SHN02,Swimwear,Daily_Real_Time,Spandex (Elastan),95
+SKU_000527,SHN02,Accessories,Daily_Real_Time,Cotone Misto,87
+SKU_000528,SHN04,Mini Dresses,Daily_Real_Time,Nylon,175
+SKU_000529,SHN06,Accessories,Daily_Real_Time,Nylon,23
+SKU_000530,SHN07,Accessories,Daily_Real_Time,Cotone Misto,51
+SKU_000531,SHN06,Leggings,Daily_Real_Time,Poliestere Vergine,116
+SKU_000532,SHN03,Shoes,Daily_Real_Time,Spandex (Elastan),506
+SKU_000533,SHN04,Mini Dresses,Daily_Real_Time,Acrilico,178
+SKU_000534,SHN07,Mini Dresses,Daily_Real_Time,Acrilico,204
+SKU_000535,SHN02,Leggings,Daily_Real_Time,Spandex (Elastan),128
+SKU_000536,SHN05,Mini Dresses,Daily_Real_Time,PU (Ecopelle),238
+SKU_000537,SHN02,Tops & Corsets,Daily_Real_Time,Cotone Misto,183
+SKU_000538,SHN01,Mini Dresses,Daily_Real_Time,Spandex (Elastan),199
+SKU_000539,SHN07,Shoes,Daily_Real_Time,Spandex (Elastan),325
+SKU_000540,SHN03,Tops & Corsets,Daily_Real_Time,Nylon,138
+SKU_000541,SHN07,Leggings,Daily_Real_Time,PU (Ecopelle),177
+SKU_000542,SHN02,Accessories,Daily_Real_Time,Nylon,21
+SKU_000543,SHN05,Accessories,Daily_Real_Time,Cotone Misto,59
+SKU_000544,SHN01,Mini Dresses,Daily_Real_Time,Cotone Misto,246
+SKU_000545,SHN06,Shoes,Daily_Real_Time,Poliestere Vergine,471
+SKU_000546,SHN06,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),111
+SKU_000547,SHN01,Tops & Corsets,Daily_Real_Time,Acrilico,166
+SKU_000548,SHN05,Leggings,Daily_Real_Time,Spandex (Elastan),134
+SKU_000549,SHN06,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,166
+SKU_000550,SHN04,Accessories,Daily_Real_Time,Acrilico,45
+SKU_000551,SHN07,Swimwear,Daily_Real_Time,Poliestere Vergine,87
+SKU_000552,SHN06,Shoes,Daily_Real_Time,Acrilico,511
+SKU_000553,SHN07,Swimwear,Daily_Real_Time,Cotone Misto,128
+SKU_000554,SHN03,Mini Dresses,Daily_Real_Time,Spandex (Elastan),247
+SKU_000555,SHN06,Accessories,Daily_Real_Time,Cotone Misto,98
+SKU_000556,SHN03,Shoes,Daily_Real_Time,Nylon,314
+SKU_000557,SHN06,Swimwear,Daily_Real_Time,Cotone Misto,82
+SKU_000558,SHN05,Shoes,Daily_Real_Time,Acrilico,448
+SKU_000559,SHN03,Shoes,Daily_Real_Time,Acrilico,312
+SKU_000560,SHN04,Mini Dresses,Daily_Real_Time,Cotone Misto,238
+SKU_000561,SHN07,Tops & Corsets,Daily_Real_Time,Nylon,139
+SKU_000562,SHN06,Mini Dresses,Daily_Real_Time,Cotone Misto,153
+SKU_000563,SHN03,Accessories,Daily_Real_Time,Poliestere Vergine,93
+SKU_000564,SHN02,Leggings,Daily_Real_Time,PU (Ecopelle),196
+SKU_000565,SHN04,Swimwear,Daily_Real_Time,Spandex (Elastan),146
+SKU_000566,SHN06,Accessories,Daily_Real_Time,PU (Ecopelle),93
+SKU_000567,SHN03,Leggings,Daily_Real_Time,Acrilico,123
+SKU_000568,SHN01,Shoes,Daily_Real_Time,Cotone Misto,312
+SKU_000569,SHN03,Accessories,Daily_Real_Time,Acrilico,28
+SKU_000570,SHN03,Leggings,Daily_Real_Time,Acrilico,117
+SKU_000571,SHN06,Swimwear,Daily_Real_Time,PU (Ecopelle),132
+SKU_000572,SHN03,Leggings,Daily_Real_Time,Cotone Misto,129
+SKU_000573,SHN05,Mini Dresses,Daily_Real_Time,Cotone Misto,208
+SKU_000574,SHN05,Mini Dresses,Daily_Real_Time,Cotone Misto,243
+SKU_000575,SHN01,Leggings,Daily_Real_Time,Spandex (Elastan),107
+SKU_000576,SHN03,Shoes,Daily_Real_Time,Nylon,529
+SKU_000577,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),471
+SKU_000578,SHN02,Shoes,Daily_Real_Time,Poliestere Vergine,470
+SKU_000579,SHN04,Tops & Corsets,Daily_Real_Time,Cotone Misto,195
+SKU_000580,SHN05,Swimwear,Daily_Real_Time,PU (Ecopelle),97
+SKU_000581,SHN04,Mini Dresses,Daily_Real_Time,PU (Ecopelle),162
+SKU_000582,SHN06,Swimwear,Daily_Real_Time,Acrilico,142
+SKU_000583,SHN05,Accessories,Daily_Real_Time,Spandex (Elastan),52
+SKU_000584,SHN07,Leggings,Daily_Real_Time,Cotone Misto,124
+SKU_000585,SHN01,Mini Dresses,Daily_Real_Time,Acrilico,150
+SKU_000586,SHN03,Mini Dresses,Daily_Real_Time,Poliestere Vergine,151
+SKU_000587,SHN02,Leggings,Daily_Real_Time,Nylon,100
+SKU_000588,SHN03,Leggings,Daily_Real_Time,PU (Ecopelle),105
+SKU_000589,SHN04,Leggings,Daily_Real_Time,PU (Ecopelle),113
+SKU_000590,SHN01,Accessories,Daily_Real_Time,PU (Ecopelle),91
+SKU_000591,SHN03,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,194
+SKU_000592,SHN04,Leggings,Daily_Real_Time,Nylon,193
+SKU_000593,SHN04,Swimwear,Daily_Real_Time,Cotone Misto,88
+SKU_000594,SHN07,Mini Dresses,Daily_Real_Time,Spandex (Elastan),220
+SKU_000595,SHN07,Accessories,Daily_Real_Time,Poliestere Vergine,33
+SKU_000596,SHN07,Shoes,Daily_Real_Time,Spandex (Elastan),331
+SKU_000597,SHN04,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,136
+SKU_000598,SHN01,Leggings,Daily_Real_Time,Cotone Misto,137
+SKU_000599,SHN07,Swimwear,Daily_Real_Time,Acrilico,107
+SKU_000600,SHN04,Swimwear,Daily_Real_Time,Poliestere Vergine,91
+SKU_000601,SHN07,Shoes,Daily_Real_Time,PU (Ecopelle),415
+SKU_000602,SHN01,Mini Dresses,Daily_Real_Time,Cotone Misto,150
+SKU_000603,SHN07,Leggings,Daily_Real_Time,Poliestere Vergine,179
+SKU_000604,SHN03,Tops & Corsets,Daily_Real_Time,Acrilico,186
+SKU_000605,SHN05,Swimwear,Daily_Real_Time,Acrilico,113
+SKU_000606,SHN06,Accessories,Daily_Real_Time,Spandex (Elastan),57
+SKU_000607,SHN07,Leggings,Daily_Real_Time,Spandex (Elastan),105
+SKU_000608,SHN05,Leggings,Daily_Real_Time,Nylon,106
+SKU_000609,SHN06,Accessories,Daily_Real_Time,PU (Ecopelle),44
+SKU_000610,SHN03,Leggings,Daily_Real_Time,Poliestere Vergine,127
+SKU_000611,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),432
+SKU_000612,SHN03,Leggings,Daily_Real_Time,Nylon,143
+SKU_000613,SHN06,Mini Dresses,Daily_Real_Time,Cotone Misto,246
+SKU_000614,SHN02,Accessories,Daily_Real_Time,Spandex (Elastan),78
+SKU_000615,SHN05,Accessories,Daily_Real_Time,Acrilico,74
+SKU_000616,SHN03,Swimwear,Daily_Real_Time,Poliestere Vergine,130
+SKU_000617,SHN01,Mini Dresses,Daily_Real_Time,Nylon,250
+SKU_000618,SHN02,Swimwear,Daily_Real_Time,Cotone Misto,133
+SKU_000619,SHN05,Shoes,Daily_Real_Time,PU (Ecopelle),432
+SKU_000620,SHN02,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),153
+SKU_000621,SHN02,Mini Dresses,Daily_Real_Time,Nylon,174
+SKU_000622,SHN01,Leggings,Daily_Real_Time,Poliestere Vergine,120
+SKU_000623,SHN02,Swimwear,Daily_Real_Time,Spandex (Elastan),80
+SKU_000624,SHN07,Accessories,Daily_Real_Time,Spandex (Elastan),24
+SKU_000625,SHN07,Mini Dresses,Daily_Real_Time,Poliestere Vergine,187
+SKU_000626,SHN01,Swimwear,Daily_Real_Time,Cotone Misto,98
+SKU_000627,SHN02,Accessories,Daily_Real_Time,Acrilico,88
+SKU_000628,SHN04,Shoes,Daily_Real_Time,Cotone Misto,314
+SKU_000629,SHN02,Tops & Corsets,Daily_Real_Time,Nylon,198
+SKU_000630,SHN06,Accessories,Daily_Real_Time,Poliestere Vergine,97
+SKU_000631,SHN06,Shoes,Daily_Real_Time,Poliestere Vergine,400
+SKU_000632,SHN06,Shoes,Daily_Real_Time,Nylon,485
+SKU_000633,SHN05,Shoes,Daily_Real_Time,Poliestere Vergine,300
+SKU_000634,SHN04,Swimwear,Daily_Real_Time,Cotone Misto,136
+SKU_000635,SHN03,Shoes,Daily_Real_Time,Poliestere Vergine,540
+SKU_000636,SHN06,Swimwear,Daily_Real_Time,Acrilico,145
+SKU_000637,SHN02,Accessories,Daily_Real_Time,Cotone Misto,65
+SKU_000638,SHN03,Swimwear,Daily_Real_Time,Cotone Misto,118
+SKU_000639,SHN06,Swimwear,Daily_Real_Time,PU (Ecopelle),147
+SKU_000640,SHN02,Shoes,Daily_Real_Time,Acrilico,489
+SKU_000641,SHN01,Mini Dresses,Daily_Real_Time,Spandex (Elastan),161
+SKU_000642,SHN06,Accessories,Daily_Real_Time,Cotone Misto,30
+SKU_000643,SHN06,Mini Dresses,Daily_Real_Time,Acrilico,150
+SKU_000644,SHN04,Leggings,Daily_Real_Time,PU (Ecopelle),173
+SKU_000645,SHN03,Swimwear,Daily_Real_Time,Spandex (Elastan),137
+SKU_000646,SHN03,Accessories,Daily_Real_Time,Nylon,88
+SKU_000647,SHN02,Mini Dresses,Daily_Real_Time,PU (Ecopelle),191
+SKU_000648,SHN05,Leggings,Daily_Real_Time,Spandex (Elastan),155
+SKU_000649,SHN05,Leggings,Daily_Real_Time,Spandex (Elastan),165
+SKU_000650,SHN06,Accessories,Daily_Real_Time,Spandex (Elastan),58
+SKU_000651,SHN05,Swimwear,Daily_Real_Time,Acrilico,107
+SKU_000652,SHN01,Accessories,Daily_Real_Time,Spandex (Elastan),37
+SKU_000653,SHN03,Mini Dresses,Daily_Real_Time,PU (Ecopelle),187
+SKU_000654,SHN05,Mini Dresses,Daily_Real_Time,Cotone Misto,219
+SKU_000655,SHN03,Swimwear,Daily_Real_Time,PU (Ecopelle),105
+SKU_000656,SHN02,Swimwear,Daily_Real_Time,Acrilico,106
+SKU_000657,SHN04,Tops & Corsets,Daily_Real_Time,Cotone Misto,195
+SKU_000658,SHN07,Shoes,Daily_Real_Time,PU (Ecopelle),498
+SKU_000659,SHN06,Mini Dresses,Daily_Real_Time,Cotone Misto,184
+SKU_000660,SHN05,Mini Dresses,Daily_Real_Time,Nylon,168
+SKU_000661,SHN02,Shoes,Daily_Real_Time,Acrilico,498
+SKU_000662,SHN03,Accessories,Daily_Real_Time,Acrilico,40
+SKU_000663,SHN07,Shoes,Daily_Real_Time,Poliestere Vergine,408
+SKU_000664,SHN02,Shoes,Daily_Real_Time,Nylon,585
+SKU_000665,SHN02,Accessories,Daily_Real_Time,Cotone Misto,74
+SKU_000666,SHN03,Shoes,Daily_Real_Time,PU (Ecopelle),374
+SKU_000667,SHN02,Tops & Corsets,Daily_Real_Time,Cotone Misto,103
+SKU_000668,SHN04,Shoes,Daily_Real_Time,Nylon,589
+SKU_000669,SHN06,Leggings,Daily_Real_Time,Cotone Misto,191
+SKU_000670,SHN04,Accessories,Daily_Real_Time,Nylon,44
+SKU_000671,SHN07,Shoes,Daily_Real_Time,Cotone Misto,310
+SKU_000672,SHN03,Leggings,Daily_Real_Time,Poliestere Vergine,143
+SKU_000673,SHN01,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,119
+SKU_000674,SHN01,Shoes,Daily_Real_Time,Nylon,481
+SKU_000675,SHN03,Shoes,Daily_Real_Time,Nylon,449
+SKU_000676,SHN01,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,110
+SKU_000677,SHN02,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),117
+SKU_000678,SHN02,Swimwear,Daily_Real_Time,Spandex (Elastan),132
+SKU_000679,SHN06,Accessories,Daily_Real_Time,Spandex (Elastan),62
+SKU_000680,SHN07,Shoes,Daily_Real_Time,Nylon,571
+SKU_000681,SHN04,Shoes,Daily_Real_Time,Cotone Misto,547
+SKU_000682,SHN02,Accessories,Daily_Real_Time,PU (Ecopelle),100
+SKU_000683,SHN03,Leggings,Daily_Real_Time,Cotone Misto,181
+SKU_000684,SHN07,Mini Dresses,Daily_Real_Time,Acrilico,174
+SKU_000685,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,180
+SKU_000686,SHN05,Leggings,Daily_Real_Time,Poliestere Vergine,109
+SKU_000687,SHN03,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),118
+SKU_000688,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,113
+SKU_000689,SHN03,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),159
+SKU_000690,SHN07,Accessories,Daily_Real_Time,Cotone Misto,92
+SKU_000691,SHN07,Mini Dresses,Daily_Real_Time,Poliestere Vergine,168
+SKU_000692,SHN04,Leggings,Daily_Real_Time,Spandex (Elastan),193
+SKU_000693,SHN01,Shoes,Daily_Real_Time,Spandex (Elastan),395
+SKU_000694,SHN04,Leggings,Daily_Real_Time,Spandex (Elastan),191
+SKU_000695,SHN05,Shoes,Daily_Real_Time,Nylon,390
+SKU_000696,SHN01,Swimwear,Daily_Real_Time,Spandex (Elastan),101
+SKU_000697,SHN06,Shoes,Daily_Real_Time,PU (Ecopelle),409
+SKU_000698,SHN07,Swimwear,Daily_Real_Time,Nylon,141
+SKU_000699,SHN05,Swimwear,Daily_Real_Time,Acrilico,136
+SKU_000700,SHN02,Swimwear,Daily_Real_Time,Nylon,105
+SKU_000701,SHN03,Leggings,Daily_Real_Time,Poliestere Vergine,110
+SKU_000702,SHN01,Mini Dresses,Daily_Real_Time,Nylon,229
+SKU_000703,SHN05,Swimwear,Daily_Real_Time,Acrilico,125
+SKU_000704,SHN05,Accessories,Daily_Real_Time,Acrilico,88
+SKU_000705,SHN03,Mini Dresses,Daily_Real_Time,Cotone Misto,178
+SKU_000706,SHN05,Accessories,Daily_Real_Time,Nylon,80
+SKU_000707,SHN02,Shoes,Daily_Real_Time,PU (Ecopelle),578
+SKU_000708,SHN03,Accessories,Daily_Real_Time,Spandex (Elastan),67
+SKU_000709,SHN04,Swimwear,Daily_Real_Time,Nylon,110
+SKU_000710,SHN01,Shoes,Daily_Real_Time,Poliestere Vergine,592
+SKU_000711,SHN06,Shoes,Daily_Real_Time,Cotone Misto,437
+SKU_000712,SHN04,Accessories,Daily_Real_Time,Spandex (Elastan),42
+SKU_000713,SHN01,Leggings,Daily_Real_Time,Acrilico,116
+SKU_000714,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),385
+SKU_000715,SHN06,Accessories,Daily_Real_Time,PU (Ecopelle),29
+SKU_000716,SHN05,Mini Dresses,Daily_Real_Time,Nylon,218
+SKU_000717,SHN04,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),107
+SKU_000718,SHN04,Leggings,Daily_Real_Time,Acrilico,118
+SKU_000719,SHN05,Leggings,Daily_Real_Time,Poliestere Vergine,123
+SKU_000720,SHN01,Shoes,Daily_Real_Time,PU (Ecopelle),310
+SKU_000721,SHN02,Swimwear,Daily_Real_Time,Spandex (Elastan),111
+SKU_000722,SHN03,Shoes,Daily_Real_Time,Spandex (Elastan),359
+SKU_000723,SHN07,Leggings,Daily_Real_Time,Cotone Misto,134
+SKU_000724,SHN06,Tops & Corsets,Daily_Real_Time,Cotone Misto,160
+SKU_000725,SHN06,Leggings,Daily_Real_Time,Nylon,130
+SKU_000726,SHN07,Shoes,Daily_Real_Time,Acrilico,374
+SKU_000727,SHN07,Mini Dresses,Daily_Real_Time,Spandex (Elastan),237
+SKU_000728,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),333
+SKU_000729,SHN06,Leggings,Daily_Real_Time,Spandex (Elastan),153
+SKU_000730,SHN07,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),134
+SKU_000731,SHN02,Swimwear,Daily_Real_Time,Nylon,127
+SKU_000732,SHN05,Mini Dresses,Daily_Real_Time,Nylon,233
+SKU_000733,SHN04,Mini Dresses,Daily_Real_Time,PU (Ecopelle),235
+SKU_000734,SHN01,Swimwear,Daily_Real_Time,Acrilico,147
+SKU_000735,SHN07,Shoes,Daily_Real_Time,Cotone Misto,371
+SKU_000736,SHN07,Accessories,Daily_Real_Time,Nylon,25
+SKU_000737,SHN04,Mini Dresses,Daily_Real_Time,PU (Ecopelle),224
+SKU_000738,SHN06,Tops & Corsets,Daily_Real_Time,Acrilico,132
+SKU_000739,SHN02,Mini Dresses,Daily_Real_Time,PU (Ecopelle),165
+SKU_000740,SHN02,Mini Dresses,Daily_Real_Time,Nylon,213
+SKU_000741,SHN02,Leggings,Daily_Real_Time,Cotone Misto,118
+SKU_000742,SHN01,Accessories,Daily_Real_Time,Spandex (Elastan),70
+SKU_000743,SHN07,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),121
+SKU_000744,SHN01,Leggings,Daily_Real_Time,Poliestere Vergine,125
+SKU_000745,SHN05,Tops & Corsets,Daily_Real_Time,Cotone Misto,165
+SKU_000746,SHN02,Mini Dresses,Daily_Real_Time,Cotone Misto,238
+SKU_000747,SHN04,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,156
+SKU_000748,SHN03,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,200
+SKU_000749,SHN05,Leggings,Daily_Real_Time,Cotone Misto,159
+SKU_000750,SHN04,Accessories,Daily_Real_Time,Acrilico,84
+SKU_000751,SHN01,Shoes,Daily_Real_Time,Acrilico,398
+SKU_000752,SHN01,Leggings,Daily_Real_Time,Spandex (Elastan),190
+SKU_000753,SHN01,Accessories,Daily_Real_Time,Cotone Misto,93
+SKU_000754,SHN02,Mini Dresses,Daily_Real_Time,Cotone Misto,204
+SKU_000755,SHN06,Swimwear,Daily_Real_Time,Spandex (Elastan),134
+SKU_000756,SHN02,Shoes,Daily_Real_Time,Spandex (Elastan),538
+SKU_000757,SHN02,Accessories,Daily_Real_Time,Cotone Misto,59
+SKU_000758,SHN03,Shoes,Daily_Real_Time,Cotone Misto,592
+SKU_000759,SHN02,Shoes,Daily_Real_Time,Nylon,319
+SKU_000760,SHN04,Tops & Corsets,Daily_Real_Time,Cotone Misto,152
+SKU_000761,SHN07,Shoes,Daily_Real_Time,PU (Ecopelle),381
+SKU_000762,SHN06,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,170
+SKU_000763,SHN01,Mini Dresses,Daily_Real_Time,Cotone Misto,249
+SKU_000764,SHN07,Swimwear,Daily_Real_Time,Nylon,144
+SKU_000765,SHN07,Accessories,Daily_Real_Time,Cotone Misto,71
+SKU_000766,SHN03,Leggings,Daily_Real_Time,Acrilico,198
+SKU_000767,SHN05,Mini Dresses,Daily_Real_Time,Spandex (Elastan),234
+SKU_000768,SHN02,Accessories,Daily_Real_Time,Spandex (Elastan),48
+SKU_000769,SHN02,Swimwear,Daily_Real_Time,Nylon,137
+SKU_000770,SHN03,Accessories,Daily_Real_Time,Poliestere Vergine,80
+SKU_000771,SHN02,Mini Dresses,Daily_Real_Time,PU (Ecopelle),232
+SKU_000772,SHN06,Mini Dresses,Daily_Real_Time,Poliestere Vergine,150
+SKU_000773,SHN07,Mini Dresses,Daily_Real_Time,Nylon,233
+SKU_000774,SHN02,Shoes,Daily_Real_Time,PU (Ecopelle),431
+SKU_000775,SHN06,Shoes,Daily_Real_Time,Spandex (Elastan),383
+SKU_000776,SHN01,Accessories,Daily_Real_Time,Nylon,91
+SKU_000777,SHN05,Shoes,Daily_Real_Time,Cotone Misto,464
+SKU_000778,SHN05,Tops & Corsets,Daily_Real_Time,Cotone Misto,171
+SKU_000779,SHN07,Accessories,Daily_Real_Time,Nylon,67
+SKU_000780,SHN03,Accessories,Daily_Real_Time,Poliestere Vergine,48
+SKU_000781,SHN01,Mini Dresses,Daily_Real_Time,Poliestere Vergine,204
+SKU_000782,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,107
+SKU_000783,SHN04,Shoes,Daily_Real_Time,Nylon,572
+SKU_000784,SHN03,Tops & Corsets,Daily_Real_Time,Acrilico,172
+SKU_000785,SHN07,Swimwear,Daily_Real_Time,Poliestere Vergine,101
+SKU_000786,SHN02,Mini Dresses,Daily_Real_Time,Acrilico,175
+SKU_000787,SHN01,Accessories,Daily_Real_Time,PU (Ecopelle),99
+SKU_000788,SHN02,Mini Dresses,Daily_Real_Time,Cotone Misto,177
+SKU_000789,SHN02,Swimwear,Daily_Real_Time,Nylon,99
+SKU_000790,SHN07,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),122
+SKU_000791,SHN01,Shoes,Daily_Real_Time,Cotone Misto,431
+SKU_000792,SHN07,Tops & Corsets,Daily_Real_Time,Nylon,179
+SKU_000793,SHN01,Shoes,Daily_Real_Time,Poliestere Vergine,537
+SKU_000794,SHN02,Mini Dresses,Daily_Real_Time,PU (Ecopelle),196
+SKU_000795,SHN02,Tops & Corsets,Daily_Real_Time,Nylon,149
+SKU_000796,SHN01,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,192
+SKU_000797,SHN03,Swimwear,Daily_Real_Time,Spandex (Elastan),140
+SKU_000798,SHN07,Shoes,Daily_Real_Time,Spandex (Elastan),434
+SKU_000799,SHN02,Tops & Corsets,Daily_Real_Time,Cotone Misto,165
+SKU_000800,SHN04,Shoes,Daily_Real_Time,Acrilico,336
+SKU_000801,SHN06,Mini Dresses,Daily_Real_Time,Cotone Misto,161
+SKU_000802,SHN05,Mini Dresses,Daily_Real_Time,Acrilico,200
+SKU_000803,SHN05,Accessories,Daily_Real_Time,Spandex (Elastan),54
+SKU_000804,SHN05,Shoes,Daily_Real_Time,PU (Ecopelle),409
+SKU_000805,SHN04,Leggings,Daily_Real_Time,Cotone Misto,161
+SKU_000806,SHN05,Mini Dresses,Daily_Real_Time,Nylon,159
+SKU_000807,SHN05,Leggings,Daily_Real_Time,PU (Ecopelle),131
+SKU_000808,SHN05,Shoes,Daily_Real_Time,Cotone Misto,343
+SKU_000809,SHN01,Leggings,Daily_Real_Time,PU (Ecopelle),144
+SKU_000810,SHN03,Mini Dresses,Daily_Real_Time,PU (Ecopelle),204
+SKU_000811,SHN01,Accessories,Daily_Real_Time,Nylon,85
+SKU_000812,SHN04,Shoes,Daily_Real_Time,Acrilico,561
+SKU_000813,SHN03,Leggings,Daily_Real_Time,Poliestere Vergine,157
+SKU_000814,SHN06,Swimwear,Daily_Real_Time,Acrilico,128
+SKU_000815,SHN02,Shoes,Daily_Real_Time,Acrilico,347
+SKU_000816,SHN05,Swimwear,Daily_Real_Time,Poliestere Vergine,147
+SKU_000817,SHN06,Mini Dresses,Daily_Real_Time,Nylon,165
+SKU_000818,SHN05,Swimwear,Daily_Real_Time,Poliestere Vergine,107
+SKU_000819,SHN07,Mini Dresses,Daily_Real_Time,Cotone Misto,160
+SKU_000820,SHN04,Swimwear,Daily_Real_Time,Poliestere Vergine,102
+SKU_000821,SHN05,Tops & Corsets,Daily_Real_Time,Nylon,133
+SKU_000822,SHN05,Leggings,Daily_Real_Time,Nylon,103
+SKU_000823,SHN07,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),147
+SKU_000824,SHN02,Accessories,Daily_Real_Time,Poliestere Vergine,73
+SKU_000825,SHN02,Accessories,Daily_Real_Time,PU (Ecopelle),72
+SKU_000826,SHN07,Leggings,Daily_Real_Time,Acrilico,118
+SKU_000827,SHN07,Mini Dresses,Daily_Real_Time,Poliestere Vergine,196
+SKU_000828,SHN06,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,185
+SKU_000829,SHN05,Shoes,Daily_Real_Time,Cotone Misto,489
+SKU_000830,SHN07,Swimwear,Daily_Real_Time,PU (Ecopelle),85
+SKU_000831,SHN06,Shoes,Daily_Real_Time,Acrilico,389
+SKU_000832,SHN01,Leggings,Daily_Real_Time,Poliestere Vergine,125
+SKU_000833,SHN04,Swimwear,Daily_Real_Time,PU (Ecopelle),120
+SKU_000834,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,178
+SKU_000835,SHN03,Tops & Corsets,Daily_Real_Time,Nylon,133
+SKU_000836,SHN01,Accessories,Daily_Real_Time,PU (Ecopelle),62
+SKU_000837,SHN07,Mini Dresses,Daily_Real_Time,Nylon,168
+SKU_000838,SHN02,Leggings,Daily_Real_Time,PU (Ecopelle),127
+SKU_000839,SHN03,Accessories,Daily_Real_Time,PU (Ecopelle),57
+SKU_000840,SHN02,Mini Dresses,Daily_Real_Time,Spandex (Elastan),198
+SKU_000841,SHN03,Leggings,Daily_Real_Time,PU (Ecopelle),188
+SKU_000842,SHN01,Mini Dresses,Daily_Real_Time,Nylon,241
+SKU_000843,SHN05,Shoes,Daily_Real_Time,Acrilico,516
+SKU_000844,SHN07,Accessories,Daily_Real_Time,Nylon,37
+SKU_000845,SHN05,Shoes,Daily_Real_Time,Cotone Misto,409
+SKU_000846,SHN01,Accessories,Daily_Real_Time,Nylon,44
+SKU_000847,SHN03,Accessories,Daily_Real_Time,Cotone Misto,24
+SKU_000848,SHN01,Mini Dresses,Daily_Real_Time,Acrilico,173
+SKU_000849,SHN07,Swimwear,Daily_Real_Time,Spandex (Elastan),101
+SKU_000850,SHN07,Shoes,Daily_Real_Time,Spandex (Elastan),323
+SKU_000851,SHN05,Leggings,Daily_Real_Time,Poliestere Vergine,100
+SKU_000852,SHN03,Shoes,Daily_Real_Time,Poliestere Vergine,545
+SKU_000853,SHN03,Shoes,Daily_Real_Time,PU (Ecopelle),302
+SKU_000854,SHN05,Tops & Corsets,Daily_Real_Time,Cotone Misto,152
+SKU_000855,SHN05,Swimwear,Daily_Real_Time,Nylon,88
+SKU_000856,SHN02,Accessories,Daily_Real_Time,Cotone Misto,22
+SKU_000857,SHN01,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),122
+SKU_000858,SHN05,Mini Dresses,Daily_Real_Time,PU (Ecopelle),226
+SKU_000859,SHN07,Swimwear,Daily_Real_Time,Poliestere Vergine,89
+SKU_000860,SHN06,Swimwear,Daily_Real_Time,Spandex (Elastan),93
+SKU_000861,SHN03,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),192
+SKU_000862,SHN03,Accessories,Daily_Real_Time,Cotone Misto,44
+SKU_000863,SHN04,Shoes,Daily_Real_Time,Poliestere Vergine,495
+SKU_000864,SHN03,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),147
+SKU_000865,SHN03,Leggings,Daily_Real_Time,Cotone Misto,197
+SKU_000866,SHN07,Mini Dresses,Daily_Real_Time,Cotone Misto,245
+SKU_000867,SHN01,Tops & Corsets,Daily_Real_Time,Acrilico,131
+SKU_000868,SHN02,Mini Dresses,Daily_Real_Time,Cotone Misto,230
+SKU_000869,SHN04,Tops & Corsets,Daily_Real_Time,Cotone Misto,164
+SKU_000870,SHN01,Shoes,Daily_Real_Time,Poliestere Vergine,591
+SKU_000871,SHN07,Shoes,Daily_Real_Time,PU (Ecopelle),561
+SKU_000872,SHN04,Swimwear,Daily_Real_Time,Nylon,128
+SKU_000873,SHN06,Mini Dresses,Daily_Real_Time,PU (Ecopelle),155
+SKU_000874,SHN07,Accessories,Daily_Real_Time,Cotone Misto,40
+SKU_000875,SHN06,Leggings,Daily_Real_Time,Spandex (Elastan),162
+SKU_000876,SHN01,Tops & Corsets,Daily_Real_Time,Nylon,188
+SKU_000877,SHN06,Accessories,Daily_Real_Time,Spandex (Elastan),30
+SKU_000878,SHN04,Shoes,Daily_Real_Time,Nylon,430
+SKU_000879,SHN05,Shoes,Daily_Real_Time,Acrilico,316
+SKU_000880,SHN05,Tops & Corsets,Daily_Real_Time,Acrilico,178
+SKU_000881,SHN03,Swimwear,Daily_Real_Time,Cotone Misto,108
+SKU_000882,SHN04,Swimwear,Daily_Real_Time,Acrilico,121
+SKU_000883,SHN02,Leggings,Daily_Real_Time,Spandex (Elastan),190
+SKU_000884,SHN07,Tops & Corsets,Daily_Real_Time,Nylon,151
+SKU_000885,SHN03,Accessories,Daily_Real_Time,Cotone Misto,92
+SKU_000886,SHN01,Accessories,Daily_Real_Time,Nylon,63
+SKU_000887,SHN07,Swimwear,Daily_Real_Time,Spandex (Elastan),80
+SKU_000888,SHN03,Swimwear,Daily_Real_Time,Cotone Misto,125
+SKU_000889,SHN03,Accessories,Daily_Real_Time,PU (Ecopelle),88
+SKU_000890,SHN06,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),148
+SKU_000891,SHN01,Swimwear,Daily_Real_Time,Poliestere Vergine,89
+SKU_000892,SHN01,Mini Dresses,Daily_Real_Time,Acrilico,191
+SKU_000893,SHN03,Swimwear,Daily_Real_Time,Poliestere Vergine,124
+SKU_000894,SHN05,Accessories,Daily_Real_Time,Cotone Misto,90
+SKU_000895,SHN02,Shoes,Daily_Real_Time,Acrilico,547
+SKU_000896,SHN06,Swimwear,Daily_Real_Time,Cotone Misto,140
+SKU_000897,SHN04,Mini Dresses,Daily_Real_Time,Nylon,204
+SKU_000898,SHN06,Mini Dresses,Daily_Real_Time,Nylon,201
+SKU_000899,SHN01,Shoes,Daily_Real_Time,Acrilico,523
+SKU_000900,SHN05,Accessories,Daily_Real_Time,PU (Ecopelle),94
+SKU_000901,SHN02,Swimwear,Daily_Real_Time,Acrilico,116
+SKU_000902,SHN05,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),183
+SKU_000903,SHN06,Leggings,Daily_Real_Time,Poliestere Vergine,192
+SKU_000904,SHN01,Leggings,Daily_Real_Time,Acrilico,118
+SKU_000905,SHN07,Mini Dresses,Daily_Real_Time,Acrilico,235
+SKU_000906,SHN07,Swimwear,Daily_Real_Time,Poliestere Vergine,144
+SKU_000907,SHN01,Mini Dresses,Daily_Real_Time,Poliestere Vergine,183
+SKU_000908,SHN06,Tops & Corsets,Daily_Real_Time,Cotone Misto,200
+SKU_000909,SHN06,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),175
+SKU_000910,SHN07,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),106
+SKU_000911,SHN05,Leggings,Daily_Real_Time,Poliestere Vergine,165
+SKU_000912,SHN05,Accessories,Daily_Real_Time,Nylon,86
+SKU_000913,SHN07,Shoes,Daily_Real_Time,Nylon,476
+SKU_000914,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,148
+SKU_000915,SHN07,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),182
+SKU_000916,SHN06,Tops & Corsets,Daily_Real_Time,Cotone Misto,186
+SKU_000917,SHN06,Accessories,Daily_Real_Time,Nylon,57
+SKU_000918,SHN05,Swimwear,Daily_Real_Time,Cotone Misto,85
+SKU_000919,SHN05,Tops & Corsets,Daily_Real_Time,Acrilico,165
+SKU_000920,SHN07,Shoes,Daily_Real_Time,Nylon,354
+SKU_000921,SHN02,Swimwear,Daily_Real_Time,Cotone Misto,135
+SKU_000922,SHN06,Accessories,Daily_Real_Time,PU (Ecopelle),31
+SKU_000923,SHN06,Mini Dresses,Daily_Real_Time,Acrilico,181
+SKU_000924,SHN04,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),123
+SKU_000925,SHN04,Tops & Corsets,Daily_Real_Time,Nylon,172
+SKU_000926,SHN06,Accessories,Daily_Real_Time,Cotone Misto,46
+SKU_000927,SHN07,Shoes,Daily_Real_Time,Cotone Misto,381
+SKU_000928,SHN01,Leggings,Daily_Real_Time,Cotone Misto,112
+SKU_000929,SHN07,Accessories,Daily_Real_Time,Spandex (Elastan),64
+SKU_000930,SHN01,Swimwear,Daily_Real_Time,Spandex (Elastan),121
+SKU_000931,SHN03,Shoes,Daily_Real_Time,Cotone Misto,540
+SKU_000932,SHN03,Accessories,Daily_Real_Time,PU (Ecopelle),91
+SKU_000933,SHN06,Tops & Corsets,Daily_Real_Time,PU (Ecopelle),198
+SKU_000934,SHN04,Leggings,Daily_Real_Time,Acrilico,117
+SKU_000935,SHN01,Mini Dresses,Daily_Real_Time,Cotone Misto,172
+SKU_000936,SHN07,Mini Dresses,Daily_Real_Time,Poliestere Vergine,216
+SKU_000937,SHN04,Swimwear,Daily_Real_Time,Spandex (Elastan),150
+SKU_000938,SHN05,Tops & Corsets,Daily_Real_Time,Acrilico,113
+SKU_000939,SHN06,Swimwear,Daily_Real_Time,PU (Ecopelle),149
+SKU_000940,SHN01,Shoes,Daily_Real_Time,Poliestere Vergine,409
+SKU_000941,SHN05,Mini Dresses,Daily_Real_Time,Acrilico,203
+SKU_000942,SHN07,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,196
+SKU_000943,SHN01,Shoes,Daily_Real_Time,PU (Ecopelle),320
+SKU_000944,SHN07,Leggings,Daily_Real_Time,Cotone Misto,125
+SKU_000945,SHN06,Accessories,Daily_Real_Time,PU (Ecopelle),84
+SKU_000946,SHN07,Swimwear,Daily_Real_Time,Acrilico,104
+SKU_000947,SHN05,Accessories,Daily_Real_Time,PU (Ecopelle),38
+SKU_000948,SHN06,Leggings,Daily_Real_Time,Nylon,184
+SKU_000949,SHN03,Mini Dresses,Daily_Real_Time,Acrilico,234
+SKU_000950,SHN04,Swimwear,Daily_Real_Time,Spandex (Elastan),130
+SKU_000951,SHN04,Shoes,Daily_Real_Time,PU (Ecopelle),540
+SKU_000952,SHN07,Shoes,Daily_Real_Time,Spandex (Elastan),529
+SKU_000953,SHN07,Mini Dresses,Daily_Real_Time,Spandex (Elastan),194
+SKU_000954,SHN06,Swimwear,Daily_Real_Time,PU (Ecopelle),137
+SKU_000955,SHN04,Mini Dresses,Daily_Real_Time,Acrilico,175
+SKU_000956,SHN06,Swimwear,Daily_Real_Time,Acrilico,106
+SKU_000957,SHN05,Mini Dresses,Daily_Real_Time,PU (Ecopelle),173
+SKU_000958,SHN03,Mini Dresses,Daily_Real_Time,Acrilico,159
+SKU_000959,SHN06,Leggings,Daily_Real_Time,Acrilico,177
+SKU_000960,SHN06,Accessories,Daily_Real_Time,Acrilico,44
+SKU_000961,SHN06,Mini Dresses,Daily_Real_Time,Spandex (Elastan),162
+SKU_000962,SHN07,Tops & Corsets,Daily_Real_Time,Nylon,140
+SKU_000963,SHN03,Tops & Corsets,Daily_Real_Time,Acrilico,185
+SKU_000964,SHN06,Mini Dresses,Daily_Real_Time,Acrilico,181
+SKU_000965,SHN06,Mini Dresses,Daily_Real_Time,Poliestere Vergine,196
+SKU_000966,SHN03,Accessories,Daily_Real_Time,Spandex (Elastan),87
+SKU_000967,SHN01,Leggings,Daily_Real_Time,PU (Ecopelle),142
+SKU_000968,SHN05,Mini Dresses,Daily_Real_Time,Nylon,196
+SKU_000969,SHN01,Swimwear,Daily_Real_Time,Poliestere Vergine,116
+SKU_000970,SHN06,Tops & Corsets,Daily_Real_Time,Nylon,138
+SKU_000971,SHN04,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),164
+SKU_000972,SHN05,Shoes,Daily_Real_Time,Cotone Misto,388
+SKU_000973,SHN07,Shoes,Daily_Real_Time,Cotone Misto,558
+SKU_000974,SHN07,Leggings,Daily_Real_Time,Cotone Misto,107
+SKU_000975,SHN06,Leggings,Daily_Real_Time,Poliestere Vergine,129
+SKU_000976,SHN04,Shoes,Daily_Real_Time,Acrilico,333
+SKU_000977,SHN02,Accessories,Daily_Real_Time,Spandex (Elastan),61
+SKU_000978,SHN04,Mini Dresses,Daily_Real_Time,Spandex (Elastan),186
+SKU_000979,SHN04,Swimwear,Daily_Real_Time,PU (Ecopelle),148
+SKU_000980,SHN06,Shoes,Daily_Real_Time,Acrilico,388
+SKU_000981,SHN02,Leggings,Daily_Real_Time,Poliestere Vergine,140
+SKU_000982,SHN02,Leggings,Daily_Real_Time,Nylon,153
+SKU_000983,SHN03,Shoes,Daily_Real_Time,Cotone Misto,429
+SKU_000984,SHN03,Accessories,Daily_Real_Time,Spandex (Elastan),24
+SKU_000985,SHN07,Accessories,Daily_Real_Time,Nylon,39
+SKU_000986,SHN05,Leggings,Daily_Real_Time,Nylon,192
+SKU_000987,SHN05,Swimwear,Daily_Real_Time,PU (Ecopelle),100
+SKU_000988,SHN04,Shoes,Daily_Real_Time,Cotone Misto,516
+SKU_000989,SHN03,Mini Dresses,Daily_Real_Time,Acrilico,207
+SKU_000990,SHN05,Mini Dresses,Daily_Real_Time,Acrilico,167
+SKU_000991,SHN06,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),149
+SKU_000992,SHN07,Accessories,Daily_Real_Time,Cotone Misto,39
+SKU_000993,SHN07,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,109
+SKU_000994,SHN01,Tops & Corsets,Daily_Real_Time,Poliestere Vergine,131
+SKU_000995,SHN07,Mini Dresses,Daily_Real_Time,Cotone Misto,196
+SKU_000996,SHN01,Shoes,Daily_Real_Time,PU (Ecopelle),598
+SKU_000997,SHN05,Shoes,Daily_Real_Time,Acrilico,472
+SKU_000998,SHN06,Tops & Corsets,Daily_Real_Time,Spandex (Elastan),188
+SKU_000999,SHN01,Swimwear,Daily_Real_Time,Cotone Misto,82
