@@ -30,7 +30,7 @@ Key Insights & Analytics:
 The analysis highlights significant discrepancies between production scale and material efficiency.
 Global Performance: The heatmap reveals how some brands offset high production with a cleaner energy mix, while others show persistent criticalities across all metrics;
 Transparency Analysis: The Transparency Score reveals the reliability and verifiability of the environmental data declared by each brand.
-![Heatmap Performance][(04_Analytics_&_Viz/01_Global_Overview_&_Performance/Performance_Ambientale_HeatMap.png)](https://github.com/ElenaPiracci/fast-fashion-data-engineering/tree/main/04_Analytics_%26_Viz%3A/01_Global_Overview_%26_Performance)
+[(04_Analytics_&_Viz/01_Global_Overview_&_Performance/Performance_Ambientale_HeatMap.png)](https://github.com/ElenaPiracci/fast-fashion-data-engineering/tree/main/04_Analytics_%26_Viz%3A/01_Global_Overview_%26_Performance)
 How to Reproduce
 Clone the repository:
 git clone [https://github.com/ElenaPiracci/fast-fashion-data-engineering.git](https://github.com/ElenaPiracci/fast-fashion-data-engineering.git)
