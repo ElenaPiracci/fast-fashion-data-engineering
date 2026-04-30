@@ -9,7 +9,7 @@ Data Transformation (ETL): Advanced SQL (Stored Procedures, CTEs, Window Functio
 Data Visualization: Python (Seaborn & Matplotlib) for exploratory data analysis and performance heatmaps.
 Data Modeling (ER Schema):
 The database was designed following a Star Schema logic to optimize analytical queries. The architecture allows for seamless cross-referencing between production volumes, logistics facts, and material reference tables.
-![Database Schema](02_Data_Modeling/ER_Diagram.png)
+[![Database Schema](02_Data_Modeling/ER_Diagram.png)](https://github.com/ElenaPiracci/fast-fashion-data-engineering/blob/main/04_Analytics_%26_Viz%3A/01_Global_Overview_%26_Performance/Performance_Ambientale_HeatMap.png)
 Business Logic & Algorithms:
 The project implements modular SQL solutions to handle complex data engineering challenges:
 Unified Data Model
