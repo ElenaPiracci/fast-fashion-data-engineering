@@ -40,7 +40,7 @@ How to Reproduce
 Clone the repository:
 git clone [https://github.com/ElenaPiracci/fast-fashion-data-engineering.git](https://github.com/ElenaPiracci/fast-fashion-data-engineering.git)
 Setup Database: Execute the SQL scripts in the 03_SQL_Logic folder following the numerical order (01 to 04). This ensures functions and procedures are created before the analytical views.
-Analyze: Explore the visual results in the 04_Analytics_&_Viz/plots/directory.
+Analyze: Explore the visual results in the 04_Analytics_&_Viz/plots/ directory.
 Key Findings (Insights)
 Based on the generated analytics and visualizations, some key trends emerged:  
 Transparency Gap: There is a significant disparity in transparency scores between brands, with leaders like H&M scoring significantly higher than ultra-fast-fashion players like Shein.  
