@@ -35,7 +35,7 @@ Visual Insights & Reports:
 The final analysis is presented through interactive dashboards and a comprehensive technical report.
 **[Download the Full Technical Report (PDF)](05_Project_Report/Elena_Piracci_FastFashion_Project.pdf)**
 Key Insight: Logistics (specifically Air Cargo) and material choice are the primary drivers of carbon intensity in the analyzed supply chains.
-![Dashboard Preview](04_Analytics_&_Viz:/Dashboard_Co2.png)
+![Dashboard Preview](04_Analytics_&_Viz/Dashboard_Co2.png)
 How to Reproduce
 Clone the repository:
 git clone [https://github.com/ElenaPiracci/fast-fashion-data-engineering.git](https://github.com/ElenaPiracci/fast-fashion-data-engineering.git)
